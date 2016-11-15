@@ -14,7 +14,7 @@ THEN
 	ActionOverride(Player6,LeaveAreaLUA("va#mov","",[795.61],1))
 	MultiPlayerSync()
 	Wait(1)
-        CreateCreature("va#kergo",[505.683],10)
+	CreateCreature("va#kergo",[505.683],10)
 	CreateCreature("va#tian2",[759.380],7)
 	Explore()
 	FadeFromColor([20.0],0)
@@ -27,7 +27,7 @@ THEN
 	ActionOverride(Player5,MoveToPoint([778.270]))
 	ActionOverride(Player6,MoveToPoint([745.258]))
 	MoveToPoint([727.332])
-	Wait(2)
+	Wait(1)
 	ActionOverride("va#tian2",StartDialogueNoSet(Player1))
 	EndCutSceneMode()
 END

@@ -2,7 +2,7 @@ IF
    Global("VA#TianExists","GLOBAL",0)
 THEN
    RESPONSE #100
-            SetGlobal("VA#TianExists","GLOBAL",1)
-            CreateCreature("va#tian",[496.321],14)
-	    Continue()
+      SetGlobal("VA#TianExists","GLOBAL",1)
+      CreateCreature("va#tian",[496.321],14)
+      Continue()
 END

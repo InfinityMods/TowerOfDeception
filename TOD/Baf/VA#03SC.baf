@@ -4,7 +4,7 @@ THEN
   RESPONSE #100
     CutSceneId(Player1)
     Wait(2)
-    Multiplayersync()
+    MultiPlayerSync()
     ActionOverride("va#tian2",MoveToPoint([1243.759]))
     ActionOverride("va#tian2",DestroySelf())
     Wait(4)
@@ -17,7 +17,7 @@ THEN
     MoveToPoint([650.581])
     Wait(2)
     MoveToPoint([568.637])
-    Wait(1)
+    SmallWait(10)
     ActionOverride("va#kergo",StartDialogNoSet(Player1))
     EndCutSceneMode()
 END

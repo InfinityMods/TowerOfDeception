@@ -17,7 +17,7 @@ THEN
     FadeToColor([20.0],0)
     ClearAllActions()
     SetGlobal("VA#TowerTeleport","GLOBAL",2)
-    ActionOverride("va#pand1",DestroySelf())
+    ActionOverride("va#panda",DestroySelf())
     PlaySound("EFF_M28")
     Wait(1)
     MultiPlayerSync()

@@ -1,6 +1,6 @@
 BEGIN va#kergo
 
-IF ~NumTimesTalkedTo(0)~ THEN BEGIN FirstMeet // Party´s first meeeting with captain Kergo outside of Athkatla
+IF ~NumTimesTalkedTo(0)~ THEN BEGIN FirstMeet // Party's first meeting with captain Kergo outside of Athkatla
   SAY @0
   IF ~~ THEN GOTO 1
 END

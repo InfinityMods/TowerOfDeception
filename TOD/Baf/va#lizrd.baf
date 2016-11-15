@@ -197,8 +197,8 @@ IF
 	OR(4)
 		SpellCast([GOODCUTOFF],WIZARD_TRUE_SIGHT)
 		SpellCastPriest([GOODCUTOFF],CLERIC_TRUE_SIGHT)
-		SpellCastInnate([GOODCUTOFF],HELM_TRUE_SIGHT)
-		SpellCastInnate([GOODCUTOFF],INQUIS_TRUE_SIGHT)
+		SpellCast([GOODCUTOFF],HELM_TRUE_SIGHT)
+		SpellCast([GOODCUTOFF],INQUIS_TRUE_SIGHT)
 THEN
 	RESPONSE #100
 		SetGlobalTimer("PC_True_Sight","MYAREA",60)
@@ -4624,7 +4624,7 @@ IF
 		StateCheck(SixthNearest([PC]),RZ_STATE_DISABLED)
 		!CheckStat(SixthNearest([PC]),0,SANCTUARY)
                 StateCheck(SixthNearest([PC]),STATE_INVISIBLE)
-        OR(8)
+        OR(7)
 		RandomNumGT(30,15)
 		!Heard([ENEMY],101)
 		Range(LastHeardBy(Myself),0)
@@ -4632,7 +4632,7 @@ IF
 		!Range(LastAttackerOf(LastHeardBy(Myself)),20)
 		!CheckStat(LastAttackerOf(LastHeardBy(Myself)),0,SANCTUARY)
                 StateCheck(LastAttackerOf(LastHeardBy(Myself)),STATE_INVISIBLE)
-	OR(6)
+	OR(5)
 		RandomNumGT(34,17)
 		!See(LastAttackerOf(Myself))
 		!Range(LastAttackerOf(Myself),10)
