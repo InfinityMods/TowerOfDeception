@@ -1,0 +1,43 @@
+IF
+  OnCreation()
+  Global("VA#009StringMarilith","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#009StringMarilith","GLOBAL",1)
+             TriggerActivation("Tran0008",FALSE)
+             Wait(2)
+             DisplayStringHead("VA#MARIL",@7)
+END
+
+IF
+  Dead("VA#MARIL")
+  Global("VA#Spy1Spawn","VA#009",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#Spy1Spawn","VA#009",1)
+             CreateCreature("VA#SPY01",[296.337],1)
+END
+
+IF
+  Global("VA#Spyhit1","GLOBAL",1)
+  Global("VA#ShardDestroyed","GLOBAL",0)
+THEN
+    RESPONSE #100
+             ClearAllActions()
+             FadeToColor([20.0],0)
+             SetGlobal("VA#ShardDestroyed","GLOBAL",1)
+             TriggerActivation("Tran0008",TRUE)
+             ActionOverride("VA#SPY01",DestroySelf())
+             ActionOverride("VA#ASTSD",DestroySelf())
+             PlaySound("EFF_M28")
+             Wait(1)
+             MultiPlayerSync()
+             ActionOverride(Player1,LeaveAreaLUAPanic("VA#010","",[344.461],8))
+             ActionOverride(Player1,LeaveAreaLUA("VA#010","",[344.461],8))
+             ActionOverride(Player2,LeaveAreaLUA("VA#010","",[386.496],8))
+             ActionOverride(Player3,LeaveAreaLUA("VA#010","",[302.496],8))
+             ActionOverride(Player4,LeaveAreaLUA("VA#010","",[344.531],8))
+             ActionOverride(Player5,LeaveAreaLUA("VA#010","",[260.531],8))
+             ActionOverride(Player6,LeaveAreaLUA("VA#010","",[428.531],8))
+             ActionOverride(Player1,MultiPlayerSync())
+END

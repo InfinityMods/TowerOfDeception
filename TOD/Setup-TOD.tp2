@@ -1,0 +1,292 @@
+BACKUP ~TOD\Backup~
+AUTHOR ~Valiant (kiski@centrum.sk)~
+
+//ALWAYS
+//AT_INTERACTIVE_EXIT ~VIEW TOD/Readme-TOD.htm~
+//END
+
+AUTO_TRA ~TOD/Tra/%s~
+
+ALWAYS
+  // Borrowed from Edwin Romance: convert strings to UTF-8 for BGEE/BG2EE
+  //INCLUDE ~%MOD_FOLDER%/handle_charsets.tpa~ //no more needed
+
+  // No exception, everything needs to be converted
+  ACTION_DEFINE_ARRAY VA#noconvert BEGIN END
+
+  // Only setup-Innershade.tra needs to be reloaded
+  ACTION_DEFINE_ARRAY VA#reload BEGIN SETUP END
+
+  // There is no "language" folder so the root of all languages in %MOD_FOLDER%
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charset = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%/tra~
+      // charset_table = VA#charsets // Included for illustrative purposes.
+      noconvert_array = VA#noconvert
+      reload_array = VA#reload
+  END
+END
+
+
+LANGUAGE ~English~                                                        ~English~ ~TOD/Tra/English/setup.tra~  // Language Menu
+
+LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~TOD/Tra/Spanish/setup.tra~
+
+LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~TOD/Tra/Czech/setup.tra~
+
+LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~TOD/Tra/Russian/setup.tra~
+
+LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~TOD/Tra/Italian/setup.tra~
+
+LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~TOD/Tra/German/setup.tra~
+
+LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~TOD/Tra/French/setup.tra~
+
+LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~TOD/Tra/Polish/setup.tra~
+
+BEGIN @100
+//REQUIRE_FILE ~Data/25Dialog.bif~ @101 // ToB required
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+/////            Tower Of Deception Mod                \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+////////////////////////
+// Appending MASTAREA //
+////////////////////////
+
+APPEND ~MASTAREA.2da~ ~va#mov  value~
+APPEND ~MASTAREA.2da~ ~va#001  value~
+
+
+///////////////////
+// Copying Files //
+///////////////////
+
+COPY ~TOD/Are~ 		~override~
+COPY ~TOD/Bam~ 		~override~
+COPY ~TOD/Bmp~		~override~
+COPY ~TOD/Mos~		~override~
+COPY ~TOD/Spl~ 		~override~
+COPY ~TOD/Tis~		~override~
+COPY ~TOD/Wav~ 		~override~
+COPY ~TOD/Wed~ 		~override~
+
+////////////////////
+// Compiling Bafs //
+////////////////////
+
+APPEND ~State.ids~ ~0x8010202D RZ_STATE_DISABLED~   //helpless, stunned, sleeping, charmed, feeblemindnes, confusion, panic
+UNLESS ~0x8010202D RZ_STATE_DISABLED~
+
+APPEND ~State.ids~ ~0x49C08000 RZ_STATE_DISPEL~   //hasted, chant, mirror image, aid, bless, improved invisibility
+UNLESS ~0x49C08000 RZ_STATE_DISPEL~
+
+APPEND ~State.ids~ ~0x00000029 RZ_STATE_VULNERABLE~   //helpless, stunned, sleeping
+UNLESS ~0x00000029 RZ_STATE_VULNERABLE~
+
+APPEND ~State.ids~ ~0x00000FC0 STATE_REALLY_DEAD~
+UNLESS ~0x00000FC0 STATE_REALLY_DEAD~
+
+COPY_EXISTING ~damages.ids~ ~override~
+  REPLACE_TEXTUALLY ~^0x0001 \(.+\)$~
+~IDS V1.0
+0x0001 \1~
+  UNLESS ~^IDS V1\.0~
+
+APPEND ~Spell.ids~ ~4732 HELM_TRUE_SIGHT~
+UNLESS ~4732 HELM_TRUE_SIGHT~
+
+APPEND ~Spell.ids~ ~2302 WIZARD_REMOVE_MAGIC~
+UNLESS ~2302 WIZARD_REMOVE_MAGIC~
+
+COMPILE ~TOD/Baf~
+
+/////////////////////////////
+// Extending Existing Bafs //
+/////////////////////////////
+
+PRINT @102
+
+EXTEND_TOP ~ar0021.bcs~ ~TOD/AppendBaf/ar0004.baf~
+EXTEND_TOP ~ar0004.bcs~ ~TOD/AppendBaf/ar0004.baf~
+
+///////////////////////
+// Compiling Dialogs //
+///////////////////////
+
+COMPILE ~TOD/Dialog~
+
+///////////////////
+// Copying Items //
+///////////////////
+
+COPY ~TOD/Itm/va#book.itm~     ~override/va#book.itm~
+  SAY NAME1 @200
+  SAY NAME2 @201
+  SAY UNIDENTIFIED_DESC @202
+  SAY DESC @203
+
+COPY ~TOD/Itm/va#calan.itm~    ~override/va#calan.itm~
+  SAY NAME2 @300
+  SAY DESC @301
+
+COPY ~TOD/Itm/va#hring.itm~    ~override/va#hring.itm~
+COPY ~TOD/Itm/va#iring.itm~    ~override/va#iring.itm~
+COPY ~TOD/Itm/va#gring.itm~    ~override/va#gring.itm~
+COPY ~TOD/Itm/va#lich.itm~     ~override/va#lich.itm~
+COPY ~TOD/Itm/rzdispch.itm~    ~override/rzdispch.itm~
+COPY ~TOD/Itm/rzseeinv.itm~    ~override/rzseeinv.itm~
+
+///////////////////////
+// Copying Creatures //
+///////////////////////
+
+COPY ~TOD/Cre/copy~            ~override~
+
+COPY ~TOD/Cre/va#astsd.cre~    ~override/va#astsd.cre~
+  SAY NAME1 @400
+  SAY NAME2 @400
+
+COPY ~TOD/Cre/va#balor.cre~    ~override/va#balor.cre~
+  SAY NAME1 @401
+  SAY NAME2 @401
+
+COPY ~TOD/Cre/va#gulin.cre~    ~override/va#gulin.cre~
+  SAY NAME1 @403
+  SAY NAME2 @404
+
+COPY ~TOD/Cre/va#kergo.cre~    ~override/va#kergo.cre~
+  SAY NAME1 @405
+  SAY NAME2 @405
+
+COPY ~TOD/Cre/va#lich.cre~     ~override/va#lich.cre~
+  SAY NAME1 @406
+  SAY NAME2 @406
+
+COPY ~TOD/Cre/va#maril.cre~    ~override/va#maril.cre~
+  SAY NAME1 @407
+  SAY NAME2 @407
+
+COPY ~TOD/Cre/va#panda.cre~    ~override/va#panda.cre~
+  SAY NAME1 @408
+  SAY NAME2 @408
+
+COPY ~TOD/Cre/va#guli2.cre~    ~override/va#guli2.cre~
+  SAY NAME1 @403
+  SAY NAME2 @404
+
+COPY ~TOD/Cre/va#prisn.cre~    ~override/va#prisn.cre~
+  SAY NAME1 @409
+  SAY NAME2 @409
+
+COPY ~TOD/Cre/va#ghost.cre~    ~override/va#ghost.cre~
+  SAY NAME1 @410
+  SAY NAME2 @410
+
+COPY ~TOD/Cre/va#shd01.cre~    ~override/va#shd01.cre~
+  SAY NAME1 @411
+  SAY NAME2 @411
+
+COPY ~TOD/Cre/va#shdgl.cre~    ~override/va#shdgl.cre~
+  SAY NAME1 @412
+  SAY NAME2 @412
+
+COPY ~TOD/Cre/va#tian2.cre~    ~override/va#tian2.cre~
+  SAY NAME1 @413
+  SAY NAME2 @413
+
+COPY ~TOD/Cre/va#tian.cre~     ~override/va#tian.cre~
+  SAY NAME1 @413
+  SAY NAME2 @413
+
+COPY ~TOD/Cre/va#wiste.cre~    ~override/va#wiste.cre~
+  SAY NAME1 @414
+  SAY NAME2 @414
+
+COPY ~TOD/Cre/va#zom01.cre~    ~override/va#zom01.cre~
+  SAY NAME1 @415
+  SAY NAME2 @415
+
+COPY ~TOD/Cre/va#zom02.cre~    ~override/va#zom02.cre~
+  SAY NAME1 @415
+  SAY NAME2 @415
+
+COPY ~TOD/Cre/va#zom03.cre~    ~override/va#zom03.cre~
+  SAY NAME1 @415
+  SAY NAME2 @415
+
+COPY ~TOD/Cre/va#zomgl.cre~    ~override/va#zomgl.cre~
+  SAY NAME1 @415
+  SAY NAME2 @415
+
+COPY ~TOD/Cre/va#spy01.cre~    ~override/va#spy01.cre~
+COPY ~TOD/Cre/va#spy02.cre~    ~override/va#spy02.cre~
+
+////////////////////////
+// EE JOURNAL ENTRIES //
+////////////////////////
+
+ACTION_IF FILE_EXISTS_IN_GAME ~neera10.cre~ THEN BEGIN
+ADD_JOURNAL @17 @18 @19  USING ~TOD/Tra/%LANGUAGE%/Setup.tra~
+END
+
+
+////////////////////////
+// Movie Installation //
+////////////////////////
+
+PRINT @103
+
+PRINT @104
+
+AT_NOW ~TOD/MovieInstall.bat~
+
+PRINT @105
+
+AT_INTERACTIVE_UNINSTALL ~TOD/MovieUninstall.bat~
+
+////////////////////////////////////
+// Improved Astral Shard Guardian //
+////////////////////////////////////
+
+BEGIN @106
+REQUIRE_FILE ~override/va#tod.nul~ @107 // TOD required
+
+COMPILE ~TOD/ImpASG/va#maril.baf~   ~override/va#maril.bcs~
+
+////////////////////////////
+// Encounter with Ustrain //
+////////////////////////////
+
+BEGIN @108
+REQUIRE_FILE ~override/va#tod.nul~ @107 // TOD required
+
+EXTEND_TOP ~baldur.BCS~ ~TOD\Ustrain2\baldur.BAF~
+EXTEND_TOP ~baldur25.BCS~ ~TOD\Ustrain2\baldur.BAF~
+
+COMPILE ~TOD/Ustrain2/va#011.baf~
+COMPILE ~TOD/Ustrain2/VA#12sc.baf~
+COMPILE ~TOD/Ustrain2/va#TELE2.baf~
+COMPILE ~TOD/Ustrain2/va#ustrn.baf~
+COMPILE ~TOD/Ustrain2/va#fplan.baf~
+COMPILE ~TOD/Ustrain2/va#gitfm.baf~
+COPY ~TOD/Ustrain2/va#gitfm.cre~    ~override/va#gitfm.cre~
+COPY ~TOD/Ustrain2/va#gitf1.cre~    ~override/va#gitf1.cre~
+COPY ~TOD/Ustrain2/va#gitf2.cre~    ~override/va#gitf2.cre~
+COPY ~TOD/Ustrain2/va#ustrn.cre~    ~override/va#ustrn.cre~ // Ustrain
+  SAY NAME1 @416
+  SAY NAME2 @416
+COPY ~TOD/Ustrain2/va#otsph.spl~    ~override/va#otsph.spl~
+COPY ~TOD/Ustrain2/va#staf1.spl~    ~override/va#staf1.spl~
+COPY ~TOD/Ustrain2/va#staf2.spl~    ~override/va#staf2.spl~
+
+COMPILE ~TOD/Ustrain2/VA#ustrn.d~
+
+//eof

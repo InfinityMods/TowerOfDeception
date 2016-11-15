@@ -1,0 +1,111 @@
+IF
+  OnCreation()
+  Global("VA#DryadsCreated","GLOBAL",0)
+THEN
+    RESPONSE #100
+             CreateCreature("va#wiste",[244.416],11)
+             CreateCreature("va#panda",[333.477],10)
+             CreateCreature("va#spy02",[311.424],11)
+             SetGlobal("VA#DryadsCreated","GLOBAL",1)
+END
+
+IF
+  Global("VA#Spyhit2","GLOBAL",1)
+  Global("VA#006Scena","GLOBAL",0)
+  !Dead("va#wiste")
+  !Dead("va#panda")
+THEN
+    RESPONSE #100
+             SetGlobal("VA#006Scena","GLOBAL",1)
+             ActionOverride("VA#SPY02",DestroySelf())
+             ClearAllActions()
+             StartCutSceneMode()
+             SmallWait(5)
+             FadeToColor([20.0],0)
+             SmallWait(5)
+             TakeItemReplace("RING11","VA#HRING","va#wiste")
+             TakeItemReplace("RING11","VA#IRING","va#wiste")
+             TakeItemReplace("RING11","VA#IRING","va#panda")
+             TriggerActivation("Portal",FALSE)
+             TriggerActivation("Tran0005",FALSE)
+             SmallWait(10)
+             FadeFromColor([20.0],0)
+             Wait(1)
+             ActionOverride("VA#WISTE",StartDialogueNoSet(Player1))
+             EndCutSceneMode()
+END
+
+IF
+  Global("VA#006Scena","GLOBAL",1)
+  Dead("va#wiste")
+  !Dead("va#panda")
+THEN
+    RESPONSE #100
+             SetGlobal("VA#006Scena","GLOBAL",2)
+             ClearAllActions()
+             StartCutSceneMode()
+             SmallWait(5)
+             FadeToColor([20.0],0)
+             SmallWait(5)
+             TakeItemReplace("RING11","VA#HRING","va#panda")
+             TriggerActivation("Portal",TRUE)
+             TriggerActivation("Tran0005",TRUE)
+             SmallWait(10)
+             FadeFromColor([20.0],0)
+             Wait(1)
+             DisplayStringNoName("Tran0005",@8)
+             Wait(1)
+             ActionOverride("VA#PANDA",StartDialogueNoSet(Player1))
+             EndCutSceneMode()
+END
+
+IF
+   Dead("va#wiste")
+   Dead("va#panda")
+   Global("VA#006Scena","GLOBAL",1)
+   Global("VA#PandaDead","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#006Scena","GLOBAL",2)
+             SetGlobal("VA#PandaDead","GLOBAL",1)
+             ClearAllActions()
+             TriggerActivation("Portal",TRUE)
+             TriggerActivation("Tran0005",TRUE)
+             DisplayStringHead(Player1,@5)
+             Wait(1)
+             DisplayStringNoName("Tran0005",@8)
+END
+
+IF
+  Dead("va#wiste")
+  !Dead("va#panda")
+  Global("VA#006Scena","GLOBAL",0)
+  Global("VA#OnePrisonerKilled","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#OnePrisonerKilled","GLOBAL",1)
+             DisplayStringHead(Player1,@4)
+END
+
+IF
+  !Dead("va#wiste")
+  Dead("va#panda")
+  Global("VA#006Scena","GLOBAL",0)
+  Global("VA#OnePrisonerKilled","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#OnePrisonerKilled","GLOBAL",1)
+             DisplayStringHead(Player1,@4)
+END
+
+IF
+  Dead("va#wiste")
+  Dead("va#panda")
+  Global("VA#006Scena","GLOBAL",0)
+  Global("VA#BothPrisonersKilled","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#BothPrisonersKilled","GLOBAL",1)
+             DisplayStringHead(Player1,@5)
+END
+

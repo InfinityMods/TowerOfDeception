@@ -1,0 +1,17 @@
+IF
+   True()
+THEN
+   RESPONSE #100
+	CutSceneId(Player1)
+	Wait(2)
+	CreateVisualEffect("SPDIMNDR",[498.321])
+	Wait(2)
+	FadeToColor([20.0],0)
+	Wait(1)
+	ActionOverride("va#tian",DestroySelf())
+	MultiPlayerSync()
+	Wait(1)
+        FadeFromColor([30.0],0)
+        SmallWait(3)
+        EndCutSceneMode()
+END

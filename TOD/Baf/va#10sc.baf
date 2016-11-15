@@ -1,0 +1,24 @@
+IF
+   True()
+THEN
+   RESPONSE #100
+	CutSceneId(Player1)
+	Wait(1)
+	FadeToColor([20.0],0)
+	Wait(2)
+	ActionOverride("va#kergo",DestroySelf())
+	MultiPlayerSync()
+        LeaveAreaLUAPanic("AR0021","",[553.368],6)
+	LeaveAreaLUA("AR0021","",[553.368],6)
+	ActionOverride(Player2,LeaveAreaLUA("AR0021","",[615.361],6))
+	ActionOverride(Player3,LeaveAreaLUA("AR0021","",[549.413],6))
+	ActionOverride(Player4,LeaveAreaLUA("AR0021","",[581.438],6))
+	ActionOverride(Player5,LeaveAreaLUA("AR0021","",[646.396],6))
+	ActionOverride(Player6,LeaveAreaLUA("AR0021","",[635.436],6))
+        MultiPlayerSync()
+        Wait(1)
+        FadeFromColor([30.0],0)
+        Wait(1)
+        ActionOverride("VA#TIAN",StartDialogueNoSet(Player1))
+       	EndCutSceneMode()
+END

@@ -1,0 +1,50 @@
+@0    = ~Ahhhh...~
+@1    = ~Ahhhhh, enfin...~
+@2    = ~Enfin j'ai recouvré ma liberté... Bon, plus ou moins.~
+@3    = ~Cette sorcière, Wistemach, me retenait prisonnière, mais elle est morte, je présume... Oui, oui, elle est forcément morte, sinon je serais encore en train de dormir...~
+@4    = ~Et vu qu'il n'y a personne d'autre ici, je suppose que c'est vous qui l'avez tuée, n'est-ce pas ?~
+@5    = ~Merci à vous, voyageur, merci, qui que vous soyez. J'ai été retenue bien trop longtemps dans ce redoutable piège...~
+        ~Merci à vous, voyageuse, merci, qui que vous soyez. J'ai été retenue bien trop longtemps dans ce redoutable piège...~
+@6    = ~Il n'y a pas de quoi. Je suis <CHARNAME>. Et vous êtes... ?~
+@7    = ~Oh, je suis désolée, j'ai failli oublier. Je suis Pandaira, une dryade. Je suis persuadée que vous en avez déjà rencontrée.~
+@8    = ~Oui, c'est exact. Mais ça n'a pas d'importance. Ce qui est important, c'est de savoir ce que vous faites dans un tel endroit.~
+@9    = ~Disons juste que j'étais venue pour une affaire personnelle dans cette tour abandonnée, il y a bien longtemps. Mais maintenant... Eh bien... Tout cela est bel et bien fini...~
+@10   = ~Cependant, pour vous récompenser de m'avoir libérée de la domination de Wistemach, je pourrais vous fournir certaines informations dont vous aurez besoin. Mmmm ?~
+@11   = ~Vous m'écoutez attentivement à présent ?~
+@12   = ~Autant que faire se peut...~
+@13   = ~Très bien. Tout d'abord, une question. Vous êtes venu ici pour ce livre, n'est-ce pas ?~
+        ~Très bien. Tout d'abord, une question. Vous êtes venue ici pour ce livre, n'est-ce pas ?~
+@14   = ~Effectivement. Mais comment savez-vous que...~
+@15   = ~Ben, tous ceux qui entrent dans cette tour le veulent. C'est le seul objet de valeur qu'elle contient. Tout le reste est bon à jeter.~
+@16   = ~Vous n'êtes pas le premier et, si vous mourez, vous ne serez pas le dernier. Toutefois je peux vous aider à l'obtenir.~
+        ~Vous n'êtes pas la première et, si vous mourez, vous ne serez pas la dernière. Toutefois je peux vous aider à l'obtenir.~
+@17   = ~Assez bavardé. Si vous détenez vraiment de précieuses informations, alors donnez-les-moi.~
+@18   = ~D'accord, d'accord. Le livre que vous recherchez est le livre de sorts d'Ustrain et il renferme une magie très puissante.~
+@19   = ~Le livre a été verrouillé magiquement par Ustrain, au cas où quelqu'un le déroberait. Seul un magicien hautement qualifié peut briser ses sceaux, donc cela ne servirait à rien d'essayer si vous n'êtes pas suffisamment compétent.~
+        ~Le livre a été verrouillé magiquement par Ustrain, au cas où quelqu'un le déroberait. Seul un magicien hautement qualifié peut briser ses sceaux, donc cela ne servirait à rien d'essayer si vous n'êtes pas suffisamment compétente.~
+@20   = ~Le livre lui-même n'est ni caché, ni protégé par quoi que ce soit d'autre. Il se trouve dans la chambre d'Ustrain, dans un des étages supérieurs, celui juste au-dessous de la pièce qui contient l'Eclat Astral. Mais pour atteindre cet endroit... C'est une tout autre histoire.~
+@21   = ~Vous devez traverser les souterrains de la tour, où les autres prisonniers sont retenus, ou plutôt "stockés"... Il y aura des gardes, j'en suis certaine. Et souvenez-vous bien de ceci : seule la mort du fidèle serviteur d'Ustrain peut vous téléporter dans les niveaux supérieurs de la tour... C'est tout ce que je sais.~
+@22   = ~Qui est ce fidèle serviteur ?~
+@23   = ~Je n'en ai aucune idée. Tout ce que je sais, c'est qu'il protège "la Lame", une épée ou quelque chose dans ce genre...~
+@24   = ~Bon, merci pour vos renseignements. Peut-être me serviront-ils.~
+@25   = ~Une dernière chose : vous devez également détruire l'Eclat Astral, qui se trouve au niveau le plus haut de la tour. Il ne peut être détruit que par un grand feu. Et il est également protégé par un gardien. L'éclat Astral ne peut être détruit tant que son gardien est en vie.~
+@26   = ~Quand vous aurez détruit l'Eclat Astral, son pouvoir refluera dans le plan astral et sa toile disparaîtra. Après cela la voie du retour sera libre : toutes les portes seront déverrouillées. Tous les prisonniers seront libérés, par la même occasion.~
+@27   = ~Merci encore. Je vais tenter ma chance. Adieu.~
+@28   = ~Que la Lumière vous guide. Adieu, voyageur. Peut-être nous rencontrerons-nous à nouveau.~
+        ~Que la Lumière vous guide. Adieu, voyageuse. Peut-être nous rencontrerons-nous à nouveau.~
+@29   = ~Battez-vous bien, <RACE>, j'espère que vous réussirez, car il faut absolument faire quelque chose...~
+@30   = ~Tour sans retour - Pandaira délivrée
+
+Bien que j'aie libéré les deux dryades, l'une d'entre elles, Wistemach, m'a pris pour un serviteur d'Ustrain et m'a attaqué. Il m'a fallu la tuer. L'autre, Pandaira, a été plus reconnaissante. Il semble qu'elle était sous le contrôle de Wistemach et qu'elle était tombée dans une sorte de piège. Elle est à nouveau libre maintenant. En remerciement, elle m'a appris que le livre de sorts d'Ustrain se trouvait dans sa chambre dans un des niveaux supérieurs et que pour m'échapper de la tour, il me faudrait atteindre l'étage le plus haut, tuer le gardien de l'Eclat Astral et détruire l'Eclat Astral lui-même. Elle a dit que l'Eclat Astral ne peut être détruit que par "un grand feu".~
+        ~Tour sans retour - Pandaira délivrée
+
+Bien que j'aie libéré les deux dryades, l'une d'entre elles, Wistemach, m'a pris pour un serviteur d'Ustrain et m'a attaquée. Il m'a fallu la tuer. L'autre, Pandaira, a été plus reconnaissante. Il semble qu'elle était sous le contrôle de Wistemach et qu'elle était tombée dans une sorte de piège. Elle est à nouveau libre maintenant. En remerciement, elle m'a appris que le livre de sorts d'Ustrain se trouvait dans sa chambre dans un des niveaux supérieurs et que pour m'échapper de la tour, il me faudrait atteindre l'étage le plus haut, tuer le gardien de l'Eclat Astral et détruire l'Eclat Astral lui-même. Elle a dit que l'Eclat Astral ne peut être détruit que par "un grand feu".~
+
+@31  = ~Bien sûr. Et qui êtes-vous ?~
+@32  = ~Comment vous êtes-vous retrouvée emprisonnée ainsi ?~
+@33  = ~Oui, de quoi s'agit-il ?~
+@34  = ~C'est exact.~
+@35  = ~Pourriez-vous en venir au fait s'il vous plaît, madame ?~
+@36  = ~Comment puis-je tuer ce serviteur?~
+@37  = ~Autre chose ?~
+@38  = ~Au revoir.~

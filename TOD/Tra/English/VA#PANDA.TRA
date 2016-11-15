@@ -1,0 +1,42 @@
+@0    = ~Ahhhh...~
+@1    = ~Ahhhhh, at last...~
+@2    = ~At last, I have my freedom again... Well, relatively.~
+@3    = ~That witch, Wistemach, kept me as her prisoner, but she is dead, I suppose... Yes, yes, she must be dead, otherwise I would still be sleeping...~
+@4    = ~And because there is no one else around, I assume you are the one who killed her, correct?~
+@5    = ~Thank you, traveller, thank you, whoever you are. I have been caught in this powerful snare for too long...~
+@6    = ~You are welcome. I am <CHARNAME>. And you are?~
+@7    = ~Oh, I am sorry, I nearly forgot. I am Pandaira, a dryad. I am sure you have seen my kind before.~
+@8    = ~Yes, I have. But that's not important. What's important is understanding what you doing in this place.~
+@9    = ~Let's just say I had business of my own in this forsaken tower a long time ago. But now... well... it´s gone...~
+@10   = ~Still, as a reward for setting me free from Wistemach's reign, I might just tell you some information you'll need. Hmmm?~
+@11   = ~Do I have your attention now?~
+@12   = ~Perfectly focused...~
+@13   = ~Very well then. First of all, one question. You came for that book, didn't you?~
+@14   = ~Indeed. But how do you know I...~
+@15   = ~Bah, everyone who enters the tower wants it. It is the only valuable thing in this place. Everything else is just rubbish.~
+@16   = ~You're not the first one, and if you die, you won't be the last. I can help you to get it, however.~
+@17   = ~Enough babbling. If you really have some valuable information, then speak it.~
+@18   = ~Alright, alright. The book you are looking for is Ustrain's Book of Spells, and it contains some very powerful magic.~
+@19   = ~The book is magically locked by Ustrain, in case somebody steals it. Only a highly skilled mage can break its seals, so if you are not experienced enough, it would be pointless for you to try.~
+@20   = ~The book itself is neither hidden nor protected by anything else. It is located in Ustrain's bedroom in one of the top floors, the one below the Astral Shard's room. But to get there... that is another story entirely.~
+@21   = ~You must go through the tower's cave, where the remaining prisoners are kept, or "stored"... They will be guarded, I am sure. And remember this: only the death of Ustrain's faithful servant can teleport you to the upper floors... That's all I know.~
+@22   = ~Who is this faithful servant?~
+@23   = ~That is beyond me. The only thing I know is that he's protecting "the Blade", a sword, or something like that...~
+@24   = ~Well, thank you for that. Mayhap I'll find it useful.~
+@25   = ~One last thing: you must also destroy the Astral Shard, located in the tower's top floor. It can be destroyed only by a great fire. And it is also protected by the Astral Shard guardian. The Astral Shard can't be destroyed while its guardian remains alive.~
+@26   = ~When you do destroy the Astral Shard its power will flow back to the Astral Plane, and the web will disappear. After that your way back home will be clear: all doors will be unlocked. All of the prisoners will be freed, as well.~
+@27   = ~Thank you again. Now I am going to take my chances. Farewell.~
+@28   = ~May the Light guide you. Farewell, traveller. Perhaps we will meet again.~
+@29   = ~Fight well, <RACE>, I hope you will do something, because something has to be done...~
+@30   = ~Tower of Deception - Pandaira rescued
+
+Although I set both frozen dryads free, one of them, Wistemach, took me for Ustrain's servant and attacked. I was forced to kill her. The other one, Pandaira, was quite grateful. It seems that Wistemach controlled her, and that she was in a snare of some sort. Now she has her freedom again. As a reward, she told me that Ustrain's spellbook was located in his bedroom on one of the top floors, and that to get out, I shall have to get to the top floor, kill the Astral Shard's guardian, and destroy the Astral Shard itself. She mentioned that it can only be destroyed "by a great fire".~
+
+@31  = ~Of course. And who are you?~
+@32  = ~How did you end up imprisoned like this?~
+@33  = ~Yes, so what is it?~
+@34  = ~I did.~
+@35  = ~Would you please get to the point, lady?~
+@36  = ~How do I kill this servant?~
+@37  = ~Anything else?~
+@38  = ~Goodbye.~

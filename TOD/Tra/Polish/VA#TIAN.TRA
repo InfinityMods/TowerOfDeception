@@ -1,0 +1,94 @@
+@0    = ~Hej ty, podejdŸ tu na moment. Jestem Tian, i proszê, poœwiêæ mi choæ ma³¹ chwilkê i pos³uchaj co mam do zaoferowania.~
+@1    = ~S³ysza³em co nieco o twoich wyczynach. Widzê, ¿e jesteœ uzdolniony i naprawdê twardy, potrafisz poradziæ sobie ze wszystkim co przyniesie ci los. Dok³adnie ktoœ taki jest mi potrzebny.~ ~S³ysza³em co nieco o twoich wyczynach. Widzê, ¿e jesteœ uzdolniona i naprawdê twarda, potrafisz poradziæ sobie ze wszystkim co przyniesie ci los. Dok³adnie ktoœ taki jest mi potrzebny.~
+@2    = ~Có¿, dok³adnie taki jestem. Czego ode mnie potrzebujesz?~
+@3    = ~Nie interesuj¹ mnie twoje pochlebstwa, ale chêtnie wys³ucham co masz do powiedzenia.~
+@4    = ~Trochê o mnie wiesz, nie obchodzi mnie to. Móc co mi chcesz zaproponowaæ i lepiej siê z tym poœpiesz.~
+@5    = ~Zdecydowanie to nie ja. ¯egnaj.~
+@6    = ~Z pewnoœci¹ rozumiesz, ¿e ¿yjemy w niebezpiecznych czasach, w których trzeba czasem stawiaæ bardzo ryzykowne kroki. W³aœnie dlatego ciê potrzebujê.~
+@7    = ~Reprezentujê spo³eczeñstwo magów z poza Athkatli. Mamy pewien problem, z którym nie mo¿emy siê uporaæ.~
+@8    = ~PrzejdŸmy jednak do rzeczy. Niedaleko od granic Athkatli znajduje siê opuszczona wie¿a, zwana Wie¿¹ Oszustwa. Zosta³a zbudowana przez znanego dawniej maga Ustraina, dziœ ju¿ dawno zapomnianego przez wszystkich. Nie bêdê ci wiêcej mówi³, bo to naprawdê nie jest istotne. To czego potrzebujê, to ¿ebyœ poszed³ do tej wie¿y i przyniós³ mi pewn¹ ksiêgê. Ksiêgê Czarów Ustraina. Do tego ciê w³aœnie potrzebujê, <CHARNAME>.~ ~PrzejdŸmy jednak do rzeczy. Niedaleko od granic Athkatli znajduje siê opuszczona wie¿a, zwana Wie¿¹ Oszustwa. Zosta³a zbudowana przez znanego dawniej maga Ustraina, dziœ ju¿ dawno zapomnianego przez wszystkich. Nie bêdê ci wiêcej mówi³, bo to naprawdê nie jest istotne. To czego potrzebujê, to ¿ebyœ posz³a do tej wie¿y i przynios³a mi pewn¹ ksiêgê. Ksiêgê Czarów Ustraina. Do tego ciê w³aœnie potrzebujê, <CHARNAME>.~
+@9    = ~Otrzymasz spore wynagrodzenie. Odpowiednie dla kogoœ o twoim statucie. 5000 sztuk z³ota, jeœli przyniesiesz mi t¹ ksiêgê. Bêdziesz móg³ zatrzymaæ wszystko inne co tam znajdziesz. Muszê ciê jednak ostrzec, ¿e kiedy tylko podejmiesz siê tego zadania, nie bêdzie ju¿ dla ciebie odwrotu, dopóki go nie skoñczysz...~ ~Otrzymasz spore wynagrodzenie. Odpowiednie dla kogoœ o twoim statucie. 5000 sztuk z³ota, jeœli przyniesiesz mi t¹ ksiêgê. Bêdziesz mog³a zatrzymaæ wszystko inne co tam znajdziesz. Muszê ciê jednak ostrzec, ¿e kiedy tylko podejmiesz siê tego zadania, nie bêdzie ju¿ dla ciebie odwrotu, dopóki go nie skoñczysz...~
+@10   = ~5000? To¿ to ogromne pieni¹dze za zwyk³e poszukiwanie ksi¹¿ki!~
+@11   = ~Dlaczego wybra³eœ akurat mnie? Za takie pieni¹dze móg³byœ wynaj¹æ ka¿dego.~
+@12   = ~Podejmujê siê zadania. Gdzie jest ta wie¿a i kiedy mam tam iœæ?~
+@13   = ~Us³ysza³em ju¿ dostatecznie du¿o, nie interesuje mnie to. ¯egnaj.~ ~Us³ysza³am ju¿ dostatecznie du¿o, nie interesuje mnie to. ¯egnaj.~
+@14   = ~To nie jest du¿e obci¹¿enie dla mojej spo³ecznoœci. Zawsze dobrze p³acimy za jakoœæ us³ugi. Bêdziesz zadowolony z pracy dla mnie, zapewniam ciê.~ ~To nie jest du¿e obci¹¿enie dla mojej spo³ecznoœci. Zawsze dobrze p³acimy za jakoœæ us³ugi. Bêdziesz zadowolona z pracy dla mnie, zapewniam ciê.~
+@15   = ~Oh, chyba nie przyrównujesz siê do zwyk³ych najemników? Ja potrzebujê kogoœ z finezj¹, z umiejêtnoœciami, równie¿ silnego i wytrwa³ego. Ty jesteœ idealny.~ ~Oh, chyba nie przyrównujesz siê do zwyk³ych najemników? Ja potrzebujê kogoœ z finezj¹, z umiejêtnoœciami, równie¿ silnego i wytrwa³ego. Ty jesteœ idealna.~
+@16   = ~Dobrze. Dokona³eœ s³usznego wyboru...~ ~Dobrze. Dokona³aœ s³usznego wyboru...~
+@17   = ~Mój najbardziej zaufany ¿eglarz czeka na ciebie niedaleko granicy Athkatli. Zabiorê ciê tam. Pamiêtaj, od tamtego miejsca bêdziesz ju¿ sam<HESHE>. Kiedy zakoñczysz misjê, wróæ do mnie. Nie mam cienia w¹tpliwoœci, ¿e twoja praca bêdzie doskonale wykonana. Jeœli wszystko dobre pójdzie, oboje otrzymamy to na co zas³u¿yliœmy. Có¿, wie¿a czeka...~
+@18   = ~Dokona³eœ wyboru, a oferta wci¹¿ czeka niezale¿nie czy pójdziesz czy nie.~ ~Dokona³aœ wyboru, a oferta wci¹¿ czeka niezale¿nie czy pójdziesz czy nie.~
+@19   = ~Jak sobie ¿yczysz. ¯egnaj.~
+@20   = ~Ah, wróci³eœ. Mogê ci z³o¿yæ ponownie moj¹ ofertê??~ ~Ah, wróci³aœ. Mogê ci z³o¿yæ ponownie moj¹ ofertê??~
+@21   = ~Zmieni³em zdanie. Opowiedz ponownie jaka jest twoja propozycja?~ ~Zmieni³am zdanie. Opowiedz ponownie jaka jest twoja propozycja?~
+@22   = ~Nie, nie jestem zainteresowany. Tylko siê rozgl¹dam. ¯egnaj.~ ~Nie, nie jestem zainteresowana. Tylko siê rozgl¹dam. ¯egnaj.~
+@23   = ~Ah, wiêc jednak wróci³eœ. I co? Zmieni³eœ swoje zdanie?~ ~Ah, wiêc jednak wróci³aœ. I co? Zmieni³aœ swoje zdanie?~
+@24   = ~Tak.~
+@25   = ~Nie, nie jestem zainteresowany. Tylko siê rozgl¹dam. ¯egnaj.~ ~Nie, nie jestem zainteresowana. Tylko siê rozgl¹dam. ¯egnaj.~
+@26   = ~Œwietnie. Powiedzia³em ci ju¿ wszystko wczeœniej, teraz tylko powiem kilka s³ów...~
+@27   = ~Szkoda, ¿e tak zadecydowa³eœ. Oboje wiele byœmy na tym zyskali... ¯egnaj.~ ~Szkoda, ¿e tak zadecydowa³aœ. Oboje wiele byœmy na tym zyskali... ¯egnaj.~
+@28   = ~I co? Chcesz to dla mnie zrobiæ czy nie? Szybko, odpowiadaj.~
+@29   = ~Tak, wchodzê w to. Mogê zacz¹æ nawet teraz.~
+@30   = ~Nie, nie jestem zainteresowany. ZnajdŸ kogoœ innego. Trzymaj siê.~ ~Nie, nie jestem zainteresowana. ZnajdŸ kogoœ innego. Trzymaj siê.~
+@31   = ~W koñcu wróci³eœ. Widzê, ¿e masz ksiêgê. Daj mi j¹, w koñcu dla ciebie jest bezu¿yteczna.~ ~W koñcu wróci³aœ. Widzê, ¿e masz ksiêgê. Daj mi j¹, w koñcu dla ciebie jest bezu¿yteczna.~
+@32   = ~Dobrze, weŸ j¹. I daj mi moje wynagrodzenie...~
+@33   = ~Byæ mo¿e teraz jest dla mnie bezu¿yteczna. Lecz mo¿e w przysz³oœci moje zdolnoœci rozwin¹ siê na tyle, ¿e bêdê móg³ z³amaæ jej pieczêcie. Nie dam ci jej wiêc.~ ~Byæ mo¿e teraz jest dla mnie bezu¿yteczna. Lecz mo¿e w przysz³oœci moje zdolnoœci rozwin¹ siê na tyle, ¿e bêdê mog³a z³amaæ jej pieczêcie. Nie dam ci jej wiêc.~
+@34   = ~Dobrze, dobrze. Proszê, oto ono. Tylko nie wydaj wszystkiego od razu... A zreszt¹. Trzymaj siê i do zobaczenia.~
+@35   = ~Dziêkujê. Bywaj zdrów.~
+@36   = ~Nie baw siê ze mn¹, <CHARNAME>. Nie jestem w dobrym nastroju. Daj mi j¹ natychmiast. Zawarliœmy umowê!~
+@37   = ~Nie. Jak powiedzia³em, wolê j¹ zatrzymaæ.~ ~Nie. Jak powiedzia³am, wolê j¹ zatrzymaæ.~
+@38   = ~Nie dajesz mi innego wyboru. Bêdê zmuszony zabraæ ci to si³¹. Przygotuj siê na œmieræ!~
+@39   = ~Co z was za g³upcy, ¿e oœmielacie siê wracaæ tutaj bez ksiêgi?! Czy to w ogóle mo¿liwe? Trzeba ci tam by³o zostaæ ni¿ wracaæ z pustymi rêkoma!!~
+@40   = ~Wie¿a Oszustwa - Podró¿ do opuszczonej wie¿y
+
+Zosta³em wynajêty przez maga imieniem Tian w celu przeszukania wie¿y zwanej Wie¿¹ Oszustw, znajduj¹cej sie na po³udniowy zachód od granic Amn. Mam zdobyæ dla niego jak¹œ star¹ ksiêgê. Nigdy nie s³ysza³em o takiej wie¿y, zgodzi³em siê na wspó³pracê gdy¿ zaoferowa³ mi 5000 sztuk z³ota nagrody. Poszukiwa³ on do zadania kogoœ obdarzonego "si³¹, finezj¹ i umiejêtnoœciami", czyli wed³ug tego co powiedzia³, w³aœnie mnie.~ ~Wie¿a Oszustwa - Podró¿ do opuszczonej wie¿y
+
+Zosta³am wynajêta przez maga imieniem Tian w celu przeszukania wie¿y zwanej Wie¿¹ Oszustw, znajduj¹cej sie na po³udniowy zachód od granic Amn. Mam zdobyæ dla niego jak¹œ star¹ ksiêgê. Nigdy nie s³ysza³am o takiej wie¿y, zgodzi³am siê na wspó³pracê gdy¿ zaoferowa³ mi 5000 sztuk z³ota nagrody. Poszukiwa³ on do zadania kogoœ obdarzonego "si³¹, finezj¹ i umiejêtnoœciami", czyli wed³ug tego co powiedzia³, w³aœnie mnie.~
+@41   = ~Wie¿a Oszustwa - Z powrotem w Athkatli
+
+W koñcu wydosta³em siê z wie¿y i dostarczy³em ksiêgê Tianowi. Bardzo siê ucieszy³ i da³ mi obiecane 5000 sztuk z³ota. "OSTRZE", które teraz posiadam jest ju¿ wystarczaj¹c¹ nagrod¹. Tak czy inaczej, mogê teraz dalej kontynuowaæ moje podró¿e. Tyle ich czeka na mnie...~ ~Wie¿a Oszustwa - Z powrotem w Athkatli
+
+W koñcu wydosta³am siê z wie¿y i dostarczy³em ksiêgê Tianowi. Bardzo siê ucieszy³ i da³ mi obiecane 5000 sztuk z³ota. "OSTRZE", które teraz posiadam jest ju¿ wystarczaj¹c¹ nagrod¹. Tak czy inaczej, mogê teraz dalej kontynuowaæ moje podró¿e. Tyle ich czeka na mnie...~
+@42   = %Wie¿a Oszustwa - Podró¿ do opuszczonej wie¿y
+
+Zosta³em wynajêty przez maga imieniem Tian w celu przeszukania wie¿y zwanej Wie¿¹ Oszustw, znajduj¹cej sie na po³udniowy zachód od granic Amn. Mam zdobyæ dla niego jak¹œ star¹ ksiêgê. Nigdy nie s³ysza³em o takiej wie¿y, zgodzi³em siê na wspó³pracê gdy¿ zaoferowa³ mi 5000 sztuk z³ota nagrody. Poszukiwa³ on do zadania kogoœ obdarzonego "si³¹, finezj¹ i umiejêtnoœciami", czyli wed³ug tego co powiedzia³, w³aœnie mnie.% % Wie¿a Oszustwa - Podró¿ do opuszczonej wie¿y
+
+Zosta³am wynajêta przez maga imieniem Tian w celu przeszukania wie¿y zwanej Wie¿¹ Oszustw, znajduj¹cej sie na po³udniowy zachód od granic Amn. Mam zdobyæ dla niego jak¹œ star¹ ksiêgê. Nigdy nie s³ysza³am o takiej wie¿y, zgodzi³am siê na wspó³pracê gdy¿ zaoferowa³ mi 5000 sztuk z³ota nagrody. Poszukiwa³ on do zadania kogoœ obdarzonego "si³¹, finezj¹ i umiejêtnoœciami", czyli wed³ug tego co powiedzia³, w³aœnie mnie.%
+@43   = %Wie¿a Oszustwa - Zasadzka Morskich Zombie
+
+Kapitan Kergo przywióz³ nas bezpiecznie na wyspê, jednak jak tylko zeszliœmy na l¹d, wpadliœmy w zasadzkê morskich zombie. Choæ wy³oni³y siê z nik¹d, nie stanowi³y dla nas powa¿nego zagro¿enia. Jest jednak coœ co mnie trapi o wiele bardziej, mo¿e to tylko moje fantazje, jednak ogromna, góruj¹ca nad wysp¹, wie¿a zdaje siê nas bacznie obserwowaæ... Nie czujê siê tutaj za dobrze. Jak tylko znajdê t¹ ksi¹¿kê, natychmiast opuszczê to miejsce....%
+@44   = %Wie¿a Oszustwa - Œmieræ Balora
+
+Pokona³em stra¿nika wie¿y, Balora. Myœla³, ¿e przyby³em go zabiæ z zemsty z powodu czynów, których dokona³ dawno temu. Choæ nie taki by³ mój cel, nie by³o ¿adnej drogi ku porozumieniu, zmuszony wiêc by³em go zabiæ. Po krótkiej potyczce dosta³ to na co zas³u¿y³.
+W³aœnie odkry³em, ¿e wszystkie drzwi frontowe s¹ zamkniête. Muszê znaleŸæ jakieœ inne wyjœcie.% %Wie¿a Oszustwa - Œmieræ Balora
+
+Pokona³am stra¿nika wie¿y, Balora. Myœla³, ¿e przyby³am go zabiæ z zemsty z powodu czynów, których dokona³ dawno temu. Choæ nie taki by³ mój cel, nie by³o ¿adnej drogi ku porozumieniu, zmuszona wiêc by³am go zabiæ. Po krótkiej potyczce dosta³ to na co zas³u¿y³.
+W³aœnie odkry³am, ¿e wszystkie drzwi frontowe s¹ zamkniête. Muszê znaleŸæ jakieœ inne wyjœcie.%
+@45   = %Wie¿a Oszustwa - Uwiêziony kap³an
+
+Spotka³em Gulina, uwiêzionego w tej wie¿y od dobrego miesi¹ca kap³an Fharlenghamna. Opowiedzia³ mi o Astralnym Krysztale, wielkim kamieniu wytwarzaj¹cym wokó³ siebie sieæ niepozwalaj¹c¹ nikomu na opuszczenie jej. Powiedzia³ on równie¿, ¿e to Astralny Kryszta³ zamkn¹³ wszystkie drzwi wyjœciowe. Dopóki Kryszta³ nie zostanie zniszczony, ucieczka z wie¿y jest niemo¿liwa.
+Gulin wspomnia³ równie¿ o umiejscowionych piêtro wy¿ej zamro¿onych driadach. Byæ mo¿e bêdê móg³ je uwolniæ, choæ nie wiem jeszcze w jaki sposób. Rzucê na to okiem i zobaczê co da siê zrobiæ...% %Wie¿a Oszustwa - Uwiêziony kap³an
+
+Spotka³am Gulina, uwiêzionego w tej wie¿y od dobrego miesi¹ca kap³an Fharlenghamna. Opowiedzia³ mi o Astralnym Krysztale, wielkim kamieniu wytwarzaj¹cym wokó³ siebie sieæ niepozwalaj¹c¹ nikomu na opuszczenie jej. Powiedzia³ on równie¿, ¿e to Astralny Kryszta³ zamkn¹³ wszystkie drzwi wyjœciowe. Dopóki Kryszta³ nie zostanie zniszczony, ucieczka z wie¿y jest niemo¿liwa.
+Gulin wspomnia³ równie¿ o umiejscowionych piêtro wy¿ej zamro¿onych driadach. Byæ mo¿e bêdê mog³a je uwolniæ, choæ nie wiem jeszcze w jaki sposób. Rzucê na to okiem i zobaczê co da siê zrobiæ...%
+@46   = %Wie¿a Oszustwa - Uratowanie Pandairy
+
+Có¿, po uwolnieniu dwóch driad, jedna z nich, Wistemach nie s³ucha³a co mia³em do powiedzenia. Myœla³a, ¿e jestem jednym ze s³ug Ustraina, chc¹cych uwiêziæ j¹ ponownie. By³em zmuszony j¹ zabiæ, nie da³a mi innego wyboru. Druga driada, Pandaira, by³a za to bardzo wdziêczna. Wistmach musia³a mieæ nad ni¹ kontrolê, najwyraŸniej by³a uwiêziona w jakichœ magicznych sid³ach. Teraz jest znowu wolna. Wynagrodzi³a mnie mówi¹c mi, gdzie mogê znaleŸæ ksiêgê, które szukam, oraz opowiedzia³a mi jak znaleŸæ i zniszczyæ Astralny Kryszta³.%
+@47   = %Wie¿a Oszustwa - Ostateczna Walka
+
+Wygl¹da na to, ¿e teraz, kiedy ju¿ mam "OSTRZE", a S³uga jest ju¿ martwy, zosta³em przeniesiony do sypialni Ustraina. Pozosta³o mi ju¿ tylko pozbyæ siê stra¿nika Astralnego Kryszta³u oraz zniszczyæ sam artefakt. Nie bêdzie to najprostsze...% %Wie¿a Oszustwa - Ostateczna Walka
+
+Wygl¹da na to, ¿e teraz, kiedy ju¿ mam "OSTRZE", a S³uga jest ju¿ martwy, zosta³am przeniesiona do sypialni Ustraina. Pozosta³o mi ju¿ tylko pozbyæ siê stra¿nika Astralnego Kryszta³u oraz zniszczyæ sam artefakt. Nie bêdzie to najprostsze...%
+@48   = ~Wie¿a Oszustwa - Z powrotem w Athkatli
+
+W koñcu uda³o mi siê wyjœæ z tej przeklêtej wie¿y i dostarczyæ ksiêgê Tianowi, jednak zdecydowa³em w koñcu zachowaæ ksiêgê dla siebie. Kiedy rozmawia³em o tym z Tianem, ten zaraz siê zdenerwowa³ i natychmiast mnie zaatakowa³. Jego œmieræ jakoœ mnie nie usatysfakcjonowa³a... Tak czy inaczej, mogê teraz dalej kontynuowaæ moje podró¿e. Tyle ich czeka na mnie...~ ~Wie¿a Oszustwa - Z powrotem w Athkatli
+
+W koñcu uda³o mi siê wyjœæ z tej przeklêtej wie¿y i dostarczyæ ksiêgê Tianowi, jednak zdecydowa³am w koñcu zachowaæ ksiêgê dla siebie. Kiedy rozmawia³am o tym z Tianem, ten zaraz siê zdenerwowa³ i natychmiast mnie zaatakowa³. Jego œmieræ jakoœ mnie nie usatysfakcjonowa³a... Tak czy inaczej, mogê teraz dalej kontynuowaæ moje podró¿e. Tyle ich czeka na mnie...~
+@49   = ~Wie¿a Oszustwa - Z powrotem w Athkatli
+
+Uda³o mi siê w koñcu opuœciæ t¹ cholern¹ wie¿ê i powróciæ do Tiana. Nie wygl¹da³ na zadowolonego z faktu, ¿e nie by³em w posiadaniu po¿¹danej przez niego ksiêgi. Nie dosta³em ¿adnego wynagrodzenia i muszê jeszcze uwa¿aæ by siê nie natkn¹æ wiêcej na rozwœcieczonego maga. Tak czy inaczej, mogê teraz dalej kontynuowaæ moje podró¿e. Tyle ich czeka na mnie...~ ~Wie¿a Oszustwa - Z powrotem w Athkatli
+
+Uda³o mi siê w koñcu opuœciæ t¹ cholern¹ wie¿ê i powróciæ do Tiana. Nie wygl¹da³ na zadowolonego z faktu, ¿e nie by³am w posiadaniu po¿¹danej przez niego ksiêgi. Nie dosta³am ¿adnego wynagrodzenia i muszê jeszcze uwa¿aæ by siê nie natkn¹æ wiêcej na rozwœcieczonego maga. Tak czy inaczej, mogê teraz dalej kontynuowaæ moje podró¿e. Tyle ich czeka na mnie...~
+@50   = ~Tak, tak, jak chcesz.~
+@51   = ~Och, w porz¹dku. Proszê. Gdzie moja nagroda?~
+@52   = ~Œmiesz mówiæ o ksiêdze? Omal przez ni¹ nie zgin¹³em!~ ~Œmiesz mówiæ o ksiêdze? Omal przez ni¹ nie zginê³am!~
+@53   = ~Tak, by³em œwiadom niebezpieczeñstwa, choæ wola³em zachowaæ to dla siebie. Przyznajê, obawia³em siê, ¿e jeœli ciê ostrzegê, to odmówisz mi pomocy. Tym bardziej zas³u¿y³eœ sobie na nagrodê, nie uwa¿asz? A teraz, proszê o ksiêgê.~ ~Tak, by³em œwiadom niebezpieczeñstwa, choæ wola³em zachowaæ to dla siebie. Przyznajê, obawia³em siê, ¿e jeœli ciê ostrzegê, to odmówisz mi pomocy. Tym bardziej zas³u¿y³aœ sobie na nagrodê, nie uwa¿asz? A teraz, proszê o ksiêgê.~
