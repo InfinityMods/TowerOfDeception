@@ -1,9 +1,0 @@
-IF
-  Global("VA#005GulinFirstSpeak","GLOBAL",0)
-THEN
-    RESPONSE #100
-             SetGlobal("VA#005GulinFirstSpeak","GLOBAL",1)
-             SmallWait(10)
-             ActionOverride("va#gulin",StartDialogueNoSet(Player1))
-END
-

@@ -1,9 +1,0 @@
-IF
-  Dead("VA#MARIL")
-  HitBy([PC],FIRE)
-  Global("VA#Spyhit1","GLOBAL",0)
-THEN
-  RESPONSE #100
-    SetGlobal("VA#Spyhit1","GLOBAL",1)
-    DestroySelf()
-END

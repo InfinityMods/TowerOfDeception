@@ -1,8 +1,0 @@
-IF
-  Dead("VA#BALOR")
-  Global("VA#BaloarDead","GLOBAL",0)
-THEN
-    RESPONSE #100
-             SetGlobal("VA#BaloarDead","GLOBAL",1)
-             AddJournalEntry(@18,QUEST)
-END
