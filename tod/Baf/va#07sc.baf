@@ -1,0 +1,15 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    MoveViewPoint([2817.1070],STANDARD)
+    CreateVisualEffect("SPRAISED",[2817.1070])
+    SmallWait(2)
+    CreateVisualEffect("SPFLESHS",[2817.1070])
+    Wait(3)
+    CreateCreature("VA#LICH",[2817.1070],12)
+    Wait(1)
+    ActionOverride("VA#LICH",StartDialogueNoSet(Player1))
+    EndCutSceneMode()
+END

@@ -1,0 +1,43 @@
+@0  = ~Ahhhh...~
+@1  = ~Ahhhhh, por fin...~
+@2  = ~Por fin vuelvo a ser libre... más o menos~
+@3  = ~Esa bruja, Wistemach, me tenía prisionero, pero supongo que ha muerto... sí, sí, tiene que haber muerto, porque si no yo seguiría dormida...~
+@4  = ~Y, teniendo en cuenta que no hay nadie más por aquí, asumo que la habéis matado vosotros, ¿no?~
+@5  = ~Gracias, viajero, quienquiera que seas. Llevaba demasiado tiempo en esta trampa.~ ~Gracias, viajera, quienquiera que seas. Llevaba demasiado tiempo en esta trampa.~
+@6  = ~De nada. Soy <CHARNAME>. ¿Y tú?~
+@7  = ~Oh, perdón, casi se me olvidó. Soy Pandaira, una dríada. Estoy segura de que no soy la primera que ves.~
+@8  = ~No, no lo eres, pero eso no viene al caso. Lo importante es ¿qué haces aquí?~
+@9  = ~Bueno, eso tampoco viene al caso. Digamos que, hace tiempo, yo también buscaba algo en esta torre olvidada. Ahora ya no están aquí.~
+@10 = ~Pero a cambio de mi liberación, quizá te cuente algo de información que te vendrá bien.~
+@11 = ~¿Me estás escuchando?~
+@12 = ~Por supuesto.~
+@13 = ~Perfecto. Empecemos con una pregunta. Vienes por el libro, ¿no?~
+@14 = ~Sí, pero... ¿cómo sabías qué...~
+@15 = ~Bah, es lo que buscan todos los que entran a la torre. Es lo único que vale algo en el lugar, lo demás es inútil.~
+@16 = ~No eres el primero y, si mueres, no serás el último. Puedo ayudarte a conseguirlo. No gano nada con ello, te lo prometo.~ ~No eres la primera y, si mueres, no serás la última. Puedo ayudarte a conseguirlo. No gano nada con ello, te lo prometo.~
+@17 = ~De acuerdo, basta de charlas inútiles. Si de verdad tienes información útil cuéntamela, y si no acabemos con esto.~
+@18 = ~Está bien, está bien. El libro que buscas es el libro de conjuros de Ustrain, que contiene conjuros muy poderosos.~
+@19 = ~Ustrain protegió este libro con magia para asegurarse de que nadie lo robara. Sólo un mago hábil puede romper los sellos, así que si no eres lo bastante bueno, no merece la pena que lo intentes.~ ~Ustrain protegió este libro con magia para asegurarse de que nadie lo robara. Sólo un mago hábil puede romper los sellos, así que si no eres lo bastante buena, no merece la pena que lo intentes.~
+@20 = ~El libro no tiene ninguna otra protección. Se encuentra en el dormitorio de Ustrain en uno de los pisos superiores, debajo de la habitación del fragmento astral. Pero llegar hasta allí es otra historia.~
+@21 = ~Debes atravesar las cuevas de la torre, donde están 'almacenados' el resto de los prisioneros. Estoy seguro de que habrá defensas. Y recuerda esto: sólo la muerte del fiel sirviente de Ustrain te llevará a los pisos superiores. No sé nada más.~
+@22 = ~¿Quién es este sirviente?~
+@23 = ~No lo sé, pero sé que está protegiendo la Espada, un arma, supongo...~
+@24 = ~Bueno, gracias, quizá sea información útil.~
+@25 = ~Por último, debes destruir el fragmento astral, situado en el último piso de la torre. Sólo puede ser quemado en un gran fuego, y está protegido por un guardián que, mientras siga vivo, impedirá su destrucción.~
+@26 = ~Al hacer esto, el poder del fragmento astral volverá al plano Astral y su red desaparecerá. Entonces podrás volver a casa, y las puertas se abrirán. Además, todos los prisioneros serán libres.~
+@27 = ~Gracias por todo. Ahora voy a intentarlo...~
+@28 = ~Que la luz te guíe. Adiós, viajero. Quizá volvamos a encontrarnos.~ ~Que la luz te guíe. Adiós, viajera. Quizá volvamos a encontrarnos.~
+@29 = ~Lucha bien, <RACE>. Confío en que lo lograrás, porque esto no puede seguir así...~
+@30 = ~Torre del Engaño - El rescate de Pandaira
+
+Aunque liberé a las dríadas congeladas, una de ellas, Wistemach, me confundió con un sirviente de Ustrain y me atacó. Me vi obligado a matarla. La otra, Pandaira, se mostró agradecida. Parecía que Wistemach la controlaba y que estaba atrapada de alguna manera. Ahora vuelve a ser libre. Como recompensa, me dijo que el libro de Ustrain se encontraba en su habitación en uno de los pisos de arriba, y que para conseguir subir a ese piso tendría que matar al guardián del Fragmento Astral y destruir el Fragmento Astral también. Mencionó que sólo puede ser destruido por "un gran fuego".~ ~Torre del Engaño - El rescate de Pandaira
+
+Aunque liberé a las dríadas congeladas, una de ellas, Wistemach, me confundió con un sirviente de Ustrain y me atacó. Me vi obligada a matarla. La otra, Pandaira, se mostró agradecida. Parecía que Wistemach la controlaba y que estaba atrapada de alguna manera. Ahora vuelve a ser libre. Como recompensa, me dijo que el libro de Ustrain se encontraba en su habitación en uno de los pisos de arriba, y que para conseguir subir a ese piso tendría que matar al guardián del Fragmento Astral y destruir el Fragmento Astral también. Mencionó que sólo puede ser destruido por "un gran fuego".~
+@31 = ~Desde luego. ¿Quién eres?~
+@32 = ~¿Como acabaste en esta prisión?~
+@33 = ~Sí. ¿Y bien?~
+@34 = ~Así fue.~
+@35 = ~¿Podría ir al grano, señora?~
+@36 = ~¿Cómo mato a este sirviente?~
+@37 = ~¿Algo más?~
+@38 = ~Adiós.~

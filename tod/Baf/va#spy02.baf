@@ -1,0 +1,15 @@
+IF
+  HitBy([PC],FIRE)
+  Global("VA#Spyhit2","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("VA#Spyhit2","GLOBAL",1)
+    DestroySelf()
+END
+
+IF
+  Global("VA#BothPrisonersKilled","GLOBAL",1)
+THEN
+  RESPONSE #100
+    DestroySelf()
+END

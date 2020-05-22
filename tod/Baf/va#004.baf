@@ -1,0 +1,19 @@
+IF
+  OnCreation()
+  Global("VA#004BlockedPath","GLOBAL",0)
+THEN
+    RESPONSE #100
+             TriggerActivation("Tran0005",FALSE)
+             SetGlobal("VA#004BlockedPath","GLOBAL",1)
+END
+
+IF
+  Global("OrbTrapOff","VA#004",2)
+  Global("VA#004UnlockingPath","GLOBAL",0)
+THEN
+    RESPONSE #100
+             Wait(1)
+             DisplayStringNoName("Tran0005",@3)
+             TriggerActivation("Tran0005",TRUE)
+             SetGlobal("VA#004UnlockingPath","GLOBAL",1)
+END

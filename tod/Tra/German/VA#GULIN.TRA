@@ -1,0 +1,40 @@
+@0    = ~Haltet ein, Ihr da. Ich habe Euch kommen hören, daher nehme ich an, dass ihr diese nervigen Schatten dort unten erledigt habt.~
+@1    = ~Ja, ich wusste von ihnen. Aber ich konnte sie nicht alleine besiegen, daher beobachtete ich sie von den Treppen aus.~
+@2    = ~Ich hatte nicht den Mut, nach unten zu gehen und sie konnten nicht zu mir hinauf kommen. Ich weiss aber nicht, warum.~
+@3    = ~Aber wie ich sehe, hat es endlich jemand geschafft, sie zu ihrer ewigen Ruhe zu schicken. Oh, beinahe hätte ich meine Manieren vergessen...~
+@4    = ~Gulin ist mein Name. Wie ist Euer Name?~
+@5    = ~Freut mich, ich werde <CHARNAME> genannt. Was macht Ihr hier so allein in diesem Turm? Wenn es erlaubt ist zu fragen...~
+@6    = ~Mein Name ist nicht wichtig und Eurer interessiert mich auch nicht. Jetzt würde ich mich gerne wieder auf meinen Weg machen. Wiedersehen.~
+@7    = ~Ich bin ein Kleriker von Fharlenghamn, müsst Ihr wissen. Ich wurde hier gefangen, als ich versuchte, einen Teleportationszauber auszusprechen. Das war vor einem Monat. Seit diesem Zeitpunkt bin ich hier gefangen und kann nicht entkommen, weil der Astralsplitter aktiv ist. Wenn ich versuche, zu teleportieren, lande ich immer wieder hier. Die Eingangstüren sind natürlich auch alle verschlossen. So arbeitet der Astralsplitter.~
+@8    = ~Ich benutzte Zaubersprüche, um Nahrung und Wasser zu erschaffen, aber Ihr werdet sicher einsehen, dass ich das nicht ewig machen kann.~
+@9    = ~Wie Ihr sehen könnt, habe ich noch meine gesamte Ausrüstung bei mir. Denn ich wurde hier gefangen, lange nachdem Ustrain gegangen war. Wenn er noch hier und am Leben wäre, hätte ich meine Sachen kaum noch...~
+@10   = ~Ich glaube, dieser Raum war für die Gefangenen gedacht. Sie lebten hier, bis Ustrain sie für seine Zwecke benutzte. Wenn sich hier noch andere Gefangene befunden haben, dann sind sie entweder verschwunden, tot, oder irgendwo anders gefangen.~
+@11   = ~In der Tat. Ihr erwähntet den "Astralsplitter"? Tian hat nichts davon erwähnt, dass sich so etwas hier befinden könnte. Was ist das für ein Ding? Eine Art Maschine oder so etwas?~
+@12   = ~Ihr sagtet, Ihr seid den letzten Monat hier gewesen. Habt Ihr Euch auch die oberen Stockwerke angesehen?~
+@13   = ~Wiedersehen.~
+@14   = ~Maschine? Nein. Ich habe ihn nicht mit meinen eigenen Augen gesehen, weil ich nicht im oberen Stockwerk war, wo er sich befindet. Aber ich habe viel von Astralsplittern und Kristallen gehört. Diese grossen Kristalle wurden einst von der astralen Ebene entwendet. Sie können ein Teleportationsnetz generieren und aufrecht erhalten, bis sie zerstört oder zurückgeschickt werden. Werden sie an einen anderen Ort gebracht, dann bauen sie dort ihr Netz auf.~
+@15   = ~So viel ich weiss, hat Ustrain einen dieser Kristalle von der astralen Ebene gestohlen. Ich kann mir nicht vorstellen, wie er das gemacht hat...~
+@16   = ~Wenn Ihr vorhaben solltet, ihn zu zerstören, dann seid gewarnt! Denn er wird gut bewacht. Ich habe meine zweifel daran, dass Ustrain ihn unbewacht gelassen hat.~
+@17   = ~Das könnte sich als nützlich erweisen. Was ist mit den oberen Stockwerken? Wart Ihr schon einmal dort?~
+@18   = ~In Ordnung, ich habe genug gehört. Ich werde sehen, was ich tun kann. Vielleicht kann ich diesen Astralsplitter zerstören. Wenn ich Erfolg haben sollte, dann könnt Ihr endlich aus diesem Gefängnis entkommen. Vielleicht werden wir uns dann eines Tages wieder treffen...~
+@19   = ~Ja, aber ich war nur in dem Stockwerk, das über diesem liegt. Ich hatte nicht den Mut, noch einmal zu teleportieren. Ja, Stufen gibt es da keine, nur teleportieren ist möglich.~
+@20   = ~Da oben sind auch noch zwei Frauen, beide eingefroren vom Astralsplitter. Sie sehen wie Dryaden oder etwas ähnliches aus. Da sie gefroren sind, sind sie natürlich auch sehr zerbrechlich. Man könnte sie mit einer Waffe zerschlagen, aber das magische Eis macht sie gegen einige Sprüche immun, wie ich festgestellt habe. Vielleicht könnt Ihr sie ja befreien, aber ich weiss nicht wie, denn ich habe es nicht versucht.~
+@21   = ~Ich verstehe. Und was ist mit dem Astralsplitter, den Ihr vorher erwähnt hattet? Tian, der Magier, der mich hergesandt hatte, hat nichts von ihm erwähnt. Was ist das für ein Ding? Eine Art Maschine oder so etwas?~
+@22   = ~Danke, ich habe genug gehört. Ich werde sehen, was ich tun kann. Vielleicht kann ich diesen Astralsplitter zerstören. Wenn ich Erfolg haben sollte, dann könnt Ihr endlich aus diesem Gefängnis entkommen. Vielleicht werden wir uns dann eines Tages wieder treffen...~
+@23   = ~Ich danke Euch. Ich hoffe, Ihr werdet Erfolg haben, denn ich möchte nicht für immer hier bleiben. Mögen die Götter mit Euch sein.~
+@24   = ~Was? Habt Ihr Eure Meinung geändert??~
+@25   = ~Ja, das habe ich. Ich kenne Euch schon, aber sagt mir, was Ihr hier eigentlich macht?~
+@26   = ~Nein, ich sehe mich nur etwas hier um. Auf wiedersehen.~
+@27   = ~Möge Helm über Euch wachen. Ich vertraue darauf, dass Ihr das Richtige tut...~
+@28   = ~Der Turm der Täuschung - Ein gefangener Kleriker
+
+Ich habe Gulin getroffen, einen Kleriker von Fharlenghamn, der hier seit einem Monat gefangen ist. Er sprach von einem grossen Kristall, dem Astralsplitter, der ein unsichtbares Teleportationsnetz generiert, welches uns alle gefangen hält. Er erwähnte ebenfalls, dass der Astralsplitter auch der Grund ist, warum alle Eingangstüren verschlossen wurden. Nur wenn der Astralsplitter zerstört wird, ist eine Flucht möglich.
+Er sprach ebenfalls vom einigen eingefrorenen Dryaden, die sich im oberen Stockwerk befinden sollen. Vielleicht kann ich sie befreien, doch die Frage ist, wie. Ich glaube, ich werde mir das ansehen und sehen, was ich tun kann...~
+
+@29   = ~Könntet Ihr mir mehr über diesen Turm erzählen?~
+@30   = ~Über den Turm? Na gut. Ich glaube, ich habe während meiner Gefangenschaft genug in Erfahrung bringen können und dieses Wissen könnte nützlich für Euch sein.~
+@31   = ~Als der böse Githyanki Magier Ustrain diesen Turm hier vor vielen Jahren erbaute, wusste er noch nicht, dass die Seeleute das Licht seines magischen Astralsplitters missverstehen würden. Das Licht brachte sehr vielen Seeleuten Verderben.~
+@32   = ~Aber Ustrain scherte sich nicht darum. Er lachte nur über ihre Notlage und setzte seine ruchlose Arbeit fort. Er benutzte die Macht des Astralsplitters, um Kreaturen und Reisende mittles Teleportation zu kidnappen... so wie er auch mich gefangennahm.~
+@33   = ~Trotzdem erschienen eines Tages seine eigenen Leute, um Ustrain wieder auf seine  heimatliche Astralebene zu holen. Seither wurde er nie wieder gesehen.~
+@34   = ~Doch dieser Turm blieb erhalten. Nicht nur, dass er ahnungslose Seeleute in nebligen Nächten täuscht, die Magie des Astralsplitters setzt Ustrains böse Entführungspläne sogar noch fort.~
+@35   = ~Ursprünglich beraubte und versklavte Ustrain die Opfer, die der Splitter ihm lieferte. Aber als der Githyanki weg war, waren die verbliebenen Opfer in diesen Turm gefangen, bis sie entweder einen Ausweg finden konnten oder starben. Ihr werdet sehr vorsichtig sein müssen, wenn Ihr nicht wollt, dass Euch das gleiche Schicksal ereilt.~

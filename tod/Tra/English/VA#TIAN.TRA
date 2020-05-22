@@ -1,0 +1,87 @@
+@0    = ~Could I have a moment of your time? I am Tian. I need someone to carry out a difficult and dangerous task for me, and I deem few to be capable of performing it.~
+@1    = ~You, however, look capable indeed. I now see that the rumors of your deeds have not been exaggerated.~
+@2    = ~Certainly, I shall help. What needs to be done?~
+@3    = ~Speak out. I will listen, though I promise nothing.~
+@4    = ~Flattery will get you nowhere.~
+@5    = ~Excuse me, I have to go.~
+@6    = ~I represent a mage who resides outside of Athkatla. He requires a certain item. A spellbook.~
+@7    = ~But right to the point. There is an abandoned tower off the coast of Amn, called the Tower of Deception. It was built by Ustrain, a mage known long ago, now forgotten. I will not tell you anything else, since it is not likely to help you in your task.~
+@8    = ~All I need is somebody to do a little searching inside and bring me a book. Ustrain's book of spells. I need you, <CHARNAME>.~
+@9    = ~There is a hefty reward for you. Five thousand gold, and you may keep anything else you find in there. However, I must warn you. Once you accept the job, there is no way back until it is finished...~
+@10   = ~Five thousand? Why not fifty? I do not believe you.~
+@11   = ~I do not know. I have a feeling you are not telling me something.~
+@12   = ~You have a deal. Where is this tower and when should I go?~
+@13   = ~I've heard enough, but I'm not interested. Farewell.~
+@14   = ~It is a small price for my master, and a fair price for the task. Rest assured, you will be rewarded.~
+@15   = ~I have told you everything you will need to complete the task. Once inside, you will discover the rest.~
+@16   = ~Good. My master will be pleased.~
+@17   = ~My most trusted captain awaits you on his ship at a secluded bay not far from here. I'll take you there. Remember, from that point you're on your own. When finished, return to me. Now, come: the Tower awaits...~
+@18   = ~Whether you depart now or later, the offer will stand. I would prefer that you complete the task soon, however.~
+@19   = ~As you wish. Farewell.~
+@20   = ~Ah, you have returned. Have you changed your mind?~
+@21   = ~I have indeed changed my mind. Tell me about your offer again.~
+@22   = ~No, not interested. Just checking around. Farewell.~
+@23   = ~Ah, you have returned. What? You've changed your decision again?~
+@24   = ~Yes, I have.~
+@25   = ~No, still not interested. Just checking around. Farewell.~
+@26   = ~Very well. I assume you are ready to go, then.~
+@27   = ~A pity, that. Farewell.~
+@28   = ~So? Are you willing to do it or not? Speak quickly.~
+@29   = ~Yes, I am in. I can start immediately.~
+@30   = ~No, at least not right now. You will have to find somebody else.~
+@31   = ~Finally, you're back! I see that you have the book. Now give it to me: after all, it is useless to you.~
+@32   = ~Right, here it is. Take it, and give me my promised payment.~
+@33   = ~It is useless to me now. But in the future, my skills will increase, and I am sure I will be able to break the seals then. So, no, I will not give it to you.~
+@34   = ~Certainly. Here it is, as promised. Please, accept my sincere thanks. You have proven yourself worthy, and a trustworthy ally, as well. Farewell, <CHARNAME>.~
+@35   = ~Thank you. Farewell.~
+@36   = ~Don't play with me, <CHARNAME>. I am not in a good mood. Give it to me now. We had a deal!~
+@37   = ~No. As I said, I would rather keep it.~
+@38   = ~You leave me little choice. I will take it by force, if I must. Prepare to die!~
+@39   = ~Fools! Have you come back without it? Is it even possible? I wish you stayed there, moronic cretins! I will have no more dealings with you!~
+
+@40   = ~Tower of Deception - Travelling to an abandoned tower
+
+I have been hired by a mage named Tian to visit an abandoned tower off the coast of Amn, called the Tower of Deception. I am to recover some old book for him. He is offering five thousand gold as a reward.~
+
+@41   = ~Tower of Deception - Back in Athkatla
+
+I have finally escaped from that forsaken tower and delivered the book to Tian. He was very pleased, and rewarded me with five thousand gold, as he promised. My task complete, we parted on good terms.~
+
+@42   = ~Tower of Deception - Travelling to an abandoned tower
+
+I have been hired by a mage named Tian to visit an abandoned tower off the coast of Amn, called the Tower of Deception. I am to recover some old book for him. He is offering five thousand gold as a reward.~
+
+@43   = ~Tower Of Deception - Sea Zombie Ambush
+
+Captain Kergo has brought us to the island, but after we disembarked, we were ambushed by several sea zombies. They came out of nowhere, but were not any real danger to us. But I fear a greater threat: it feels as if that giant tower is watching us...~
+
+@44   = ~Tower Of Deception - Baloar's Death
+
+I have defeated Baloar, the tower guardian. He thought I'd sought him out of revenge for deeds he performed long ago. Obviously, this was untrue, but there was no opportunity to discuss the matter.
+Now I have discovered that all the front doors are locked. I shall have to find another way out.~
+
+@45   = ~Tower of Deception - A cleric trapped inside
+
+I have met Gulin, a priest of Helm, who has been trapped here for the past month. He spoke about a large crystal, the Astral Shard, that is generating an invisible teleport web, keeping us all inside. He also said that the Astral Shard is a reason why all the front doors are locked. It appears that only when the Astral Shard is destroyed will we find some means of escape.
+He also spoke about some frozen dryads, located upstairs. Perhaps I can free them...~
+
+@46   = ~Tower of Deception - Pandaira rescued
+
+Although I set both frozen dryads free, one of them, Wistemach, took me for Ustrain's servant and attacked. I was forced to kill her. The other one, Pandaira, was quite grateful. It seems that Wistemach controlled her, and that she was in a snare of some sort. Now she has her freedom again. As a reward, she told me that Ustrain's spellbook was located in his bedroom on one of the top floors, and that to get out, I shall have to get to the top floor, kill the Astral Shard's guardian, and destroy the Astral Shard itself. She mentioned that it can only be destroyed "by a great fire".~
+
+@47   = ~Tower Of Deception - Final fight ahead
+
+Now I have the Blade, and it seems that after Servant's death I was teleported to Ustrain's bedroom. Now the last two tasks remain: to kill the Astral Shard's guardian, and to destroy the Astral Shard itself.~
+
+@48   = ~Tower of Deception - Back in Athkatla
+
+I have finally escaped from that cursed tower. I brought the book back to Tian, but decided to keep it to myself. Tian, however, was not pleased with this turn of events, and attacked me immediately. He is dead, and the spellbook is mine, but somehow, I do not feel that I have completed the task in the best possible way.~
+
+@49   = ~Tower of Deception - Back in Athkatla
+
+I have finally escaped from that cursed tower. However, Tian was most displeased that I did not have the book in my possession, and stormed out almost immediately. I have neither fulfilled my mission nor received the promised payment, and, it seems, I will now have to keep a lookout for an angry mage, as well.~
+
+@50   = ~Yes, yes, whatever.~
+@51   = ~Oh, all right. Here. Where is my reward?~
+@52   = ~You dare speak of the book? Do you know how dangerous it was in there?~
+@53   = ~Yes, I was quite aware of it, even though I did not choose to divulge some of it to you. I admit, I was somewhat cautious that you would refuse upon hearing the details. But now your reward is duly deserved, don't you think? Now, the book, please.~

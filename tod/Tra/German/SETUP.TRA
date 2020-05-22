@@ -1,0 +1,95 @@
+@0    = ~Verräter!!~
+@1    = ~Mörder!!~
+@2    = ~Kurz nachdem Ihr dieses Stockwerk betreten habt, stellt Ihr fest, dass es sich um Ustrains altes Arbeitszimmer handeln muss...~
+@3    = ~Die unsichtbare Kraft, welche die Stufen blockiert hatte, ist verschwunden. Der Weg ist jetzt frei.~
+@4    = ~Ihr habt eine der Gefangenen getötet. Mit Ihr gingen auch ihre Informationen verloren. Jetzt ist es unmöglich, die zweite Gefangene noch zu retten.~
+@5    = ~Beide Gefangenen sind tot. Was für eine Schande.~
+@6    = ~Die Präsenz der "KLINGE" in Eurem Gepäck und der Tod des Wächters hat Euch zu den oberen Stockwerken des Turmes teleportiert... Jetzt gibt es keinen Weg mehr zurück...~
+@7    = ~Ich muss den Astralsplitter verteidigen...~
+@8    = ~Wistemachs Tod öffnete alle Ausgänge.~
+@9    = ~Gulin hat die Vordertür des Turmes verschlossen, für den Fall, dass jemand versuchen sollte, das uralte Böse, welches in diesem Turm lauert, zu stören...~
+@10   = ~Das ist eine Art Hebel. Vielleicht wird die Blitzkugel ihre Arbeit einstellen, wenn man ihn betätigt.~
+@11   = ~Die Blitzkugel hört auf zu arbeiten, sobald Ihr den Hebel betätigt habt.~
+@12   = ~Wenn der Hebel nochmals betätigt wird, dann werden wieder Blitze aus der Kugel zucken. Es wäre nicht sehr klug, ihn nochmals zu betätigen.~
+@13   = ~Ihr seid zu weit weg, um dies zu benutzen.~
+@14   = ~Dieser Einwegteleporter führt zu einem unbekannten Verlies oder einer Höhle, die möglicherweise unter dem Turm liegt, wie Ihr erkennen könnt...~
+@15   = ~Das Portal teleportiert Euch gewaltsam in ein unbekanntes Verlies. Ihr braucht einen Moment, um Euch nach Eurer Ankunft wieder zu fangen.~
+@16   = ~Ihr seid zu weit weg, um dies zu benutzen.~
+@17   = ~Der Turm der Täuschung - Überfall der Seezombies
+
+Kapitän Kergo brachte uns sicher zu der Insel, aber nachdem wir von Bord gegangen waren, wurden wir von mehreren Seezombies überfallen. Sie kamen aus dem Nichts, stellten aber keine wirkliche Gefahr dar. Aber etwas anderes macht mir Sorgen, vielleicht bilde ich mir das ja nur ein, aber der Turm scheint uns zu beobachten... Ich fühle mich hier wirklich nicht besonders wohl. Sobald ich das Buch gefunden habe, werde ich mich schleunigst wieder aus dem Staub machen...~
+@18   = ~Der Turm der Täuschung - Baloars Tod
+
+Ich besiegte Baloar, den Wächter des Turmes. Er dachte, ich sei gekommen um ihn aus Rache für seine längst begangenen Missetaten zu bestrafen. Das war offensichtlich natürlich nicht der Fall, doch er liess nicht mit sich reden und daher musste ich ihn töten. Letztlich bekam es das, was er wirklich verdiente.
+Leider musste ich feststellen, dass alle Eingangstüren des Turmes verschlossen wurden. Ich muss wohl einen anderen Ausgang suchen.~
+@19   = ~Der Turm der Täuschung - Der letzte Kampf steht bevor
+
+Jetzt habe ich eine "KLINGE" und nach dem Tod des Dieners wurde ich anscheinend automatisch in Ustrains Schlafzimmer teleportiert. Jetzt ist nur noch eines zu tun. Den Wächter des Astralsplitters und auch den Astralsplitter selbst zu beseitgen. Das wird nicht einfach werden...~
+
+@99   = ~Gulins Geist hat die Vordertür des Turmes verschlossen, falls  jemand versuchen sollte, das uralte Böse, das in diesem Turm ist, zu stören...~
+@100  = ~Der Turm der Täuschung (Benötigt Thron des Bhaal)~
+@101  = ~Ihr habt anscheinend Thron des Bhaal nicht installiert.~
+@102  = ~Erweitere existierende Skripte...~
+@103  = ~Installation des Filmes...~
+@104  = ~Setup muss den Film biffen und updaten, um erfolgereich installieren zu können. Bitte geduldig sein.~
+@105  = ~Die Installation des Films war erfolgreich. Viel Spass!!~
+@106  = ~Verbesserter Wächter des Astralsplitters~
+@107  = ~Ihr scheint nicht Turm der Täuschung installieren zu wollen.~
+@108  = ~Begegnung mit Ustrain~
+
+@200  = ~Staubiges altes Buch~
+@201  = ~Ustrains Zauberbuch~
+@202  = ~Ein verzierter, ledergebundener Band, der von Staub bedeckt ist. Er strahlt eine Art magischer Energie aus.~
+@203  = ~Ustrains Zauberbuch ist ein berühmter Band, der von dem Magier Ustrain geschrieben wurde. Es wird gemunkelt, dass es die dunkelsten Gehimnisse der Nekromantie beinhaltet, mit denen man Höllendämonen und andere hochstufige Wesen hervorraufen kann. Leider ist dieses Buch magisch versiegelt und da niemand in Eurer Gruppe ist, der in der Lage wäre, die Siegel zu brechen, ist es für Euch nutzlos.~
+
+@300  = ~Kriegsklinge des Zwielichts~
+@301  = ~Legenden erzählen von dieser Klinge, die vor langer Zeit erschaffen wurde. Es war die Zeit der Klagen, als solche Waffen dringend benötigt wurden. Geschmiedet wurde es von Handwerkern aus dem Norden, die ihre Liebe für alles Gute mit ihrem Hass gegen das Böse kombinierten. Dieses Schwert ist aus magischem Stahl hergestellt worden und glänzt wie poliertes Silber. Die Klinge ist völlig reflektierend und glüht mit einem blauen Licht, das entlang des Schwerts kriecht und knistert.
+Die Kriegsklinge ist intelligent und ihre primäre Motivation ist, das Böse zu vernichten. Im Kampf erkennt sie die Gesinnung des Gegners und wenn sie der Meinung ist, der Gegner ist böse, verursacht sie extra Schaden gegen ihn. Es steigert auch die Fähigkeit des Trägers, auf Zauberei zurückzugreifen und erhöht dessen Zaubergeschwindigkeit. Manchmal testet es die Intelligenz und Einstellung ihres Trägers. wenn der test misslingt, gerät der Träger manchmal in einen Berserkerrausch.
+
+EIGENSCHAFTEN
+
+Kampf:
+ +5 Schaden bei chaotisch-bösen Gegnern zusätzlich zu anderen Boni.
+ 5%ige Chance, dass alle Treffer den Träger für 10 Runden in einen Berserkerrausch verfallen lassen.
+
+Speziell:
+ Kann "Hervorrufung heiliger Macht" zweimal am Tag
+ 2 Sprüche pro Runde können angewandt werden
+ -1 auf Geschicklichkeit
+   30% Magieresistenz
+
+ETW0: +5 Bonus
+Schaden:  1W12 +5 (Hiebwaffe)
+Gewicht: 30
+Initiativefaktor: 5
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Mindeststärke: 15
+Mindestintelligenz: 16
+
+Nicht verwendbar von:
+ Bösen Charakteren
+ Druiden
+ Klerikern
+ Magiern
+ Dieben
+ Mönchen
+ Barden~
+
+@400  = ~Astralsplitter~
+@401  = ~Baloar~
+
+@403  = ~Gulin~
+@404  = ~Gulin Murth~
+@405  = ~Kapitän Kergo~
+@406  = ~Diener~
+@407  = ~Wächter des Astralsplitters~
+@408  = ~Pandaira~
+@409  = ~Gefangener~
+@410  = ~Geist~
+@411  = ~Schattenmeister~
+@412  = ~Schatten~
+@413  = ~Tian~
+@414  = ~Wistemach~
+@415  = ~Seezombie~
+@416  = ~Ustrain~

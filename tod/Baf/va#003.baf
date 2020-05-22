@@ -1,0 +1,9 @@
+IF
+   OnCreation()
+   Global("VA#003EnteredFirstTime","GLOBAL",0)
+THEN
+   RESPONSE #100
+   SetGlobal("VA#003EnteredFirstTime","GLOBAL",1)
+   Wait(1)
+   DisplayStringHead(Player1,@2)
+END

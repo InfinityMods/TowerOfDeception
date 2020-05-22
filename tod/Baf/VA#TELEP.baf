@@ -1,0 +1,42 @@
+IF
+  Clicked([ANYONE])
+  Range(LastTrigger,10)
+  Global("VA#TowerTeleport","GLOBAL",0)
+THEN
+    RESPONSE #100
+      SetGlobal("VA#TowerTeleport","GLOBAL",1)
+      DisplayStringHead(Myself,@14)
+END
+
+IF
+  Clicked([ANYONE])
+  Range(LastTrigger,10)
+  Global("VA#TowerTeleport","GLOBAL",1)
+THEN
+  RESPONSE #100
+    FadeToColor([20.0],0)
+    ClearAllActions()
+    SetGlobal("VA#TowerTeleport","GLOBAL",2)
+    ActionOverride("va#panda",DestroySelf())
+    PlaySound("EFF_M28")
+    Wait(1)
+    MultiPlayerSync()
+    ActionOverride(Player1,LeaveAreaLUAPanic("VA#007","",[329.883],14))
+    ActionOverride(Player1,LeaveAreaLUA("VA#007","",[329.883],14))
+    ActionOverride(Player1,DisplayStringNoName(Myself,@15))
+    ActionOverride(Player2,LeaveAreaLUA("VA#007","",[280.883],14))
+    ActionOverride(Player3,LeaveAreaLUA("VA#007","",[375.870],14))
+    ActionOverride(Player4,LeaveAreaLUA("VA#007","",[409.859],14))
+    ActionOverride(Player5,LeaveAreaLUA("VA#007","",[232.894],14))
+    ActionOverride(Player6,LeaveAreaLUA("VA#007","",[313.846],14))
+    ActionOverride(Player1,MultiPlayerSync())
+END
+
+IF
+  Clicked([ANYONE])
+  !Range(LastTrigger,10)
+THEN
+  RESPONSE #100
+    DisplayString(Myself,@16)
+END
+

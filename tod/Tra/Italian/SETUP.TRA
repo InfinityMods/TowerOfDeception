@@ -1,0 +1,99 @@
+@0    = ~Imbroglioni!!~
+@1    = ~Assassini!!~
+@2    = ~Appena entri in questo piano, ti trovi di fronte a quello che doveva essere stato il vecchio laboratorio di Ustrain...~
+@3    = ~Il potere invisibile che bloccava le scale é scomparso. Ora l'accesso è libero.~
+@4    = ~Hai ucciso uno dei prigionieri. Se aveva qualche preziosa informazione da darti, ora non può più dartela. Adesso è impossibile salvare la seconda prigioniera.~
+@5    = ~Entrambe le prigioniere sono morte. Peccato.~
+@6    = ~La presenza della spada nel tuo inventario e la morte del suo guardiano ti ha teletrasportato ai livelli superiori della torre... Ora non si può ritornare indietro...~
+@7    = ~Devo difendere il Frammento Astrale...~
+@8    = ~La morte di Wistemach ha sbloccato tutte le uscite.~
+@9    = ~Gulin ha bloccato gli ingressi principali della torre nel caso in cui a qualcuno fosse venuto in mente di provare ad entrare e disturbare l'antico male che vi riposa dentro...~
+@10   = ~Questo é un interruttore di qualche tipo. Forse sarà in grado di fermare il funzionamento della sfera e di interrompere i lampi da essa prodotti.~
+@11   = ~La sfera ha smesso di produrre i lampi una volta che hai schiacciato l'interruttore.~
+@12   = ~Schiacciando ancora l'interruttore certamente la macchina ripartirà producendo nuovamente i lampi. E' sconsigliabile premere nuovamente l'interruttore.~
+@13   = ~Sei troppo lontano per utilizzare questo oggetto.~
+@14   = ~Questo teletrasporto é unilaterale e conduce ad un sotterraneo o una grotta sconosciuta, probabilmente sotto la torre, per quello che puoi vedere...~
+@15   = ~Il portale ti teletrasporta violentemente in un sotterraneo sconosciuto. Appena arrivato devi aspettare qualche minuto per riprendere fiato.~
+@16   = ~Sei troppo lontano per utilizzare questo oggetto.~
+@17   = ~La Torre dell'Inganno - Imboscata degli Zombie del Mare 
+
+Il capitano Kergo ci ha portato sull'isola, ma dopo essere sbarcati, siamo stati attaccati da diversi zombie del mare. Sono comparsi dal nulla, sebbene non siano stati eccessivamente pericolosi. Tuttavia ho un brutto presentimento: sembra come se questa grande torre ci stia osservando...~
+
+@18   = ~La Torre dell'Inganno - La morte di Baloar 
+
+Ho sconfitto Baloar, il guardiano della torre. Pensava che lo stessi cercando per vendicarmi di qualcosa successa molti anni fa. Ovviamente, non era vero, ma non mi ha dato l'opportunità di discuterne, così l'ho ucciso subito.
+Ora mi sono accorto che tutte le porte principali sono bloccate. Devo trovare un'altra via d'uscita.~
+
+@19   = ~La Torre dell'Inganno - La Battaglia finale 
+
+Ora ho la Spada, sembra che dopo la morte del Servitore io sia stato teletrasportato nella camera da letto di Ustrain. Ora rimangono due cose da fare: uccidere il guardiano dell Frammento Astrale, e distruggere lo stesso Frammento Astrale.~
+
+@99   = ~Lo spirito di Gulin ha bloccato gli ingressi principali della torre nel caso in cui a qualcuno fosse venuto in mente di provare ad entrare e disturbare l'antico male che vi riposa dentro...~
+@100  = ~Mod La Torre dell'Inganno (Richiede Throne Of Bhaal)~
+@101  = ~Non sembra che tu abbia Throne Of Bhaal installato.~
+@102  = ~Estendendo il game scripts esistente...~
+@103  = ~Installazione del Filmato...~
+@104  = ~L'installazione deve convertire il filmato ed aggiornare Chitin.key per completare con successo l'installazione. Un po' di pazienza per favore.~
+@105  = ~L'installazione del Filmato é stata completata con successo. Buon divertimento!!~
+@106  = ~Migliorato il Guardiano del Frammento Astrale~
+@107  = ~Non sembra che hai la Torre dell'Inganno installato.~
+@108  = ~L'incontro con Ustrain~
+
+@200  = ~Vecchio Libro Polveroso~
+@201  = ~Libro degli Incantesimi di Ustrain~
+@202  = ~Un tomo con delle decorazioni su una rilegatura di pelle, coperto in gran parte di polvere. Da questo libro fuoriesce Una specie di energia magica.~
+@203  = ~Il Libro degli Incantesimi di Ustrain é un famoso libro scritto dallo stesso stregone Ustrain. Parla di oscuri segreti di necromanzia, di come evocare demoni infernali, e di come lanciare altri incantesimi di alto livello. Tuttavia, il libro é sigillato e siccome nel tuo gruppo non c'é nessuno che sia così tanto potente da essere in grado di rimuovere tutti i sigilli magici per te rimane, al momento, un libro totalmente inservibile. ~
+
+@300  = ~La Lama del Crepuscolo~
+@301  = ~Le leggende narrano che questa lama é stata creata molto tempo fa, durante il Periodo dei Disordini, quando il bisogno di simili armi era necessario. E' stata forgiata dagli artigiani del nord mettendo insieme il loro amore per qualsiasi cosa che era buona e il loro odio per tutto ciò che era malvagio. Questa spada è stata modellata con acciaio incantato e argento luminoso ottenendo, in questo modo, un incessante bagliore sulla spada. La lama è perfettamente riflettente e splendente non preoccupandosi di che tipo di castigo venga punito, ardendo di una luce blu lungo tutta la spada.
+La lama é intelligente, il suo primo pensiero é la difesa da tutto ciò che é malvagio. In combattimento può riconoscere la natura di un avversario. Se scopre che il suo allineamento é malvagio, applica su di lui un danno extra. Inoltre incrementa l'abilità del suo possessore di chiamare a se della magia e di lanciarla velocemente. Qualche volta la lama mette alla prova la stessa mente e l'intelligenza di colui che la impugna, e se chi maneggia la spada fallisce, c'é la possibilità che entri in uno stato di berserker.
+
+STATISTICHE
+
+Abilità di Combattimento:
+   +5 al danno per gli avversari di allineamento caotico malvagio in aggiunta agli altri bonus.
+   5% di possibilità che i colpi causeranno a chi la impugna di entrare in uno stato di berserker della mente per 10 rounds.
+
+Abilità Speciali:
+   Può lanciare "Invocare la Potenza Divina" due volte al giorno
+   Può lanciare 2 incantesimi per round
+   -1 alla Destrezza
+   30% di Resistenza alla Magia
+
+THAC0: +5 bonus
+Danno:  1D12 +5
+Tipo di danno:  tagliente
+Peso: 30
+Velocità: 5
+Tipo di competenza: Spada a due mani
+Tipo:  a due mani
+Requisiti:
+   15 alla Forza
+   16 all'Intelligenza
+
+Non utilizzabile da:
+Personaggi di allineamento Malvagio
+Druido
+Chierico
+Mago
+Ladro
+Monaco
+Bardo~
+
+@400  = ~Frammento Astrale~
+@401  = ~Baloar~
+
+@403  = ~Gulin~
+@404  = ~Gulin Murth~
+@405  = ~Capitano Kergo~
+@406  = ~Servitore~
+@407  = ~Guardiano del Frammento Astrale~
+@408  = ~Pandaira~
+@409  = ~Prigioniero~
+@410  = ~Spirito~
+@411  = ~Signore dell'Ombra~
+@412  = ~Ombra~
+@413  = ~Tian~
+@414  = ~Wistemach~
+@415  = ~Zombie del mare~
+@416  = ~Ustrain~

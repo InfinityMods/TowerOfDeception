@@ -1,0 +1,42 @@
+@0    = ~Hé vous là-bas, un instant. Je vous ai entendu arriver, donc je suppose que vous êtes venu à bout de ces ombres agaçantes.~
+        ~Hé vous là-bas, un instant. Je vous ai entendue arriver, donc je suppose que vous êtes venue à bout de ces ombres agaçantes.~
+@1    = ~Oui, oui, je savais qu'elles étaient là. Comme que je n'étais pas en mesure de les vaincre seul, je les observais juste du haut de l'escalier.~
+@2    = ~Je n'ai pas eu le courage de descendre et elles non plus ne pouvaient pas monter jusqu'à moi par l'escalier. Je ne sais pas pourquoi.~
+@3    = ~Mais visiblement vous avez finalement réussi à leur accorder le repos éternel. Oh, mais j'en oublie presque la politesse élémentaire...~
+@4    = ~Je m'appelle Gulin. Et vous ?~
+@5    = ~Enchanté, je m'appelle <CHARNAME>. Mais que faites-vous donc, seul, dans cette tour, si je puis me permettre...~
+        ~Enchantée, je m'appelle <CHARNAME>. Mais que faites-vous donc, seul, dans cette tour, si je puis me permettre...~
+@6    = ~Mon nom n'a pas d'importance et je n'ai que faire du vôtre. Maintenant, si vous le permettez, je vais m'en aller. Au revoir.~
+@7    = ~En fait je suis un prêtre, au service de Heaum. J'ai été piégé ici alors que je tentais de lancer un sort de rappel. C'était il y a un mois. Depuis, je suis coincé ici. Il m'est impossible de m'échapper tant que l'Eclat Astral est actif, vu que je ne peux pas utiliser de sort de téléportation. Quand j'essaie, il me ramène toujours ici. Et bien sûr, les portes d'entrée sont fermées. Tels sont les effets de l'Eclat Astral.~
+@8    = ~Depuis j'utilise des sorts pour me fabriquer de l'eau et de la nourriture, mais vous vous doutez bien que cela ne peut pas durer éternellement.~
+@9    = ~Comme vous le voyez, j'ai encore tout mon équipement. C'est parce que je me suis fait piéger ici bien après la disparition d'Ustrain. S'il était encore là, en vie, je doute qu'il m'en reste quoi que ce soit...~
+@10   = ~J'ai l'impression que cette salle était une prison. Les prisonniers étaient enfermés ici, jusqu'à ce qu'Ustrain soit prêt à se servir d'eux pour ses besoins, je suppose. S'il y a eu d'autres prisonniers, ils sont soit partis, soit morts, ou alors emprisonnés ailleurs.~
+@11   = ~C'est certain. Vous avez parlé d'un "Eclat Astral". Qu'est-ce donc, une sorte de machine ? Tian ne nous en a absolument pas parlé.~
+@12   = ~Vous dites être là depuis un mois. Avez-vous visité les niveaux supérieurs ?~
+@13   = ~Au revoir.~
+@14   = ~Une machine ? Pas du tout. Je ne l'ai pas vu de mes propres yeux car je n'ai pas visité le niveau supérieur où il se trouve. Mais j'ai beaucoup entendu parler des pierres ou des cristaux d'Eclat Astral. Ces gros cristaux ont été ramenés du plan astral autrefois. Ils créent et alimentent une toile de téléportation autour d'eux, jusqu'à ce qu'ils soient détruits ou renvoyés dans le plan astral. Si on les déplace, ils recréent une toile de téléportation autour de leur nouvel emplacement.~
+@15   = ~Pour autant que je sache, Ustrain a dérobé un de ces cristaux du plan astral. Je n'arrive pas à imaginer comment il a fait...~
+@16   = ~Si vous avez l'intention de le détruire, faites attention car il se peut qu'il soit gardé. Je doute fort qu'Ustrain l'ait laissé sans protection.~
+@17   = ~Tous ces renseignements pourraient nous être utiles. Et pour ce qui est des niveaux supérieurs ? Les avez-vous visités ?~
+@18   = ~D'accord, j'en ai assez entendu. Je vais voir ce que je peux faire. Peut-être pourrai-je détruire cet Eclat Astral. Si je réussis, vous pourrez enfin vous échapper de cette prison. Peut-être nous rencontrerons-nous de nouveau un jour...~
+@19   = ~Oui, mais seulement l'étage au-dessus de celui-ci. Je n'ai pas le courage de franchir le portail. Oui, les escaliers ont disparu et il y a un portail à la place.~
+@20   = ~Et il y a aussi deux femmes là-haut, congelées par l'Eclat Astral, toutes les deux. On dirait des dryades ou quelque chose comme ça. Elles sont très fragiles, comme tout ce qui est congelé. Vous pouvez les tuer avec n'importe quelle arme, mais cette glace magique les immunise contre certains sorts, ainsi que je l'ai découvert. Peut-être que vous pourriez les libérer, mais je ne sais pas comment, je n'ai pas essayé.~
+@21   = ~Peut-être. Vous avez parlé d'un "Eclat Astral". Qu'est-ce donc, une sorte de machine ? Tian ne nous en a absolument pas parlé..~
+@22   = ~D'accord, j'en ai assez entendu. Je vais voir ce que je peux faire. Peut-être pourrai-je détruire cet Eclat Astral. Si je réussis, vous pourrez enfin vous échapper de cette prison. Peut-être nous rencontrerons-nous de nouveau un jour, à Athkatla ? Qui sait... En attendant, prenez bien soin de vous.~
+@23   = ~Merci. J'espère que vous réussirez, car je n'ai pas envie de rester ici éternellement. Que les dieux soient avec vous.~
+@24   = ~Alors ? Avez-vous changé d'avis ?~
+@25   = ~En effet. Je vous connais déjà, donc dites-moi, que faites-vous ici ?~
+@26   = ~Non, je passais juste par ici.~
+@27   = ~Heaum vous garde. Je vous fais confiance, vous réussirez...~
+@28   = ~Tour sans retour - Un prêtre piégé à l'intérieur
+
+J'ai rencontré Gulin, un prêtre de Heaum, qui est bloqué ici depuis un mois. Il a parlé d'un grand cristal, l'Eclat Astral, qui crée une toile de téléportation invisible, qui nous retient tous prisonniers dans la tour. Il a aussi dit que c'est à cause de l'Eclat Astral que les portes d'entrée sont fermées. Il semble que nous ne pourrons trouver un moyen de nous échapper qu'une fois que l'Eclat Astral aura été détruit.
+Il a aussi parlé de dryades congelées, à l'étage supérieur. Peut-être pourrais-je les libérer...~
+
+@29   = ~Pouvez-vous m'en dire plus au sujet de cette tour?~
+@30   = ~Cette tour ? Très bien. Je pense en avoir appris assez durant mon emprisonnement, et ces renseignements pourraient vous être utiles.~
+@31   = ~Lorsque le maléfique magicien githyanki, Ustrain, construisit sa tour il y a bien des années, il ne se doutait pas que les marins confondraient avec un phare la lumière de son Eclat Astral magique au sommet de la tour. Cette lumière guida de nombreux marins vers un destin tragique.~
+@32   = ~Mais Ustrain n'en avait cure. Il se riait de leur triste situation et continuait ses infâmes expériences. Il utilisait le pouvoir de l'Eclat Astral pour enlever diverses créatures et voyageurs pendant leurs téléportations... C'est ce qui m'est arrivé.~
+@33   = ~Toutefois, un jour, ses congénères apparurent pour ramener le magicien githyanki dans son plan astral natif. Personne ne l'a revu depuis.~
+@34   = ~Mais sa tour est encore là. Non seulement elle continue à induire les marins en erreur les nuits de brouillard, mais la magie de l'Eclat Astral poursuit le plan maléfique d'enlèvements d'Ustrain.~
+@35   = ~Initialement, Ustrain réduisait en esclavage ou volait les victimes que l'Eclat Astral lui amenait. Mais depuis que le githyanki a disparu, elles restent enfermées dans cette tour maléfique jusqu'à ce qu'elles élaborent un moyen de s'échapper ou jusqu'à leur mort. Si vous ne voulez pas subir leur colère, il vous faudra faire très attention.~

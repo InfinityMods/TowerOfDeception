@@ -1,0 +1,244 @@
+BACKUP ~TOD/Backup~
+AUTHOR ~Valiant (kiski@centrum.sk)~
+VERSION ~v4.0.1~
+
+//ALWAYS
+//AT_INTERACTIVE_EXIT ~VIEW TOD/Readme-TOD.htm~
+//END
+
+AUTO_TRA ~TOD/Tra/%s~
+
+ALWAYS
+  // Convert strings to UTF-8 for Enhanced Edition
+
+  // setup.tra needs to be reloaded after conversion
+  ACTION_DEFINE_ARRAY va#reload BEGIN setup END
+
+  LAF HANDLE_CHARSETS // recursively converts all tra files found in tra_path
+    INT_VAR
+      infer_charsets = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%/tra~
+      reload_array = va#reload
+  END
+END
+
+
+LANGUAGE ~English~                                                        ~English~ ~TOD/Tra/English/setup.tra~  // Language Menu
+
+LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~TOD/Tra/Spanish/setup.tra~
+
+LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~TOD/Tra/Czech/setup.tra~
+
+LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~TOD/Tra/Russian/setup.tra~
+
+LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~TOD/Tra/Italian/setup.tra~
+
+LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~TOD/Tra/German/setup.tra~
+
+LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~TOD/Tra/French/setup.tra~
+
+LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~TOD/Tra/Polish/setup.tra~
+
+BEGIN @100
+REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+/////            Tower Of Deception Mod                \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+////////////////////////
+// Appending MASTAREA //
+////////////////////////
+
+  APPEND ~MASTAREA.2da~ ~va#mov  value~
+  APPEND ~MASTAREA.2da~ ~va#001  value~
+
+///////////////////
+// Copying Files //
+///////////////////
+
+  COPY ~TOD/Are~ 		~override~
+  COPY ~TOD/Bam~ 		~override~
+  COPY ~TOD/Bmp~		~override~
+  COPY ~TOD/Mos~		~override~
+  COPY ~TOD/Spl~ 		~override~
+  COPY ~TOD/Tis~		~override~
+  COPY ~TOD/Wav~ 		~override~
+  COPY ~TOD/Wed~ 		~override~
+
+////////////////////
+// Compiling Bafs //
+////////////////////
+
+  APPEND ~State.ids~ ~0x8010202D RZ_STATE_DISABLED~     //helpless, stunned, sleeping, charmed, feeblemindnes, confusion, panic
+  UNLESS ~0x8010202D[ %TAB%]+RZ_STATE_DISABLED~
+
+  APPEND ~State.ids~ ~0x49C08000 RZ_STATE_DISPEL~       //hasted, chant, mirror image, aid, bless, improved invisibility
+  UNLESS ~0x49C08000[ %TAB%]+RZ_STATE_DISPEL~
+
+  APPEND ~State.ids~ ~0x00000029 RZ_STATE_VULNERABLE~   //helpless, stunned, sleeping
+  UNLESS ~0x00000029[ %TAB%]+RZ_STATE_VULNERABLE~
+
+  APPEND ~State.ids~ ~0x00000FC0 STATE_REALLY_DEAD~
+  UNLESS ~0x00000FC0[ %TAB%]+STATE_REALLY_DEAD~
+
+  COPY_EXISTING ~damages.ids~ ~override~
+    REPLACE_TEXTUALLY ~^0x0001 \(.+\)$~
+~IDS V1.0
+0x0001 \1~
+  UNLESS ~^IDS V1\.0~
+
+  APPEND ~Spell.ids~ ~4732 HELM_TRUE_SIGHT~
+  UNLESS ~4732[ %TAB%]+HELM_TRUE_SIGHT~
+
+  APPEND ~Spell.ids~ ~2302 WIZARD_REMOVE_MAGIC~
+  UNLESS ~2302[ %TAB%]+WIZARD_REMOVE_MAGIC~
+
+  COMPILE ~TOD/Baf~
+
+////////////////////////////////
+// Extending Existing Scripts //
+////////////////////////////////
+
+  PRINT @102
+
+  ACTION_IF (NOT FILE_EXISTS_IN_GAME ~ar0004.bcs~) THEN BEGIN // AR0021.ARE (Crooked Crane Inn) uses non-existent AR0004.BCS in BG2/BG2EE
+    COMPILE ~ar0004.bcs~ ~TOD/AppendBaf/ar0004.baf~ // create the missing script and compile the block that spawns Tian
+  END ELSE BEGIN
+    EXTEND_TOP ~ar0004.bcs~ ~TOD/AppendBaf/ar0004.baf~ // if the script already exists, just insert the block that spawns Tian
+  END
+
+  EXTEND_TOP ~ar0021.bcs~ ~TOD/AppendBaf/ar0004.baf~ // also add to AR0021.bcs in case a mod patches AR0021.ARE to point to it instead
+
+///////////////////////
+// Compiling Dialogs //
+///////////////////////
+
+  COMPILE ~TOD/Dialog~
+
+///////////////////
+// Copying Items //
+///////////////////
+
+  COPY ~TOD/Itm/va#book.itm~     ~override/va#book.itm~
+    SAY NAME1 @200
+    SAY NAME2 @201
+    SAY UNIDENTIFIED_DESC @202
+    SAY DESC @203
+
+  COPY ~TOD/Itm/va#calan.itm~    ~override/va#calan.itm~
+    SAY NAME2 @300
+    SAY DESC @301
+
+  ACTION_FOR_EACH res IN va#hring va#iring va#gring va#lich rzdispch rzseeinv BEGIN
+    COPY ~TOD/Itm/%res%.itm~     ~override/%res%.itm~
+  END
+
+///////////////////////
+// Copying Creatures //
+///////////////////////
+
+  COPY ~TOD/Cre/copy~            ~override~
+
+  ACTION_DEFINE_ASSOCIATIVE_ARRAY cre_assoc_array BEGIN
+  //uniq-id, name1, name2 => cre
+    a, 400, 400 => va#astsd // Astral Shard
+    b, 401, 401 => va#balor // Baloar
+    c, 403, 404 => va#gulin // Gulin, Gulin Murth
+    d, 405, 405 => va#kergo // Captain Kergo
+    e, 406, 406 => va#lich  // Servant
+    f, 407, 407 => va#maril // Astral Shard Guardian
+    g, 408, 408 => va#panda // Pandaira
+    h, 403, 404 => va#guli2 // Gulin, Gulin Murth
+    i, 409, 409 => va#prisn // Prisoner
+    j, 410, 410 => va#ghost // Spirit
+    k, 411, 411 => va#shd01 // Shadow Master
+    l, 412, 412 => va#shdgl // Shadow
+    m, 413, 413 => va#tian  // Tian
+    n, 413, 413 => va#tian2 // Tian
+    o, 414, 414 => va#wiste // Wistemach
+    p, 415, 415 => va#zom01 // Sea Zombie
+    q, 415, 415 => va#zom02 // Sea Zombie
+    r, 415, 415 => va#zom03 // Sea Zombie
+    s, 415, 415 => va#zomgl // Sea Zombie
+  END
+
+  ACTION_PHP_EACH cre_assoc_array AS values => res BEGIN
+    COPY ~TOD/Cre/%res%.cre~    ~override/%res%.cre~
+      SAY NAME1 ( AT "%values_1%" ) // e.g. @403 for va#gulin
+      SAY NAME2 ( AT "%values_2%" ) // e.g. @404 for va#gulin
+  END
+
+////////////////////////
+// EE JOURNAL ENTRIES //
+////////////////////////
+
+  ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+    ADD_JOURNAL @17 @18 @19  @28  @30  @40 @41 @42 @43 @44 @45 @46 @47 @48 @49
+    USING ~TOD/Tra/%LANGUAGE%/setup.tra~ ~TOD/Tra/%LANGUAGE%/va#gulin.tra~ ~TOD/Tra/%LANGUAGE%/va#panda.tra~ ~TOD/Tra/%LANGUAGE%/va#tian.tra~
+  END
+
+  // @17 @18 @19 - setup.tra
+  // @28 - va#gulin.tra
+  // @30 - va#panda.tra
+  // @40 @41 @42 @43 @44 @45 @46 @47 @48 @49 - va#tian.tra
+  
+////////////////////////
+// Movie Installation //
+////////////////////////
+
+  PRINT @103
+
+  PRINT @104
+
+  ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+    MAKE_BIFF ~VA#Movie~ BEGIN ~TOD/Mve~ ~^.*\.wbm$~ END // Enhanced Edition WBM format
+  END ELSE BEGIN
+    MAKE_BIFF ~VA#Movie~ BEGIN ~TOD/Mve~ ~^.*\.mve$~ END // non-EE Interplay MVE format
+  END
+
+  PRINT @105
+
+////////////////////////////////////
+// Improved Astral Shard Guardian //
+////////////////////////////////////
+
+BEGIN @106
+REQUIRE_FILE ~override/va#tod.nul~ @107 // TOD required
+
+  COMPILE ~TOD/ImpASG/va#maril.baf~   ~override/va#maril.bcs~
+
+////////////////////////////
+// Encounter with Ustrain //
+////////////////////////////
+
+BEGIN @108
+REQUIRE_FILE ~override/va#tod.nul~ @107 // TOD required
+
+  EXTEND_TOP ~baldur.BCS~ ~TOD\Ustrain2\baldur.BAF~
+  EXTEND_TOP ~baldur25.BCS~ ~TOD\Ustrain2\baldur.BAF~
+
+  COMPILE ~TOD/Ustrain2/va#011.baf~
+  COMPILE ~TOD/Ustrain2/VA#12sc.baf~
+  COMPILE ~TOD/Ustrain2/va#TELE2.baf~
+  COMPILE ~TOD/Ustrain2/va#ustrn.baf~
+  COMPILE ~TOD/Ustrain2/va#fplan.baf~
+  COMPILE ~TOD/Ustrain2/va#gitfm.baf~
+  COPY ~TOD/Ustrain2/va#gitfm.cre~    ~override/va#gitfm.cre~
+  COPY ~TOD/Ustrain2/va#gitf1.cre~    ~override/va#gitf1.cre~
+  COPY ~TOD/Ustrain2/va#gitf2.cre~    ~override/va#gitf2.cre~
+  COPY ~TOD/Ustrain2/va#ustrn.cre~    ~override/va#ustrn.cre~ // Ustrain
+    SAY NAME1 @416
+    SAY NAME2 @416
+  COPY ~TOD/Ustrain2/va#otsph.spl~    ~override/va#otsph.spl~
+  COPY ~TOD/Ustrain2/va#staf1.spl~    ~override/va#staf1.spl~
+  COPY ~TOD/Ustrain2/va#staf2.spl~    ~override/va#staf2.spl~
+
+  COMPILE ~TOD/Ustrain2/VA#ustrn.d~
+
+//eof

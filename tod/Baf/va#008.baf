@@ -1,0 +1,20 @@
+IF
+  Global("VA#UpperTeleport","GLOBAL",1)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#UpperTeleport","GLOBAL",2)
+	     SmallWait(8)
+	     PlaySound("EFF_M29")
+	     FadeFromColor([30.0],0)
+	     CreateVisualEffect("SPCLOUD1",[459.362])
+	     CreateVisualEffect("SPCLOUD1",[522.385])
+	     CreateVisualEffect("SPCLOUD1",[472.436])
+	     CreateVisualEffect("SPCLOUD1",[368.461])
+	     CreateVisualEffect("SPCLOUD1",[269.434])
+	     CreateVisualEffect("SPCLOUD1",[234.392])
+	     Wait(1)
+	     ActionOverride(Player1,DisplayStringHead(Myself,@6))
+	     SmallWait(5)
+	     AddJournalEntry(@19,QUEST)
+END
+

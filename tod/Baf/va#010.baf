@@ -1,0 +1,35 @@
+IF
+  Global("VA#ShardDestroyed","GLOBAL",1)
+  Global("SPRITE_IS_DEADVA#GULIN","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#ShardDestroyed","GLOBAL",2)
+             StartCutSceneMode()
+	     SmallWait(5)
+	     PlaySound("EFF_M29")
+	     FadeFromColor([30.0],0)
+	     SmallWait(5)
+             CreateVisualEffect("SPDIMNDR",[344.420])
+	     Wait(4)
+	     CreateCreature("VA#GULI2",[350.415],0)
+	     ActionOverride("VA#GULI2",StartDialogueNoSet(Player1))
+	     EndCutSceneMode()
+END
+
+IF
+  Global("VA#ShardDestroyed","GLOBAL",1)
+  !Global("SPRITE_IS_DEADVA#GULIN","GLOBAL",0)
+THEN
+    RESPONSE #100
+             SetGlobal("VA#ShardDestroyed","GLOBAL",2)
+             StartCutSceneMode()
+	     SmallWait(5)
+	     PlaySound("EFF_M29")
+	     FadeFromColor([30.0],0)
+	     SmallWait(5)
+             CreateVisualEffect("SPDIMNDR",[344.420])
+	     Wait(4)
+	     CreateCreature("VA#GHOST",[350.415],0)
+	     ActionOverride("VA#GHOST",StartDialogueNoSet(Player1))
+	     EndCutSceneMode()
+END
