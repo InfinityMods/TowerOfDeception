@@ -2,9 +2,7 @@ BACKUP ~TOD/Backup~
 AUTHOR ~Valiant (kiski@centrum.sk)~
 VERSION ~v4.0.1~
 
-//ALWAYS
-//AT_INTERACTIVE_EXIT ~VIEW TOD/Readme-TOD.htm~
-//END
+README ~tod/tod-readme.htm~
 
 AUTO_TRA ~TOD/Tra/%s~
 
