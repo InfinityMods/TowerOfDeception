@@ -1,6 +1,7 @@
-BACKUP ~TOD/Backup~
-AUTHOR ~Valiant (kiski@centrum.sk)~
-VERSION ~v4.0.1~
+ BACKUP ~TOD/Backup~
+//AUTHOR ~Valiant (kiski@centrum.sk)~
+SUPPORT ~http://forums.blackwyrmlair.net/index.php?showforum=117, http://gibberlings3.net/forums, http://www.shsforums.net, https://forums.beamdog.com~
+VERSION ~v4.0.2~
 
 README ~tod/tod-readme.htm~
 
@@ -185,7 +186,7 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   // @28 - va#gulin.tra
   // @30 - va#panda.tra
   // @40 @41 @42 @43 @44 @45 @46 @47 @48 @49 - va#tian.tra
-  
+
 ////////////////////////
 // Movie Installation //
 ////////////////////////
