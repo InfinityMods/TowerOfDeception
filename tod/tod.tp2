@@ -3,9 +3,9 @@
 SUPPORT ~http://forums.blackwyrmlair.net/index.php?showforum=117, http://gibberlings3.net/forums, http://www.shsforums.net, https://forums.beamdog.com~
 VERSION ~v4.0.2~
 
-README ~tod/tod-readme.htm~
+README ~%MOD_FOLDER%/tod-readme.htm~
 
-AUTO_TRA ~TOD/Tra/%s~
+AUTO_TRA ~%MOD_FOLDER%/Tra/%s~
 
 ALWAYS
   // Convert strings to UTF-8 for Enhanced Edition
@@ -23,21 +23,21 @@ ALWAYS
 END
 
 
-LANGUAGE ~English~                                                        ~English~ ~TOD/Tra/English/setup.tra~  // Language Menu
+LANGUAGE ~English~                                                        ~English~ ~%MOD_FOLDER%/Tra/English/setup.tra~  // Language Menu
 
-LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~TOD/Tra/Spanish/setup.tra~
+LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~%MOD_FOLDER%/Tra/Spanish/setup.tra~
 
-LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~TOD/Tra/Czech/setup.tra~
+LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~%MOD_FOLDER%/Tra/Czech/setup.tra~
 
-LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~TOD/Tra/Russian/setup.tra~
+LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~%MOD_FOLDER%/Tra/Russian/setup.tra~
 
-LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~TOD/Tra/Italian/setup.tra~
+LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~%MOD_FOLDER%/Tra/Italian/setup.tra~
 
-LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~TOD/Tra/German/setup.tra~
+LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~%MOD_FOLDER%/Tra/German/setup.tra~
 
-LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~TOD/Tra/French/setup.tra~
+LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~%MOD_FOLDER%/Tra/French/setup.tra~
 
-LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~TOD/Tra/Polish/setup.tra~
+LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~%MOD_FOLDER%/Tra/Polish/setup.tra~
 
 BEGIN @100
 REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
@@ -61,14 +61,14 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 // Copying Files //
 ///////////////////
 
-  COPY ~TOD/Are~ 		~override~
-  COPY ~TOD/Bam~ 		~override~
-  COPY ~TOD/Bmp~		~override~
-  COPY ~TOD/Mos~		~override~
-  COPY ~TOD/Spl~ 		~override~
-  COPY ~TOD/Tis~		~override~
-  COPY ~TOD/Wav~ 		~override~
-  COPY ~TOD/Wed~ 		~override~
+  COPY ~%MOD_FOLDER%/Are~ 		~override~
+  COPY ~%MOD_FOLDER%/Bam~ 		~override~
+  COPY ~%MOD_FOLDER%/Bmp~		~override~
+  COPY ~%MOD_FOLDER%/Mos~		~override~
+  COPY ~%MOD_FOLDER%/Spl~ 		~override~
+  COPY ~%MOD_FOLDER%/Tis~		~override~
+  COPY ~%MOD_FOLDER%/Wav~ 		~override~
+  COPY ~%MOD_FOLDER%/Wed~ 		~override~
 
 ////////////////////
 // Compiling Bafs //
@@ -98,7 +98,7 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   APPEND ~Spell.ids~ ~2302 WIZARD_REMOVE_MAGIC~
   UNLESS ~2302[ %TAB%]+WIZARD_REMOVE_MAGIC~
 
-  COMPILE ~TOD/Baf~
+  COMPILE ~%MOD_FOLDER%/Baf~
 
 ////////////////////////////////
 // Extending Existing Scripts //
@@ -107,42 +107,42 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   PRINT @102
 
   ACTION_IF (NOT FILE_EXISTS_IN_GAME ~ar0004.bcs~) THEN BEGIN // AR0021.ARE (Crooked Crane Inn) uses non-existent AR0004.BCS in BG2/BG2EE
-    COMPILE ~ar0004.bcs~ ~TOD/AppendBaf/ar0004.baf~ // create the missing script and compile the block that spawns Tian
+    COMPILE ~ar0004.bcs~ ~%MOD_FOLDER%/AppendBaf/ar0004.baf~ // create the missing script and compile the block that spawns Tian
   END ELSE BEGIN
-    EXTEND_TOP ~ar0004.bcs~ ~TOD/AppendBaf/ar0004.baf~ // if the script already exists, just insert the block that spawns Tian
+    EXTEND_TOP ~ar0004.bcs~ ~%MOD_FOLDER%/AppendBaf/ar0004.baf~ // if the script already exists, just insert the block that spawns Tian
   END
 
-  EXTEND_TOP ~ar0021.bcs~ ~TOD/AppendBaf/ar0004.baf~ // also add to AR0021.bcs in case a mod patches AR0021.ARE to point to it instead
+  EXTEND_TOP ~ar0021.bcs~ ~%MOD_FOLDER%/AppendBaf/ar0004.baf~ // also add to AR0021.bcs in case a mod patches AR0021.ARE to point to it instead
 
 ///////////////////////
 // Compiling Dialogs //
 ///////////////////////
 
-  COMPILE ~TOD/Dialog~
+  COMPILE ~%MOD_FOLDER%/Dialog~
 
 ///////////////////
 // Copying Items //
 ///////////////////
 
-  COPY ~TOD/Itm/va#book.itm~     ~override/va#book.itm~
+  COPY ~%MOD_FOLDER%/Itm/va#book.itm~     ~override/va#book.itm~
     SAY NAME1 @200
     SAY NAME2 @201
     SAY UNIDENTIFIED_DESC @202
     SAY DESC @203
 
-  COPY ~TOD/Itm/va#calan.itm~    ~override/va#calan.itm~
+  COPY ~%MOD_FOLDER%/Itm/va#calan.itm~    ~override/va#calan.itm~
     SAY NAME2 @300
     SAY DESC @301
 
   ACTION_FOR_EACH res IN va#hring va#iring va#gring va#lich rzdispch rzseeinv BEGIN
-    COPY ~TOD/Itm/%res%.itm~     ~override/%res%.itm~
+    COPY ~%MOD_FOLDER%/Itm/%res%.itm~     ~override/%res%.itm~
   END
 
 ///////////////////////
 // Copying Creatures //
 ///////////////////////
 
-  COPY ~TOD/Cre/copy~            ~override~
+  COPY ~%MOD_FOLDER%/Cre/copy~            ~override~
 
   ACTION_DEFINE_ASSOCIATIVE_ARRAY cre_assoc_array BEGIN
   //uniq-id, name1, name2 => cre
@@ -168,7 +168,7 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   END
 
   ACTION_PHP_EACH cre_assoc_array AS values => res BEGIN
-    COPY ~TOD/Cre/%res%.cre~    ~override/%res%.cre~
+    COPY ~%MOD_FOLDER%/Cre/%res%.cre~    ~override/%res%.cre~
       SAY NAME1 ( AT "%values_1%" ) // e.g. @403 for va#gulin
       SAY NAME2 ( AT "%values_2%" ) // e.g. @404 for va#gulin
   END
@@ -179,7 +179,7 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 
   ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
     ADD_JOURNAL @17 @18 @19  @28  @30  @40 @41 @42 @43 @44 @45 @46 @47 @48 @49
-    USING ~TOD/Tra/%LANGUAGE%/setup.tra~ ~TOD/Tra/%LANGUAGE%/va#gulin.tra~ ~TOD/Tra/%LANGUAGE%/va#panda.tra~ ~TOD/Tra/%LANGUAGE%/va#tian.tra~
+    USING ~%MOD_FOLDER%/Tra/%LANGUAGE%/setup.tra~ ~%MOD_FOLDER%/Tra/%LANGUAGE%/va#gulin.tra~ ~%MOD_FOLDER%/Tra/%LANGUAGE%/va#panda.tra~ ~%MOD_FOLDER%/Tra/%LANGUAGE%/va#tian.tra~
   END
 
   // @17 @18 @19 - setup.tra
@@ -196,9 +196,9 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   PRINT @104
 
   ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
-    MAKE_BIFF ~VA#Movie~ BEGIN ~TOD/Mve~ ~^.*\.wbm$~ END // Enhanced Edition WBM format
+    MAKE_BIFF ~VA#Movie~ BEGIN ~%MOD_FOLDER%/Mve~ ~^.*\.wbm$~ END // Enhanced Edition WBM format
   END ELSE BEGIN
-    MAKE_BIFF ~VA#Movie~ BEGIN ~TOD/Mve~ ~^.*\.mve$~ END // non-EE Interplay MVE format
+    MAKE_BIFF ~VA#Movie~ BEGIN ~%MOD_FOLDER%/Mve~ ~^.*\.mve$~ END // non-EE Interplay MVE format
   END
 
   PRINT @105
@@ -208,36 +208,36 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 ////////////////////////////////////
 
 BEGIN @106
-REQUIRE_FILE ~override/va#tod.nul~ @107 // TOD required
+REQUIRE_FILE ~override/va#tod.nul~ @107 // ToD required
 
-  COMPILE ~TOD/ImpASG/va#maril.baf~   ~override/va#maril.bcs~
+  COMPILE ~%MOD_FOLDER%/ImpASG/va#maril.baf~   ~override/va#maril.bcs~
 
 ////////////////////////////
 // Encounter with Ustrain //
 ////////////////////////////
 
 BEGIN @108
-REQUIRE_FILE ~override/va#tod.nul~ @107 // TOD required
+REQUIRE_FILE ~override/va#tod.nul~ @107 // ToD required
 
-  EXTEND_TOP ~baldur.BCS~ ~TOD\Ustrain2\baldur.BAF~
-  EXTEND_TOP ~baldur25.BCS~ ~TOD\Ustrain2\baldur.BAF~
+  EXTEND_TOP ~baldur.BCS~ ~tod\Ustrain2\baldur.BAF~
+  EXTEND_TOP ~baldur25.BCS~ ~tod\Ustrain2\baldur.BAF~
 
-  COMPILE ~TOD/Ustrain2/va#011.baf~
-  COMPILE ~TOD/Ustrain2/VA#12sc.baf~
-  COMPILE ~TOD/Ustrain2/va#TELE2.baf~
-  COMPILE ~TOD/Ustrain2/va#ustrn.baf~
-  COMPILE ~TOD/Ustrain2/va#fplan.baf~
-  COMPILE ~TOD/Ustrain2/va#gitfm.baf~
-  COPY ~TOD/Ustrain2/va#gitfm.cre~    ~override/va#gitfm.cre~
-  COPY ~TOD/Ustrain2/va#gitf1.cre~    ~override/va#gitf1.cre~
-  COPY ~TOD/Ustrain2/va#gitf2.cre~    ~override/va#gitf2.cre~
-  COPY ~TOD/Ustrain2/va#ustrn.cre~    ~override/va#ustrn.cre~ // Ustrain
+  COMPILE ~%MOD_FOLDER%/Ustrain2/va#011.baf~
+  COMPILE ~%MOD_FOLDER%/Ustrain2/VA#12sc.baf~
+  COMPILE ~%MOD_FOLDER%/Ustrain2/va#TELE2.baf~
+  COMPILE ~%MOD_FOLDER%/Ustrain2/va#ustrn.baf~
+  COMPILE ~%MOD_FOLDER%/Ustrain2/va#fplan.baf~
+  COMPILE ~%MOD_FOLDER%/Ustrain2/va#gitfm.baf~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#gitfm.cre~    ~override/va#gitfm.cre~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#gitf1.cre~    ~override/va#gitf1.cre~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#gitf2.cre~    ~override/va#gitf2.cre~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#ustrn.cre~    ~override/va#ustrn.cre~ // Ustrain
     SAY NAME1 @416
     SAY NAME2 @416
-  COPY ~TOD/Ustrain2/va#otsph.spl~    ~override/va#otsph.spl~
-  COPY ~TOD/Ustrain2/va#staf1.spl~    ~override/va#staf1.spl~
-  COPY ~TOD/Ustrain2/va#staf2.spl~    ~override/va#staf2.spl~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#otsph.spl~    ~override/va#otsph.spl~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#staf1.spl~    ~override/va#staf1.spl~
+  COPY ~%MOD_FOLDER%/Ustrain2/va#staf2.spl~    ~override/va#staf2.spl~
 
-  COMPILE ~TOD/Ustrain2/VA#ustrn.d~
+  COMPILE ~%MOD_FOLDER%/Ustrain2/VA#ustrn.d~
 
 //eof
