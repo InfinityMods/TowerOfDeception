@@ -10,7 +10,7 @@ SAY @0
 ++ @4 + Ust1.0
 END
 
-IF ~Global("VA#TODPart1","GLOBAL",4)~ Ust2
+IF ~Global("VA#ToDPart1","GLOBAL",4)~ Ust2
 SAY @5
 ++ @6 + Ust2.2
 ++ @7 + Ust2.3
@@ -19,25 +19,25 @@ SAY @5
 ++ @10 + Ust2.1
 END
 
-IF ~Global("VA#TODPart1","GLOBAL",4)~ Ust2.1
+IF ~Global("VA#ToDPart1","GLOBAL",4)~ Ust2.1
 SAY @11
 = @12
-IF ~~ DO ~SetGlobal("VA#TODPart1","GLOBAL",5)~ EXIT
+IF ~~ DO ~SetGlobal("VA#ToDPart1","GLOBAL",5)~ EXIT
 END
 
-IF ~Global("VA#TODPart1","GLOBAL",4)~ Ust2.2
+IF ~Global("VA#ToDPart1","GLOBAL",4)~ Ust2.2
 SAY @13
-IF ~~ DO ~SetGlobal("VA#TODPart1","GLOBAL",5)~ EXIT
+IF ~~ DO ~SetGlobal("VA#ToDPart1","GLOBAL",5)~ EXIT
 END
 
-IF ~Global("VA#TODPart1","GLOBAL",4)~ Ust2.3
+IF ~Global("VA#ToDPart1","GLOBAL",4)~ Ust2.3
 SAY @14
-IF ~~ DO ~SetGlobal("VA#TODPart1","GLOBAL",5)~ EXIT
+IF ~~ DO ~SetGlobal("VA#ToDPart1","GLOBAL",5)~ EXIT
 END
 
-IF ~Global("VA#TODPart1","GLOBAL",4)~ Ust2.4
+IF ~Global("VA#ToDPart1","GLOBAL",4)~ Ust2.4
 SAY @15
-IF ~~ DO ~SetGlobal("VA#TODPart1","GLOBAL",5)~ EXIT
+IF ~~ DO ~SetGlobal("VA#ToDPart1","GLOBAL",5)~ EXIT
 END
 
 IF ~~ Ust1.15

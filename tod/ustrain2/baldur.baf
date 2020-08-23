@@ -1,5 +1,5 @@
 IF
-  Global("VA#TODPart1","GLOBAL",1)
+  Global("VA#ToDPart1","GLOBAL",1)
   !GlobalTimerNotExpired("VA#USTRAIN_ENCOUNTER","GLOBAL")
   PartyRested()
   XPGT(Player1,2500000)
@@ -48,7 +48,7 @@ IF
   !AreaCheck("ar6200")
 THEN
     RESPONSE #100
-      SetGlobal("VA#TODPart1","GLOBAL",2)
+      SetGlobal("VA#ToDPart1","GLOBAL",2)
       SetGlobal("RZNotAllowTeleport","GLOBAL",1)
       StorePartyLocations()
       ClearAllActions()

@@ -1,6 +1,6 @@
 BEGIN va#tian
 
-IF ~NumTimesTalkedTo(0)~ THEN BEGIN FirstMeet // Party´s first meeeting with Tian
+IF ~NumTimesTalkedTo(0)~ THEN BEGIN FirstMeet // Party's first meeeting with Tian
   SAY @0
   IF ~~ THEN GOTO 1
 END
@@ -129,11 +129,11 @@ END
 IF ~~ THEN BEGIN 19
    SAY @34
    IF ~~ THEN REPLY @35 DO ~SetGlobal("VA#JobPos","GLOBAL",3)
-                            SetGlobal("VA#TODPart1","GLOBAL",1)
+                            SetGlobal("VA#ToDPart1","GLOBAL",1)
                             StartCutSceneMode()
                             StartCutScene("va#11sc")~ EXIT
    IF ~~ THEN REPLY @50 DO ~SetGlobal("VA#JobPos","GLOBAL",3)
-                            SetGlobal("VA#TODPart1","GLOBAL",1)
+                            SetGlobal("VA#ToDPart1","GLOBAL",1)
                             StartCutSceneMode()
                             StartCutScene("va#11sc")~ EXIT
 END
@@ -161,7 +161,7 @@ END
 IF ~~ THEN BEGIN 21
    SAY @38
    IF ~~ THEN DO ~Enemy()
-                 SetGlobal("VA#TODPart1","GLOBAL",1)
+                 SetGlobal("VA#ToDPart1","GLOBAL",1)
                  EraseJournalEntry(@42)
                  EraseJournalEntry(@43)
                  EraseJournalEntry(@44)
@@ -176,7 +176,7 @@ IF ~Global("VAJobPos","GLOBAL",2)
     !PartyHasItem("va#book")~ THEN BEGIN 22
    SAY @39
    IF ~~ THEN DO ~SetGlobal("VA#JobPos","GLOBAL",3)
-                  SetGlobal("VA#TODPart1","GLOBAL",1)
+                  SetGlobal("VA#ToDPart1","GLOBAL",1)
                   EraseJournalEntry(@42)
                   EraseJournalEntry(@43)
                   EraseJournalEntry(@44)

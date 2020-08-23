@@ -1,18 +1,18 @@
 IF
-   Global("VA#TODPart1","GLOBAL",2)
+   Global("VA#ToDPart1","GLOBAL",2)
    InMyArea(Player1)
 THEN
    RESPONSE #100
-      SetGlobal("VA#TODPart1","GLOBAL",3)
+      SetGlobal("VA#ToDPart1","GLOBAL",3)
       TriggerActivation("Va#011portal",FALSE)
 END
 
 IF
-   Global("VA#TODPart1","GLOBAL",3)
+   Global("VA#ToDPart1","GLOBAL",3)
    Dead("va#ustrn")
    CombatCounter(0)
 THEN
    RESPONSE #100
-      SetGlobal("VA#TODPart1","GLOBAL",4)
+      SetGlobal("VA#ToDPart1","GLOBAL",4)
       TriggerActivation("Va#011portal",TRUE)
 END
