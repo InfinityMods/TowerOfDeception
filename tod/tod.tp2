@@ -1,11 +1,13 @@
  BACKUP ~tod/backup~
+
 //AUTHOR ~Valiant (kiski@centrum.sk)~
 SUPPORT ~http://forums.blackwyrmlair.net/index.php?showforum=117, http://gibberlings3.net/forums, http://www.shsforums.net, https://forums.beamdog.com~
-VERSION ~v4.0.2~
+
+VERSION ~v4.0.3~
 
 README ~%MOD_FOLDER%/tod-readme.htm~
 
-AUTO_TRA ~%MOD_FOLDER%/Tra/%s~
+AUTO_TRA ~tod\Tra\%s~ // Don't use %MOD_FOLDER% for AUTO_TRA
 
 ALWAYS
   // Convert strings to UTF-8 for Enhanced Edition
