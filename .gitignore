@@ -9,6 +9,8 @@ tmp/
 !/.gitconfig
 !/.github
 !/.gitignore
+!/.gitmodules
+!/.bgforge.yml
 
 *.bak
 *.bat
