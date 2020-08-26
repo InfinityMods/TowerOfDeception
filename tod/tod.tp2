@@ -24,22 +24,22 @@ ALWAYS
   END
 END
 
+// Don't use %MOD_FOLDER% for LANGUAGE, http://forums.pocketplane.net/index.php?topic=29521
+LANGUAGE ~English~                                                        ~English~ ~tod/Tra/English/setup.tra~  // Language Menu
 
-LANGUAGE ~English~                                                        ~English~ ~%MOD_FOLDER%/Tra/English/setup.tra~  // Language Menu
+LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~tod/Tra/Spanish/setup.tra~
 
-LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~%MOD_FOLDER%/Tra/Spanish/setup.tra~
+LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~tod/Tra/Czech/setup.tra~
 
-LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~%MOD_FOLDER%/Tra/Czech/setup.tra~
+LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~tod/Tra/Russian/setup.tra~
 
-LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~%MOD_FOLDER%/Tra/Russian/setup.tra~
+LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~tod/Tra/Italian/setup.tra~
 
-LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~%MOD_FOLDER%/Tra/Italian/setup.tra~
+LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~tod/Tra/German/setup.tra~
 
-LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~%MOD_FOLDER%/Tra/German/setup.tra~
+LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~tod/Tra/French/setup.tra~
 
-LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~%MOD_FOLDER%/Tra/French/setup.tra~
-
-LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~%MOD_FOLDER%/Tra/Polish/setup.tra~
+LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~tod/Tra/Polish/setup.tra~
 
 BEGIN @100
 REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
