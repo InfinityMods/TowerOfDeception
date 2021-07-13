@@ -3,11 +3,11 @@
 //AUTHOR ~Valiant (kiski@centrum.sk)~
 SUPPORT ~http://forums.blackwyrmlair.net/index.php?showforum=117, http://gibberlings3.net/forums, http://www.shsforums.net, https://forums.beamdog.com~
 
-VERSION ~v4.0.3~
+VERSION ~v4.0.4~
 
 README ~%MOD_FOLDER%/tod-readme.htm~
 
-AUTO_TRA ~tod\Tra\%s~ // Don't use %MOD_FOLDER% for AUTO_TRA
+AUTO_TRA ~%MOD_FOLDER%/Tra/%s~
 
 ALWAYS
   // Convert strings to UTF-8 for Enhanced Edition
@@ -24,21 +24,14 @@ ALWAYS
   END
 END
 
-// Don't use %MOD_FOLDER% for LANGUAGE, http://forums.pocketplane.net/index.php?topic=29521
-LANGUAGE ~English~                                                        ~English~ ~tod/Tra/English/setup.tra~  // Language Menu
-
+// Don't use %MOD_FOLDER% for LANGUAGE until it will be fixed, https://forums.pocketplane.net/index.php?topic=29956.msg340386#msg340386
+LANGUAGE ~English~                                                        ~English~ ~tod/Tra/English/setup.tra~
 LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~tod/Tra/Spanish/setup.tra~
-
 LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz)~                    ~Czech~   ~tod/Tra/Czech/setup.tra~
-
 LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~tod/Tra/Russian/setup.tra~
-
 LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~tod/Tra/Italian/setup.tra~
-
 LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~tod/Tra/German/setup.tra~
-
 LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~tod/Tra/French/setup.tra~
-
 LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~tod/Tra/Polish/setup.tra~
 
 BEGIN @100
