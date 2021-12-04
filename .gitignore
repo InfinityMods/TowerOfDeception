@@ -12,6 +12,7 @@ tmp/
 !/.gitmodules
 !/.bgforge.yml
 
+*.7z
 *.bak
 *.bat
 *.iemod
