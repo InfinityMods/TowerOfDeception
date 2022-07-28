@@ -1,5 +1,5 @@
-@0    = ~Mohu ti vzít kousek tvého èasu? Jsem Tian. Potøebuji nìkoho, aby pro mnì vykonal obtínı a nebezpeènı úkol a jen málokteré povauji za schopné jej vykonat.~
-@1    = ~Ty ale vypadáš opravdu schopnì. Nyní vidím, e povìsti o tvıch skutcích nebyli pøehnané.~
+@0    = ~Mohu tì pøipravit o trochu tvého èasu? Jsem Tian. Potøebuji nìkoho, aby pro mnì vykonal obtínı a nebezpeènı úkol a jen málokteré povauji za schopné jej vykonat.~
+@1    = ~Ty ale vypadáš velmi schopnì. Nyní vidím, e povìsti o tvıch skutcích nebyli pøehnané.~
 @2    = ~Samozøejmì pomohu. Co je tøeba vykonat?~
 @3    = ~Mluv otevøenì. Budu poslouchat ale nic neslibuji.~
 @4    = ~Lichocení ti nepomùe.~
@@ -26,7 +26,7 @@
 @25   = ~Ne, stále nemám zájem. Jen se koukám okolo. Sbohem.~
 @26   = ~Velmi dobøe. Pøedpokládám tedy, e jsi pøipraven jít.~
 @27   = ~Škoda. Sbohem.~
-@28   = ~Tak? Jsi ochoten to udìlat èi ne? Rychle mluv.~
+@28   = ~Tak? Jsi ochoten to udìlat èi ne? Rozhodni se rychle.~
 @29   = ~Ano, beru. Mohu zaèít ihned.~
 @30   = ~Ne, èi pøinejmenším ne teï. Budeš si muset najít nìkoho jiného.~
 @31   = ~Koneènì jsi zpìt! Vidím, e máš tu knihu. Teï mi jí dej: nakonec pro tebe je k nièemu.~
@@ -60,7 +60,7 @@ Kapitán Kergo nás dovezl na ostrov, ale po vylodìní jsme byli pøepadeni nìkolika
 Porazil jsem Baloara, stráce vìe. Domníval se, e jsem ho vyhledal kvùli pomstì za jeho dávné skutky. To samozøejmì nebyla pravda, ale nedal mi šanci to vyjasnit, take jsem ho rychle zabil.
 Poté jsem ovšem shledal, e všechny vstupní dveøe jsou zamèeny. Budu muset najít jinou cestu ven.~
 
-@45   = ~Vì klamu - Klerik uvnitø uvìznìnı
+@45   = ~Vì klamu - Uvìznìnı knìz
 
 Potkal jsem Gulina, Helmova knìze, kterı zde byl nìkolik posledních mìsícù uvìznìn. Mluvil o velkém krystalu, Støepu Hvìzdy, kterı vytváøí neviditelnou teleportaèní sí, je nás všechny drí uvnitø. Povídal té, e Støep Hvìzdy je dùvodem, proè jsou všechny èelní dvìøe zamèené. Vypadá to, e jen a bude Støep Hvìzdy znièen, najdeme nìjaké monosti útìku.
 Té øíkal nìco o zmrzlıch dryádách, které se nachází v horním podlaí. Moná je budu moci osvobodit...~

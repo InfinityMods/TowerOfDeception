@@ -29,12 +29,12 @@ Poté jsem ovšem shledal, že všechny vstupní dveøe jsou zamèeny. Budu muset najít
 Získal jsem ostøí, a zdá se, že po smrti Služebníka jsem byl teleportován do Ustrainovy ložnice. Teï zbývá udìlat dvì poslední vìci: zabít Strážce Astralního krystal a znièit Astrální krystal samotný.~
 
 @99   = ~Gulinùv duch zamkl vstupní dveøe do vìže pro pøípad, že by nìkdo chtìl do ní vejít a rušit starobylé zlo spící uvnitø...~
-@100  = ~Mod Vez Klamu (vyzaduje Throne Of Bhaal)~
+@100  = ~Vez Klamu~
 @101  = ~Nevypada to, že bys mel nainstalovany datadisk Throne of Bhaal.~
 @102  = ~Rozsiruji existujici herni skripty...~
 @103  = ~Instalace filmu...~
 @104  = ~Setup musi pro dokonceni instalace umistit film do archivu a aktualizovat Chitin.key. Prosim o trpelivost.~
-@105  = ~Instalace filmu probehla uspesne. Uzijte si to!!~
+@105  = ~Instalace filmu probehla uspesne. Uzijte si to!~
 @106  = ~Vylepseny Strazce Strepu hvezdy~
 @107  = ~Nevypada to, ze bys mel nainstalovany mod Vez Klamu~
 @108  = ~Setkani s Ustrainem~
@@ -45,31 +45,33 @@ Získal jsem ostøí, a zdá se, že po smrti Služebníka jsem byl teleportován do Ust
 @203  = ~Ustrainova kniha kouzel je známý svazek sepsaný mágem Ustrain. Píše se v nìm o nejtemnìjších tajemstvích nekromancie, vyvolávání pekelných démonù, a jiných složitých kouzlech a schopnostech. Kniha je však magicky zapeèetìna, a protože nikdo ve tvé družinì nevládne dostateènou mocí, schopnou odstranit všechny magické peèetì, je ti kniha k nièemu. ~
 
 @300  = ~Váleèná èepel soumraku~
-@301  = ~Legendy praví, že tato èepel byla zkuta pøed dávnými èasy bìhem Doby Nesnází, kterážto po potøebì takových zbraní pøímo volala. Vykován severskými øemeslníky z oèarované oceli, kteøí do ní vložili všechnu svou lásku pro vše dobré a všechnu svou nenávist pro vše zlé, záøí stále jako vyleštìné støíbro. Bez ohledu na morální neèistotu tìch, jež trestá, se èepel vždy dokonale leskne a vyzaøuje namodralé svìtlo, které se proplétá, míhá a jiskøí po celé délce èepele.
+@301  = ~Obouruèní meè +5: Váleèná èepel soumraku
+Legendy praví, že tato èepel byla zkuta pøed dávnými èasy bìhem Doby Nesnází, kterážto po potøebì takových zbraní pøímo volala. Vykován severskými øemeslníky z oèarované oceli, kteøí do ní vložili všechnu svou lásku pro vše dobré a všechnu svou nenávist pro vše zlé, záøí stále jako vyleštìné støíbro. Bez ohledu na morální neèistotu tìch, jež trestá, se èepel vždy dokonale leskne a vyzaøuje namodralé svìtlo, které se proplétá, míhá a jiskøí po celé délce èepele.
+
 Váleèná èepel je inteligentní, jejím hlavním cílem je porazit všechno zlo. V boji dokáže urèovat nepøítelovo pøesvìdèení, a pokud zjistí, že protivník je zlé povahy, zpùsobí mu dodateèná zranìní. Také zvyšuje držitelovu schopnost ovládat magii a sesílat kouzla. Obèas testuje majitelovu mysl a inteligenci, a jestliže ten selže, je zde šance, že držitel zbranì propadne zuøivosti.
 
 VLASTNOSTI:
 
 Schopnosti v boji:
-   +5 zranìní navíc chaoticky zlým protivníkùm
-   5% šance, že pøi úspìšném zásahu je držitel meèe zachvácen zuøivostí na 10 kol
+- Zranìní chaoticky zlým protivníkùm: +5
+- Šance, že pøi úspìšném zásahu bude držitel meèe zachvácen zuøivostí na 10 kol: 5%
 
 Zvláštní schopnosti:
-   Posílení svatou mocí dvakrát dennì
-   Sesílání dvou kouzel za kolo
-   -1 k obratnosti
-   30% odolnost vùèi magii
+- Posílení svatou mocí dvakrát dennì
+- Sesílání dvou kouzel za kolo
+- Odolnost vùèi magii: 30%
+- Obratnosti: -1
 
-THAC0: +5 bonus
-Zranìní:  1K12 +5
-Druh zranìní:  seèné
-Váha: 30
+THAC0: +5
+Zranìní: 1K12 +5 (seèné)
 Rychlost: 5
 Druh dovednosti: obouruèní meè
-Druh:  dvouruèní
+Druh: obouruèní 
 Vyžaduje:
-   Síla 15
-   Inteligence 16
+Síla 15
+Inteligence 16
+
+Váha: 30
 
 Nemùže používat:
 Postava zlého pøesvìdèení
