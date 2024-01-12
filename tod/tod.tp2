@@ -33,6 +33,7 @@ LANGUAGE ~Italian (translated by ilot)~                                   ~Itali
 LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~tod/Tra/German/setup.tra~
 LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~tod/Tra/French/setup.tra~
 LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~tod/Tra/Polish/setup.tra~
+LANGUAGE ~Chinese~                    ~Schinese~  ~tod/Tra/Schinese/setup.tra~
 
 BEGIN @100
 REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
