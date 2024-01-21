@@ -25,15 +25,15 @@ ALWAYS
 END
 
 // Don't use %MOD_FOLDER% for LANGUAGE until it will be fixed, https://forums.pocketplane.net/index.php?topic=29956.msg340386#msg340386
-LANGUAGE ~English~                                                        ~English~ ~tod/Tra/English/setup.tra~
-LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~ ~tod/Tra/Spanish/setup.tra~
-LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz, Radim Klímek)~      ~Czech~   ~tod/Tra/Czech/setup.tra~
-LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~ ~tod/Tra/Russian/setup.tra~
-LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~ ~tod/Tra/Italian/setup.tra~
-LANGUAGE ~German (translated by Gerri)~                                   ~German~  ~tod/Tra/German/setup.tra~
-LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~  ~tod/Tra/French/setup.tra~
-LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~  ~tod/Tra/Polish/setup.tra~
-LANGUAGE ~Chinese~                    ~Schinese~  ~tod/Tra/Schinese/setup.tra~
+LANGUAGE ~English~                                                        ~English~  ~tod/tra/English/setup.tra~
+LANGUAGE ~Castellano (traducido por Clan REO y RPG-Bardo.com)~            ~Spanish~  ~tod/tra/Spanish/setup.tra~
+LANGUAGE ~Czech (prelozil Vlasak a Jab, www.sigil.cz, Radim Klímek)~      ~Czech~    ~tod/tra/Czech/setup.tra~
+LANGUAGE ~Russian (translation Austin&Tanger Soto&www.aerie.ru)~          ~Russian~  ~tod/tra/Russian/setup.tra~
+LANGUAGE ~Italian (translated by ilot)~                                   ~Italian~  ~tod/tra/Italian/setup.tra~
+LANGUAGE ~German (translated by Gerri)~                                   ~German~   ~tod/tra/German/setup.tra~
+LANGUAGE ~Francais (traduit par Le Marquis)~                              ~French~   ~tod/tra/French/setup.tra~
+LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polish~   ~tod/tra/Polish/setup.tra~
+LANGUAGE ~Chinese~                                                        ~Schinese~ ~tod/tra/Schinese/setup.tra~
 
 BEGIN @100
 REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
