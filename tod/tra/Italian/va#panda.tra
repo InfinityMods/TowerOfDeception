@@ -1,36 +1,36 @@
 @0    = ~Ahhhh...~
 @1    = ~Ahhhhh, finalmente...~
 @2    = ~Finalmente, sono di nuovo libera... Beh, relativamente libera.~
-@3    = ~Quella strega, Wistemach, mi ha tenuta sua prigioniera, comunque lei È morta, suppongo... Si, si, deve essere morta, altrimenti starei ancora dormendo...~
-@4    = ~E visto che non c'È nessun altro intorno, presumo che tu sia la persona che l'ha uccisa, vero?~
+@3    = ~Quella strega, Wistemach, mi ha tenuta sua prigioniera, comunque lei √© morta, suppongo... Si, si, deve essere morta, altrimenti starei ancora dormendo...~
+@4    = ~E visto che non c'√© nessun altro intorno, presumo che tu sia la persona che l'ha uccisa, vero?~
 @5    = ~Ti ringrazio, viaggiatore, ti ringrazio, chiunque tu sia. Sono stata intrappolata qui per molto tempo...~
 @6    = ~Non ti preoccupare. Io sono <CHARNAME>. E tu?~
-@7    = ~Oh, mi dispiace, mi stavo dimenticando di presentarmi. Io sono Pandaira, una driade. Sono sicura che hai gi‡ visto delle driadi.~
-@8    = ~Si, le ho gi‡ viste. Ma questo non Ë importante. La cosa importante È capire cosa ci facevi in questo posto.~
-@9    = ~Diciamo solo che avevo delle cose mie da sbrigare in questa torre abbandonata molto tempo fa. Ma ora... beh... non pi˘...~
+@7    = ~Oh, mi dispiace, mi stavo dimenticando di presentarmi. Io sono Pandaira, una driade. Sono sicura che hai gi√† visto delle driadi.~
+@8    = ~Si, le ho gi√† viste. Ma questo non √® importante. La cosa importante √© capire cosa ci facevi in questo posto.~
+@9    = ~Diciamo solo che avevo delle cose mie da sbrigare in questa torre abbandonata molto tempo fa. Ma ora... beh... non pi√π...~
 @10   = ~Tuttavia, in segno di ricompensa per avermi liberata dal regno di Wistemach, potrei darti qualche informazione di cui avrai bisogno. Hmmm?~
 @11   = ~Ho la tua attenzione ora?~
 @12   = ~Ti sto ascoltando...~
-@13   = ~Molto bene allora. Prima di tutto, una domanda. Sei venuto per quel libro, non È vero?~
+@13   = ~Molto bene allora. Prima di tutto, una domanda. Sei venuto per quel libro, non √© vero?~
 @14   = ~In effetti si. Ma come sai io...~
 @15   = ~Bah, tutti quelli che entrano nella torre lo vogliono. E' la sola cosa di valore che ci sia in questo posto. Tutte le altre cose sono solo robaccia.~
 @16   = ~Tu non sei il primo, e se tu morirai, non sarai l'ultimo. Tuttavia, io posso aiutarti a prenderlo.~
 @17   = ~Stai parlando troppo. Se veramente hai qualche preziosa informazione, allora dimmela.~
-@18   = ~D'accordo, d'accordo. Il libro che stai cercando È il Libro degli Incantesimi di Ustrain, che contiene diverse potentissime magie.~
-@19   = ~Il libro È stato magicamente sigillato da Ustrain, in caso qualcuno lo rubasse. Solo un mago espertissimo puÚ rompere i suoi sigilli, cosÏ se tu non sei molto esperto, sar‡ inutile per te provarci.~
-@20   = ~Il libro non ha nessun altra protezione. Si trova nella camera da letto di Ustrain in uno degli ultimi piani, esattamente il piano Ë quello sotto la stanza del Frammento Astrale. Ma per arrivare lÏ... questa È un'altra storia.~
-@21   = ~Devi passare attraverso la cavit‡ della torre, dove sono tenuti, o "depositati" il resto dei prigionieri... Saranno sorvegliati, ne sono sicura. E ricordati: solo la morte del servitore fedele di Ustrain potr‡ teletrasportarti ai piani superiori... Questo Ë tutto quello che so.~
-@22   = ~Chi È questo servitore fedele?~
-@23   = ~Non lo so. La sola cosa che so È che protegge "la Lama", una spada, o qualcosa di simile...~
+@18   = ~D'accordo, d'accordo. Il libro che stai cercando √© il Libro degli Incantesimi di Ustrain, che contiene diverse potentissime magie.~
+@19   = ~Il libro √© stato magicamente sigillato da Ustrain, in caso qualcuno lo rubasse. Solo un mago espertissimo pu√≤ rompere i suoi sigilli, cos√¨ se tu non sei molto esperto, sar√† inutile per te provarci.~
+@20   = ~Il libro non ha nessun altra protezione. Si trova nella camera da letto di Ustrain in uno degli ultimi piani, esattamente il piano √® quello sotto la stanza del Frammento Astrale. Ma per arrivare l√¨... questa √© un'altra storia.~
+@21   = ~Devi passare attraverso la cavit√† della torre, dove sono tenuti, o "depositati" il resto dei prigionieri... Saranno sorvegliati, ne sono sicura. E ricordati: solo la morte del servitore fedele di Ustrain potr√† teletrasportarti ai piani superiori... Questo √® tutto quello che so.~
+@22   = ~Chi √© questo servitore fedele?~
+@23   = ~Non lo so. La sola cosa che so √© che protegge "la Lama", una spada, o qualcosa di simile...~
 @24   = ~Bene, ti ringrazio. Potrebbe essere un informazione utile.~
-@25   = ~Un'ultima cosa: devi distruggere anche il Frammento Astrale, collocato all'ultimo piano della torre. PuÚ essere distrutto solo da un forte fuoco. Inoltre È protetto anche da un guardiano. Il Frammento Astrale non puÚ essere distrutto finchÈ il suo guardiano rimane in vita.~
-@26   = ~Una volta che avrai distrutto il Frammento il suo potere ritorner‡ al Piano Astrale, e la trappola svanir‡. Quando sarai sulla via del ritorno tutto sar‡ chiaro: tutte le porte saranno aperte e saranno liberati anche tutti i prigionieri.~
-@27   = ~Ti ringrazio ancora. CorrerÚ il rischio. Addio.~
+@25   = ~Un'ultima cosa: devi distruggere anche il Frammento Astrale, collocato all'ultimo piano della torre. Pu√≤ essere distrutto solo da un forte fuoco. Inoltre √© protetto anche da un guardiano. Il Frammento Astrale non pu√≤ essere distrutto finch√© il suo guardiano rimane in vita.~
+@26   = ~Una volta che avrai distrutto il Frammento il suo potere ritorner√† al Piano Astrale, e la trappola svanir√†. Quando sarai sulla via del ritorno tutto sar√† chiaro: tutte le porte saranno aperte e saranno liberati anche tutti i prigionieri.~
+@27   = ~Ti ringrazio ancora. Correr√≤ il rischio. Addio.~
 @28   = ~Possa la Luce guidarti. Addio, viaggiatore. Forse ci rincontreremo ancora.~
-@29   = ~Buon combattimento, <RACE>, spero che farai qualcosa, perchÈ qualcosa deve essere fatta...~
+@29   = ~Buon combattimento, <RACE>, spero che farai qualcosa, perch√© qualcosa deve essere fatta...~
 @30   = ~La Torre dell'Inganno - Liberata Pandaira
 
-BenchÈ avessi liberato le driadi congelate, una di loro, Wistemach, mi ha scambiato per il servitore di Ustrain e mi ha attaccato. Sono stato costretto ad ucciderla. L'altra, Pandaira, mi Ë stata molto grata. Sembra che Wistemach la controllasse, e che lei era in una specie di trappola. Ora lei Ë nuovamente libera. Come riconoscenza, mi ha parlato del libro degli incantesimi di Ustrain e che si trova nella sua camera da letto in uno dei piani alti, per uscire da qui, comunque, dovrÚ andare all'ultimo piano della torre, uccidere il guardiano del Frammento Astrale, e distruggere lo stesso Frammento Astrale. Ha accennato che il Frammento puÚ essere distrutto solo "da un forte fuoco".~
+Bench√© avessi liberato le driadi congelate, una di loro, Wistemach, mi ha scambiato per il servitore di Ustrain e mi ha attaccato. Sono stato costretto ad ucciderla. L'altra, Pandaira, mi √® stata molto grata. Sembra che Wistemach la controllasse, e che lei era in una specie di trappola. Ora lei √® nuovamente libera. Come riconoscenza, mi ha parlato del libro degli incantesimi di Ustrain e che si trova nella sua camera da letto in uno dei piani alti, per uscire da qui, comunque, dovr√≤ andare all'ultimo piano della torre, uccidere il guardiano del Frammento Astrale, e distruggere lo stesso Frammento Astrale. Ha accennato che il Frammento pu√≤ essere distrutto solo "da un forte fuoco".~
 
 @31  = ~Naturalmente. E chi sei tu?~
 @32  = ~Come si finita imprigionata in questo modo?~

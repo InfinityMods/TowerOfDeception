@@ -1,18 +1,18 @@
 @0    = ~Imbroglioni!!~
 @1    = ~Assassini!!~
 @2    = ~Appena entri in questo piano, ti trovi di fronte a quello che doveva essere stato il vecchio laboratorio di Ustrain...~
-@3    = ~Il potere invisibile che bloccava le scale È scomparso. Ora l'accesso Ë libero.~
-@4    = ~Hai ucciso uno dei prigionieri. Se aveva qualche preziosa informazione da darti, ora non puÚ pi˘ dartela. Adesso Ë impossibile salvare la seconda prigioniera.~
+@3    = ~Il potere invisibile che bloccava le scale √© scomparso. Ora l'accesso √® libero.~
+@4    = ~Hai ucciso uno dei prigionieri. Se aveva qualche preziosa informazione da darti, ora non pu√≤ pi√π dartela. Adesso √® impossibile salvare la seconda prigioniera.~
 @5    = ~Entrambe le prigioniere sono morte. Peccato.~
-@6    = ~La presenza della spada nel tuo inventario e la morte del suo guardiano ti ha teletrasportato ai livelli superiori della torre... Ora non si puÚ ritornare indietro...~
+@6    = ~La presenza della spada nel tuo inventario e la morte del suo guardiano ti ha teletrasportato ai livelli superiori della torre... Ora non si pu√≤ ritornare indietro...~
 @7    = ~Devo difendere il Frammento Astrale...~
 @8    = ~La morte di Wistemach ha sbloccato tutte le uscite.~
 @9    = ~Gulin ha bloccato gli ingressi principali della torre nel caso in cui a qualcuno fosse venuto in mente di provare ad entrare e disturbare l'antico male che vi riposa dentro...~
-@10   = ~Questo È un interruttore di qualche tipo. Forse sar‡ in grado di fermare il funzionamento della sfera e di interrompere i lampi da essa prodotti.~
+@10   = ~Questo √© un interruttore di qualche tipo. Forse sar√† in grado di fermare il funzionamento della sfera e di interrompere i lampi da essa prodotti.~
 @11   = ~La sfera ha smesso di produrre i lampi una volta che hai schiacciato l'interruttore.~
-@12   = ~Schiacciando ancora l'interruttore certamente la macchina ripartir‡ producendo nuovamente i lampi. E' sconsigliabile premere nuovamente l'interruttore.~
+@12   = ~Schiacciando ancora l'interruttore certamente la macchina ripartir√† producendo nuovamente i lampi. E' sconsigliabile premere nuovamente l'interruttore.~
 @13   = ~Sei troppo lontano per utilizzare questo oggetto.~
-@14   = ~Questo teletrasporto È unilaterale e conduce ad un sotterraneo o una grotta sconosciuta, probabilmente sotto la torre, per quello che puoi vedere...~
+@14   = ~Questo teletrasporto √© unilaterale e conduce ad un sotterraneo o una grotta sconosciuta, probabilmente sotto la torre, per quello che puoi vedere...~
 @15   = ~Il portale ti teletrasporta violentemente in un sotterraneo sconosciuto. Appena arrivato devi aspettare qualche minuto per riprendere fiato.~
 @16   = ~Sei troppo lontano per utilizzare questo oggetto.~
 @17   = ~La Torre dell'Inganno - Imboscata degli Zombie del Mare 
@@ -21,7 +21,7 @@ Il capitano Kergo ci ha portato sull'isola, ma dopo essere sbarcati, siamo stati
 
 @18   = ~La Torre dell'Inganno - La morte di Baloar 
 
-Ho sconfitto Baloar, il guardiano della torre. Pensava che lo stessi cercando per vendicarmi di qualcosa successa molti anni fa. Ovviamente, non era vero, ma non mi ha dato l'opportunit‡ di discuterne, cosÏ l'ho ucciso subito.
+Ho sconfitto Baloar, il guardiano della torre. Pensava che lo stessi cercando per vendicarmi di qualcosa successa molti anni fa. Ovviamente, non era vero, ma non mi ha dato l'opportunit√† di discuterne, cos√¨ l'ho ucciso subito.
 Ora mi sono accorto che tutte le porte principali sono bloccate. Devo trovare un'altra via d'uscita.~
 
 @19   = ~La Torre dell'Inganno - La Battaglia finale 
@@ -34,7 +34,7 @@ Ora ho la Spada, sembra che dopo la morte del Servitore io sia stato teletraspor
 @102  = ~Estendendo il game scripts esistente...~
 @103  = ~Installazione del Filmato...~
 @104  = ~L'installazione deve convertire il filmato ed aggiornare Chitin.key per completare con successo l'installazione. Un po' di pazienza per favore.~
-@105  = ~L'installazione del Filmato È stata completata con successo. Buon divertimento!!~
+@105  = ~L'installazione del Filmato √© stata completata con successo. Buon divertimento!!~
 @106  = ~Migliorato il Guardiano del Frammento Astrale~
 @107  = ~Non sembra che hai la Torre dell'Inganno installato.~
 @108  = ~L'incontro con Ustrain~
@@ -42,21 +42,21 @@ Ora ho la Spada, sembra che dopo la morte del Servitore io sia stato teletraspor
 @200  = ~Vecchio Libro Polveroso~
 @201  = ~Libro degli Incantesimi di Ustrain~
 @202  = ~Un tomo con delle decorazioni su una rilegatura di pelle, coperto in gran parte di polvere. Da questo libro fuoriesce Una specie di energia magica.~
-@203  = ~Il Libro degli Incantesimi di Ustrain È un famoso libro scritto dallo stesso stregone Ustrain. Parla di oscuri segreti di necromanzia, di come evocare demoni infernali, e di come lanciare altri incantesimi di alto livello. Tuttavia, il libro È sigillato e siccome nel tuo gruppo non c'È nessuno che sia cosÏ tanto potente da essere in grado di rimuovere tutti i sigilli magici per te rimane, al momento, un libro totalmente inservibile. ~
+@203  = ~Il Libro degli Incantesimi di Ustrain √© un famoso libro scritto dallo stesso stregone Ustrain. Parla di oscuri segreti di necromanzia, di come evocare demoni infernali, e di come lanciare altri incantesimi di alto livello. Tuttavia, il libro √© sigillato e siccome nel tuo gruppo non c'√© nessuno che sia cos√¨ tanto potente da essere in grado di rimuovere tutti i sigilli magici per te rimane, al momento, un libro totalmente inservibile. ~
 
 @300  = ~La Lama del Crepuscolo~
-@301  = ~Le leggende narrano che questa lama È stata creata molto tempo fa, durante il Periodo dei Disordini, quando il bisogno di simili armi era necessario. E' stata forgiata dagli artigiani del nord mettendo insieme il loro amore per qualsiasi cosa che era buona e il loro odio per tutto ciÚ che era malvagio. Questa spada Ë stata modellata con acciaio incantato e argento luminoso ottenendo, in questo modo, un incessante bagliore sulla spada. La lama Ë perfettamente riflettente e splendente non preoccupandosi di che tipo di castigo venga punito, ardendo di una luce blu lungo tutta la spada.
-La lama È intelligente, il suo primo pensiero È la difesa da tutto ciÚ che È malvagio. In combattimento puÚ riconoscere la natura di un avversario. Se scopre che il suo allineamento È malvagio, applica su di lui un danno extra. Inoltre incrementa l'abilit‡ del suo possessore di chiamare a se della magia e di lanciarla velocemente. Qualche volta la lama mette alla prova la stessa mente e l'intelligenza di colui che la impugna, e se chi maneggia la spada fallisce, c'È la possibilit‡ che entri in uno stato di berserker.
+@301  = ~Le leggende narrano che questa lama √© stata creata molto tempo fa, durante il Periodo dei Disordini, quando il bisogno di simili armi era necessario. E' stata forgiata dagli artigiani del nord mettendo insieme il loro amore per qualsiasi cosa che era buona e il loro odio per tutto ci√≤ che era malvagio. Questa spada √® stata modellata con acciaio incantato e argento luminoso ottenendo, in questo modo, un incessante bagliore sulla spada. La lama √® perfettamente riflettente e splendente non preoccupandosi di che tipo di castigo venga punito, ardendo di una luce blu lungo tutta la spada.
+La lama √© intelligente, il suo primo pensiero √© la difesa da tutto ci√≤ che √© malvagio. In combattimento pu√≤ riconoscere la natura di un avversario. Se scopre che il suo allineamento √© malvagio, applica su di lui un danno extra. Inoltre incrementa l'abilit√† del suo possessore di chiamare a se della magia e di lanciarla velocemente. Qualche volta la lama mette alla prova la stessa mente e l'intelligenza di colui che la impugna, e se chi maneggia la spada fallisce, c'√© la possibilit√† che entri in uno stato di berserker.
 
 STATISTICHE
 
-Abilit‡ di Combattimento:
+Abilit√† di Combattimento:
    +5 al danno per gli avversari di allineamento caotico malvagio in aggiunta agli altri bonus.
-   5% di possibilit‡ che i colpi causeranno a chi la impugna di entrare in uno stato di berserker della mente per 10 rounds.
+   5% di possibilit√† che i colpi causeranno a chi la impugna di entrare in uno stato di berserker della mente per 10 rounds.
 
-Abilit‡ Speciali:
-   PuÚ lanciare "Invocare la Potenza Divina" due volte al giorno
-   PuÚ lanciare 2 incantesimi per round
+Abilit√† Speciali:
+   Pu√≤ lanciare "Invocare la Potenza Divina" due volte al giorno
+   Pu√≤ lanciare 2 incantesimi per round
    -1 alla Destrezza
    30% di Resistenza alla Magia
 
@@ -64,7 +64,7 @@ THAC0: +5 bonus
 Danno:  1D12 +5
 Tipo di danno:  tagliente
 Peso: 30
-Velocit‡: 5
+Velocit√†: 5
 Tipo di competenza: Spada a due mani
 Tipo:  a due mani
 Requisiti:

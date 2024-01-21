@@ -1,64 +1,64 @@
-@0   = ~°Mentirosos!~
-@1   = ~°Asesinos!~
+@0   = ~¬°Mentirosos!~
+@1   = ~¬°Asesinos!~
 @2   = ~Al poco de acceder a este piso, os dais cuenta de que es el antiguo estudio de Ustrain.~
-@3   = ~El poder invisible que bloqueaba las escaleras ha desaparecido. Ahora podÈis pasar.~
-@4   = ~Has matado a una de las prisioneras, y cualquier informaciÛn ˙til que pudiera tener se ha perdido. Ahora no es posible rescatar a la otra prisionera.~
-@5   = ~Ambas prisioneras han muerto. Es una l·stima.~
-@6   = ~El tener la espada en tu inventario y la muerte de su guardi·n han causado tu teleportaciÛn a los niveles superiores. Ahora no hay vuelta atr·s...~
+@3   = ~El poder invisible que bloqueaba las escaleras ha desaparecido. Ahora pod√©is pasar.~
+@4   = ~Has matado a una de las prisioneras, y cualquier informaci√≥n √∫til que pudiera tener se ha perdido. Ahora no es posible rescatar a la otra prisionera.~
+@5   = ~Ambas prisioneras han muerto. Es una l√°stima.~
+@6   = ~El tener la espada en tu inventario y la muerte de su guardi√°n han causado tu teleportaci√≥n a los niveles superiores. Ahora no hay vuelta atr√°s...~
 @7   = ~Debo defender el fragmento astral...~
 @8   = ~La muerte de Wistemach ha desbloqueado la salida.~
 @9   = ~Pandaira ha bloqueado la puerta principal de la torre para evitar que nadie entre y despierte al ser de gran maldad que se encuentra dentro.~
-@10  = ~Es alg˙n tipo de interruptor. Quiz· evite que el orbe siga creando esos rayos.~
+@10  = ~Es alg√∫n tipo de interruptor. Quiz√° evite que el orbe siga creando esos rayos.~
 @11  = ~El orbe se detiene al activar el interruptor.~
-@12  = ~Volver a usar el interruptor causarÌa, sin duda, que la m·quina volviera a producir rayos. Activarlo no serÌa una buena idea.~
-@13  = ~Est·s demasiado lejos para usarlo.~
-@14  = ~Esta teleportaciÛn unidireccional lleva a una cueva o mazmorra desconocida, probablemente situada bajo la torre, por lo que puedes ver...~
-@15  = ~El portal te teleporta r·pidamente a la mazmorra. Tienes que parar un momento a tomar aliento al llegar allÌ.~
-@16  = ~Est·s demasiado lejos para usarlo.~
-@17  = ~La Torre del EngaÒo - Emboscada de Zombies Marinos
+@12  = ~Volver a usar el interruptor causar√≠a, sin duda, que la m√°quina volviera a producir rayos. Activarlo no ser√≠a una buena idea.~
+@13  = ~Est√°s demasiado lejos para usarlo.~
+@14  = ~Esta teleportaci√≥n unidireccional lleva a una cueva o mazmorra desconocida, probablemente situada bajo la torre, por lo que puedes ver...~
+@15  = ~El portal te teleporta r√°pidamente a la mazmorra. Tienes que parar un momento a tomar aliento al llegar all√≠.~
+@16  = ~Est√°s demasiado lejos para usarlo.~
+@17  = ~La Torre del Enga√±o - Emboscada de Zombies Marinos
 
-El Capit·n Kergo nos ha traÌdo a la isla, pero despuÈs de desembarcar, fuimos asaltados por varios zombis marinos. Salieron de la nada, pero no resultaron un peligro. Pero me temo algo peor, parece como si la torre nos estuviera vigilando...~
+El Capit√°n Kergo nos ha tra√≠do a la isla, pero despu√©s de desembarcar, fuimos asaltados por varios zombis marinos. Salieron de la nada, pero no resultaron un peligro. Pero me temo algo peor, parece como si la torre nos estuviera vigilando...~
 
-@18  = ~Torre del engaÒo - Muerte de Baloar
+@18  = ~Torre del enga√±o - Muerte de Baloar
 
-DerrotÈ a Baloar, el guardi·n de la torre. PensÛ que venÌa a vengarme de algo que hizo hace mucho tiempo, lo que claramente era un error, pero no pude discutirlo y tuve que matarlo. De todas formas, parece que se lo merecÌa.
-He descubierto que las puertas est·n cerradas. TendrÈ que buscar otra forma de salir.~
+Derrot√© a Baloar, el guardi√°n de la torre. Pens√≥ que ven√≠a a vengarme de algo que hizo hace mucho tiempo, lo que claramente era un error, pero no pude discutirlo y tuve que matarlo. De todas formas, parece que se lo merec√≠a.
+He descubierto que las puertas est√°n cerradas. Tendr√© que buscar otra forma de salir.~
 
-@19  = ~Torre del engaÒo - Batalla final
+@19  = ~Torre del enga√±o - Batalla final
 
-Ahora tengo la Espada, y parece que la muerte del sirviente me teleportÛ autom·ticamente al dormitorio de Ustrain. Ahora sÛo falta derrotar al guardi·n del fragmento astral y destruir el propio fragmento... aunque no ser· f·cil.~
+Ahora tengo la Espada, y parece que la muerte del sirviente me teleport√≥ autom√°ticamente al dormitorio de Ustrain. Ahora s√≥o falta derrotar al guardi√°n del fragmento astral y destruir el propio fragmento... aunque no ser√° f√°cil.~
 
-@99  = ~El espÌritu de Gulin ha cerrado la puerta principal de la torre para evitar que nadie entre y perturbe el mal que duerme dentro...~
-@100 = ~Torre del engaÒo~
+@99  = ~El esp√≠ritu de Gulin ha cerrado la puerta principal de la torre para evitar que nadie entre y perturbe el mal que duerme dentro...~
+@100 = ~Torre del enga√±o~
 @101 = ~Parece que no has instalado Throne of Bhaal.~
 @102 = ~Ampliando los scripts del juego...~
-@103 = ~Instalando vÌdeo~
-@104 = ~La instalaciÛn debe convertir el vÌdeo a biff y actualizar Chitin.key para completarse. Por favor, ten paciencia.~
-@105 = ~El vÌdeo se ha instalado correctamente.~
-@106 = ~Guardi·n del Fragmento Astral Mejorado~
-@107 = ~Al parecer no tienes instalado el mod Torre del EngaÒo.~
+@103 = ~Instalando v√≠deo~
+@104 = ~La instalaci√≥n debe convertir el v√≠deo a biff y actualizar Chitin.key para completarse. Por favor, ten paciencia.~
+@105 = ~El v√≠deo se ha instalado correctamente.~
+@106 = ~Guardi√°n del Fragmento Astral Mejorado~
+@107 = ~Al parecer no tienes instalado el mod Torre del Enga√±o.~
 @108 = ~Encuentro con Ustrain~
 
 @200 = ~Libro polvoriento~
 @201 = ~Libro de conjuros de Ustrain~
-@202 = ~Un libro con cubiertas de cuero decoradas, lleno de polvo. Emite alg˙n tipo de energÌa m·gica.~
-@203 = ~El libro de conjuros de Ustrain es famoso por contener los m·s oscuros secretos de nigromancia, convocaciÛn de diablos y otros conjuros de gran poder. El libro est· sellado m·gicamente, y no hay nadie en tu grupo que pueda quitar los sellos, asÌ que no te vale para nada de todos modos.~
+@202 = ~Un libro con cubiertas de cuero decoradas, lleno de polvo. Emite alg√∫n tipo de energ√≠a m√°gica.~
+@203 = ~El libro de conjuros de Ustrain es famoso por contener los m√°s oscuros secretos de nigromancia, convocaci√≥n de diablos y otros conjuros de gran poder. El libro est√° sellado m√°gicamente, y no hay nadie en tu grupo que pueda quitar los sellos, as√≠ que no te vale para nada de todos modos.~
 
-@300 = ~Filo guerrero del Crep˙sculo~
-@301 = ~Las leyendas cuentan que este filo fue hecho hace mucho tiempo, durante la Era de los Trastornos, cuando era obvia la necesidad de estas armas. Forjada por herreros del norte combinando su amor por todo lo bueno y el odio por todo lo malvado, esta espada est· hecha de acero encantado y brilla cual plata pulida todo el tiempo. La espada brilla y refleja sin importar los castigos que pueda sufrir, y reluce con un brillo azul que recorre todo el filo.
-Se trata de un filo guerrero inteligente, su principal motivaciÛn es destruir la maldad. Durante el combate puede detectar el alineamiento del enemigo, y si detecta que es de naturaleza malvada, causa un daÒo extra. TambiÈn aumenta la habilidad del portador de invocar y la velocidad de lanzamiento de hechizos. A veces incluso pone a prueba la inteligencia del portador y si falla existe la posibilidad de que entre en modo Furia.
-ESTADÕSTICAS
+@300 = ~Filo guerrero del Crep√∫sculo~
+@301 = ~Las leyendas cuentan que este filo fue hecho hace mucho tiempo, durante la Era de los Trastornos, cuando era obvia la necesidad de estas armas. Forjada por herreros del norte combinando su amor por todo lo bueno y el odio por todo lo malvado, esta espada est√° hecha de acero encantado y brilla cual plata pulida todo el tiempo. La espada brilla y refleja sin importar los castigos que pueda sufrir, y reluce con un brillo azul que recorre todo el filo.
+Se trata de un filo guerrero inteligente, su principal motivaci√≥n es destruir la maldad. Durante el combate puede detectar el alineamiento del enemigo, y si detecta que es de naturaleza malvada, causa un da√±o extra. Tambi√©n aumenta la habilidad del portador de invocar y la velocidad de lanzamiento de hechizos. A veces incluso pone a prueba la inteligencia del portador y si falla existe la posibilidad de que entre en modo Furia.
+ESTAD√çSTICAS
 Habilidades de Combate:
-   +5 de daÒo a enemigos caÛtico malvados.
+   +5 de da√±o a enemigos ca√≥tico malvados.
    5% de posibilidades de que todos los golpes hagan que el portador entre en modo furia durante 10 rondas.
 Habilidades especiales:
-   Puede lanzar Invocar al poder sagrado dos veces al dÌa
+   Puede lanzar Invocar al poder sagrado dos veces al d√≠a
    Permite lanzar dos hechizos por ronda
    -1 a la Destreza
    30% resistencia a la magia
 THAC0: +5
-DaÒo: 1D12 +5
-Tipo de daÒo: Cortante
+Da√±o: 1D12 +5
+Tipo de da√±o: Cortante
 Peso: 30
 Factor de velocidad: 5
 Talento marcial: Espada a dos manos
@@ -69,24 +69,24 @@ Requiere:
 No lo puede usar:
 Personajes malignos
 Druida
-ClÈrigo
+Cl√©rigo
 Mago
-LadrÛn
+Ladr√≥n
 Monje
 Bardo~
 
 @400 = ~Fragmento astral~
 @401 = ~Baloar~
-@402 = ~DrÌada~
+@402 = ~Dr√≠ada~
 @403 = ~Gulin~
 @404 = ~Gulin Murth~
-@405 = ~Capit·n Kergo~
+@405 = ~Capit√°n Kergo~
 @406 = ~Sirviente~
-@407 = ~Guardi·n del fragmento astral~
+@407 = ~Guardi√°n del fragmento astral~
 @408 = ~Pandaira~
 @409 = ~Prisionera~
-@410 = ~EspÌritu~
-@411 = ~SeÒor de las sombras~
+@410 = ~Esp√≠ritu~
+@411 = ~Se√±or de las sombras~
 @412 = ~Sombra~
 @413 = ~Tian~
 @414 = ~Wistemach~

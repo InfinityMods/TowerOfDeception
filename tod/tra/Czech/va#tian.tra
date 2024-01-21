@@ -1,87 +1,87 @@
-@0    = ~Mohu tì pøipravit o trochu tvého èasu? Jsem Tian. Potøebuji nìkoho, aby pro mnì vykonal obtínı a nebezpeènı úkol a jen málokteré povauji za schopné jej vykonat.~
-@1    = ~Ty ale vypadáš velmi schopnì. Nyní vidím, e povìsti o tvıch skutcích nebyli pøehnané.~
-@2    = ~Samozøejmì pomohu. Co je tøeba vykonat?~
-@3    = ~Mluv otevøenì. Budu poslouchat ale nic neslibuji.~
-@4    = ~Lichocení ti nepomùe.~
-@5    = ~Odpus, musím jít.~
-@6    = ~Mluvím jménem mága, kterı sídlí mimo Athkatlu. Potøebuje urèitı pøedmìt. Knihu kouzel.~
-@7    = ~Ale pøímo k jádru vìci. Mimo pobøeí Amnu se nachází opuštìná vì, zvaná Vì klamu. Byla postavena Ustrainem, mágem kdysi dávno známım a dnes zapomenutım. Nepovím ti nic více, jeliko by ti to pravdìpodobnì ve tvém úkolu nepomohlo.~
-@8    = ~Vše co potøebuji je, aby nìkdo udìlal uvnitø malı prùzkum a pøinesl mi knihu. Ustrainovu knihu kouzel. Potøebuji tebe, <CHARNAME>.~
-@9    = ~Èeká tì za to øízná odmìna. Pìt tisíc zlatıch a mùeš si ponechat vše ostatní, co najdeš. Musím tì ovšem varovat. Jakmile úkol pøijmeš, není cesty zpìt, dokud jej nesplníš...~
-@10   = ~Pìt tisíc? Proè ne padesát? Nevìøím ti.~
-@11   = ~Nevím. Mám pocit, e jsi mi nìco neøekl.~
-@12   = ~Jsme dohodnuti. Kde je ta vì a kdy mám jít?~
-@13   = ~Slyšel jsem dost, ale nemám zájem. Sbohem.~
-@14   = ~Je to malá cena pro mého mistra a poctivá cena za úkol. Buï ujištìn, e budeš odmìnìn.~
-@15   = ~Øekl jsem ti vše co budeš potøebovat pro splnìní úkolu. A budeš uvnitø, zjistíš zbylé.~
-@16   = ~Dobøe. Mùj pán bude potìšen.~
-@17   = ~Mùj nejdùvìryhodnìjší kapitán tì oèekává na své lodi v odlouèené zátoce nedaleko odsud. Vezmu tì tam. Pamatuj, od této chvíle jsi na to sám. A budeš hotov, vra se ke mnì. Teï pojï, Vì èeká...~
-@18   = ~A u odejdeš teï èi pozdìji, nabídka zùstává. Ovšem preferoval bych, kdybys dokonèil úkol brzy.~
-@19   = ~Jak si pøeješ. Sbohem.~
-@20   = ~Ah, vrátil ses. Zmìnil jsi názor?~
-@21   = ~Opravdu jsem zmìnil názor. Øekni mi znovu o tvé nabídce.~
-@22   = ~Ne, nemám zájem. Jen se koukám okolo. Sbohem.~
-@23   = ~Ah, vrátil ses. Co? Zmìnil jsi opìt své rozhodnutí?~
-@24   = ~Ano, zmìnil.~
-@25   = ~Ne, stále nemám zájem. Jen se koukám okolo. Sbohem.~
-@26   = ~Velmi dobøe. Pøedpokládám tedy, e jsi pøipraven jít.~
-@27   = ~Škoda. Sbohem.~
-@28   = ~Tak? Jsi ochoten to udìlat èi ne? Rozhodni se rychle.~
-@29   = ~Ano, beru. Mohu zaèít ihned.~
-@30   = ~Ne, èi pøinejmenším ne teï. Budeš si muset najít nìkoho jiného.~
-@31   = ~Koneènì jsi zpìt! Vidím, e máš tu knihu. Teï mi jí dej: nakonec pro tebe je k nièemu.~
-@32   = ~Dobøe, tady je. Vezmi si jí a dej mi mou slíbenou odmìnu.~
-@33   = ~Teï je pro mì bezcenná. Ale v budoucnu se mé dovednosti zlepší a jsem si jist, e pak budu schopen prolomit peèeti. Tedy ne, nevydám ti jí.~
-@34   = ~Samozøejmì. Tady to je, jak bylo slíbeno. Pøijmi prosím mé úpøímné díky. Prokázal jsi se jako hodnotnı a té dùvìryhodnı spojenec. Sbohem, <CHARNAME>.~
-@35   = ~Díky. Sbohem.~
-@36   = ~Nehraj si se mnou, <CHARNAME>. Nemám dobrou náladu. Teï mi to vydej. Mìli jsme dohodu!~
-@37   = ~Ne. Jak jsem øekl, radìji bych si to ponechal.~
-@38   = ~Dáváš mi málo na vıbìr. Vezmu si to silou, kdy musím. Pøiprav se zemøít!~
-@39   = ~Blázni! Pøišli jste bez toho zpìt? Je to vùbec moné? Pøál bych si, abyste tam zùstali, debilní kreténi! S vámi u nebudu nic víc mít!~
+@0    = ~Mohu tÄ› pÅ™ipravit o trochu tvÃ©ho Äasu? Jsem Tian. PotÅ™ebuji nÄ›koho, aby pro mnÄ› vykonal obtÃ­Å¾nÃ½ a nebezpeÄnÃ½ Ãºkol a jen mÃ¡lokterÃ© povaÅ¾uji za schopnÃ© jej vykonat.~
+@1    = ~Ty ale vypadÃ¡Å¡ velmi schopnÄ›. NynÃ­ vidÃ­m, Å¾e povÄ›sti o tvÃ½ch skutcÃ­ch nebyli pÅ™ehnanÃ©.~
+@2    = ~SamozÅ™ejmÄ› pomohu. Co je tÅ™eba vykonat?~
+@3    = ~Mluv otevÅ™enÄ›. Budu poslouchat ale nic neslibuji.~
+@4    = ~LichocenÃ­ ti nepomÅ¯Å¾e.~
+@5    = ~OdpusÅ¥, musÃ­m jÃ­t.~
+@6    = ~MluvÃ­m jmÃ©nem mÃ¡ga, kterÃ½ sÃ­dlÃ­ mimo Athkatlu. PotÅ™ebuje urÄitÃ½ pÅ™edmÄ›t. Knihu kouzel.~
+@7    = ~Ale pÅ™Ã­mo k jÃ¡dru vÄ›ci. Mimo pobÅ™eÅ¾Ã­ Amnu se nachÃ¡zÃ­ opuÅ¡tÄ›nÃ¡ vÄ›Å¾, zvanÃ¡ VÄ›Å¾ klamu. Byla postavena Ustrainem, mÃ¡gem kdysi dÃ¡vno znÃ¡mÃ½m a dnes zapomenutÃ½m. NepovÃ­m ti nic vÃ­ce, jelikoÅ¾ by ti to pravdÄ›podobnÄ› ve tvÃ©m Ãºkolu nepomohlo.~
+@8    = ~VÅ¡e co potÅ™ebuji je, aby nÄ›kdo udÄ›lal uvnitÅ™ malÃ½ prÅ¯zkum a pÅ™inesl mi knihu. Ustrainovu knihu kouzel. PotÅ™ebuji tebe, <CHARNAME>.~
+@9    = ~ÄŒekÃ¡ tÄ› za to Å™Ã­znÃ¡ odmÄ›na. PÄ›t tisÃ­c zlatÃ½ch a mÅ¯Å¾eÅ¡ si ponechat vÅ¡e ostatnÃ­, co najdeÅ¡. MusÃ­m tÄ› ovÅ¡em varovat. Jakmile Ãºkol pÅ™ijmeÅ¡, nenÃ­ cesty zpÄ›t, dokud jej nesplnÃ­Å¡...~
+@10   = ~PÄ›t tisÃ­c? ProÄ ne padesÃ¡t? NevÄ›Å™Ã­m ti.~
+@11   = ~NevÃ­m. MÃ¡m pocit, Å¾e jsi mi nÄ›co neÅ™ekl.~
+@12   = ~Jsme dohodnuti. Kde je ta vÄ›Å¾ a kdy mÃ¡m jÃ­t?~
+@13   = ~SlyÅ¡el jsem dost, ale nemÃ¡m zÃ¡jem. Sbohem.~
+@14   = ~Je to malÃ¡ cena pro mÃ©ho mistra a poctivÃ¡ cena za Ãºkol. BuÄ ujiÅ¡tÄ›n, Å¾e budeÅ¡ odmÄ›nÄ›n.~
+@15   = ~Å˜ekl jsem ti vÅ¡e co budeÅ¡ potÅ™ebovat pro splnÄ›nÃ­ Ãºkolu. AÅ¾ budeÅ¡ uvnitÅ™, zjistÃ­Å¡ zbylÃ©.~
+@16   = ~DobÅ™e. MÅ¯j pÃ¡n bude potÄ›Å¡en.~
+@17   = ~MÅ¯j nejdÅ¯vÄ›ryhodnÄ›jÅ¡Ã­ kapitÃ¡n tÄ› oÄekÃ¡vÃ¡ na svÃ© lodi v odlouÄenÃ© zÃ¡toce nedaleko odsud. Vezmu tÄ› tam. Pamatuj, od tÃ©to chvÃ­le jsi na to sÃ¡m. AÅ¾ budeÅ¡ hotov, vraÅ¥ se ke mnÄ›. TeÄ pojÄ, VÄ›Å¾ ÄekÃ¡...~
+@18   = ~AÅ¥ uÅ¾ odejdeÅ¡ teÄ Äi pozdÄ›ji, nabÃ­dka zÅ¯stÃ¡vÃ¡. OvÅ¡em preferoval bych, kdybys dokonÄil Ãºkol brzy.~
+@19   = ~Jak si pÅ™ejeÅ¡. Sbohem.~
+@20   = ~Ah, vrÃ¡til ses. ZmÄ›nil jsi nÃ¡zor?~
+@21   = ~Opravdu jsem zmÄ›nil nÃ¡zor. Å˜ekni mi znovu o tvÃ© nabÃ­dce.~
+@22   = ~Ne, nemÃ¡m zÃ¡jem. Jen se koukÃ¡m okolo. Sbohem.~
+@23   = ~Ah, vrÃ¡til ses. Co? ZmÄ›nil jsi opÄ›t svÃ© rozhodnutÃ­?~
+@24   = ~Ano, zmÄ›nil.~
+@25   = ~Ne, stÃ¡le nemÃ¡m zÃ¡jem. Jen se koukÃ¡m okolo. Sbohem.~
+@26   = ~Velmi dobÅ™e. PÅ™edpoklÃ¡dÃ¡m tedy, Å¾e jsi pÅ™ipraven jÃ­t.~
+@27   = ~Å koda. Sbohem.~
+@28   = ~Tak? Jsi ochoten to udÄ›lat Äi ne? Rozhodni se rychle.~
+@29   = ~Ano, beru. Mohu zaÄÃ­t ihned.~
+@30   = ~Ne, Äi pÅ™inejmenÅ¡Ã­m ne teÄ. BudeÅ¡ si muset najÃ­t nÄ›koho jinÃ©ho.~
+@31   = ~KoneÄnÄ› jsi zpÄ›t! VidÃ­m, Å¾e mÃ¡Å¡ tu knihu. TeÄ mi jÃ­ dej: nakonec pro tebe je k niÄemu.~
+@32   = ~DobÅ™e, tady je. Vezmi si jÃ­ a dej mi mou slÃ­benou odmÄ›nu.~
+@33   = ~TeÄ je pro mÄ› bezcennÃ¡. Ale v budoucnu se mÃ© dovednosti zlepÅ¡Ã­ a jsem si jist, Å¾e pak budu schopen prolomit peÄeti. Tedy ne, nevydÃ¡m ti jÃ­.~
+@34   = ~SamozÅ™ejmÄ›. Tady to je, jak bylo slÃ­beno. PÅ™ijmi prosÃ­m mÃ© ÃºpÅ™Ã­mnÃ© dÃ­ky. ProkÃ¡zal jsi se jako hodnotnÃ½ a tÃ©Å¾ dÅ¯vÄ›ryhodnÃ½ spojenec. Sbohem, <CHARNAME>.~
+@35   = ~DÃ­ky. Sbohem.~
+@36   = ~Nehraj si se mnou, <CHARNAME>. NemÃ¡m dobrou nÃ¡ladu. TeÄ mi to vydej. MÄ›li jsme dohodu!~
+@37   = ~Ne. Jak jsem Å™ekl, radÄ›ji bych si to ponechal.~
+@38   = ~DÃ¡vÃ¡Å¡ mi mÃ¡lo na vÃ½bÄ›r. Vezmu si to silou, kdyÅ¾ musÃ­m. PÅ™iprav se zemÅ™Ã­t!~
+@39   = ~BlÃ¡zni! PÅ™iÅ¡li jste bez toho zpÄ›t? Je to vÅ¯bec moÅ¾nÃ©? PÅ™Ã¡l bych si, abyste tam zÅ¯stali, debilnÃ­ kretÃ©ni! S vÃ¡mi uÅ¾ nebudu nic vÃ­c mÃ­t!~
 
-@40   = ~Vì klamu - Cesta do opuštìné vìe
+@40   = ~VÄ›Å¾ klamu - Cesta do opuÅ¡tÄ›nÃ© vÄ›Å¾e
 
-Byl jsem najat mágem jménem Tian, abych navštívil opuštìnou vì mimo pobøeí Amnu zvanou Vì klamu. Mám najít pro nìj najít nìjakou starou knihu. Za odmìnu nabízí pìt tisíc zlatıch.~
+Byl jsem najat mÃ¡gem jmÃ©nem Tian, abych navÅ¡tÃ­vil opuÅ¡tÄ›nou vÄ›Å¾ mimo pobÅ™eÅ¾Ã­ Amnu zvanou VÄ›Å¾ klamu. MÃ¡m najÃ­t pro nÄ›j najÃ­t nÄ›jakou starou knihu. Za odmÄ›nu nabÃ­zÃ­ pÄ›t tisÃ­c zlatÃ½ch.~
 
-@41   = ~Vì klamu - Zpìt v Athkatle
+@41   = ~VÄ›Å¾ klamu - ZpÄ›t v Athkatle
 
-Koneènì jsem unikl z té opuštìné vìe a doruèil knihu Tianovi. Byl velmi potìšen a jak slíbil, odmìnil mì pìti tisíci zlatımi. Mùj úkol je splnìn a my se rozešli v pøíznivé atmosféøe.~
+KoneÄnÄ› jsem unikl z tÃ© opuÅ¡tÄ›nÃ© vÄ›Å¾e a doruÄil knihu Tianovi. Byl velmi potÄ›Å¡en a jak slÃ­bil, odmÄ›nil mÄ› pÄ›ti tisÃ­ci zlatÃ½mi. MÅ¯j Ãºkol je splnÄ›n a my se rozeÅ¡li v pÅ™Ã­znivÃ© atmosfÃ©Å™e.~
 
-@42   = ~Vì klamu - Cesta do opuštìné vìe
+@42   = ~VÄ›Å¾ klamu - Cesta do opuÅ¡tÄ›nÃ© vÄ›Å¾e
 
-Byl jsem najat mágem jménem Tian, abych navštívil opuštìnou vì mimo pobøeí Amnu zvanou Vì klamu. Mám najít pro nìj najít nìjakou starou knihu. Za odmìnu nabízí pìt tisíc zlatıch.~
+Byl jsem najat mÃ¡gem jmÃ©nem Tian, abych navÅ¡tÃ­vil opuÅ¡tÄ›nou vÄ›Å¾ mimo pobÅ™eÅ¾Ã­ Amnu zvanou VÄ›Å¾ klamu. MÃ¡m najÃ­t pro nÄ›j najÃ­t nÄ›jakou starou knihu. Za odmÄ›nu nabÃ­zÃ­ pÄ›t tisÃ­c zlatÃ½ch.~
 
-@43   = ~Vì klamu - Pøepadeni zombiemi
+@43   = ~VÄ›Å¾ klamu - PÅ™epadeni zombiemi
 
-Kapitán Kergo nás dovezl na ostrov, ale po vylodìní jsme byli pøepadeni nìkolika moøskımi zombiemi. Zjevily se odnikud, ale nepøedstavovaly pro nás ádné nebezpeèí. Obávám se ale vìtší hrozby: mám pocit jako by nás obøí vì sledovala...~
+KapitÃ¡n Kergo nÃ¡s dovezl na ostrov, ale po vylodÄ›nÃ­ jsme byli pÅ™epadeni nÄ›kolika moÅ™skÃ½mi zombiemi. Zjevily se odnikud, ale nepÅ™edstavovaly pro nÃ¡s Å¾Ã¡dnÃ© nebezpeÄÃ­. ObÃ¡vÃ¡m se ale vÄ›tÅ¡Ã­ hrozby: mÃ¡m pocit jako by nÃ¡s obÅ™Ã­ vÄ›Å¾ sledovala...~
 
-@44   = ~Vì klamu -  Baloarova smrt
+@44   = ~VÄ›Å¾ klamu -  Baloarova smrt
 
-Porazil jsem Baloara, stráce vìe. Domníval se, e jsem ho vyhledal kvùli pomstì za jeho dávné skutky. To samozøejmì nebyla pravda, ale nedal mi šanci to vyjasnit, take jsem ho rychle zabil.
-Poté jsem ovšem shledal, e všechny vstupní dveøe jsou zamèeny. Budu muset najít jinou cestu ven.~
+Porazil jsem Baloara, strÃ¡Å¾ce vÄ›Å¾e. DomnÃ­val se, Å¾e jsem ho vyhledal kvÅ¯li pomstÄ› za jeho dÃ¡vnÃ© skutky. To samozÅ™ejmÄ› nebyla pravda, ale nedal mi Å¡anci to vyjasnit, takÅ¾e jsem ho rychle zabil.
+PotÃ© jsem ovÅ¡em shledal, Å¾e vÅ¡echny vstupnÃ­ dveÅ™e jsou zamÄeny. Budu muset najÃ­t jinou cestu ven.~
 
-@45   = ~Vì klamu - Uvìznìnı knìz
+@45   = ~VÄ›Å¾ klamu - UvÄ›znÄ›nÃ½ knÄ›z
 
-Potkal jsem Gulina, Helmova knìze, kterı zde byl nìkolik posledních mìsícù uvìznìn. Mluvil o velkém krystalu, Støepu Hvìzdy, kterı vytváøí neviditelnou teleportaèní sí, je nás všechny drí uvnitø. Povídal té, e Støep Hvìzdy je dùvodem, proè jsou všechny èelní dvìøe zamèené. Vypadá to, e jen a bude Støep Hvìzdy znièen, najdeme nìjaké monosti útìku.
-Té øíkal nìco o zmrzlıch dryádách, které se nachází v horním podlaí. Moná je budu moci osvobodit...~
+Potkal jsem Gulina, Helmova knÄ›ze, kterÃ½ zde byl nÄ›kolik poslednÃ­ch mÄ›sÃ­cÅ¯ uvÄ›znÄ›n. Mluvil o velkÃ©m krystalu, StÅ™epu HvÄ›zdy, kterÃ½ vytvÃ¡Å™Ã­ neviditelnou teleportaÄnÃ­ sÃ­Å¥, jeÅ¾ nÃ¡s vÅ¡echny drÅ¾Ã­ uvnitÅ™. PovÃ­dal tÃ©Å¾, Å¾e StÅ™ep HvÄ›zdy je dÅ¯vodem, proÄ jsou vÅ¡echny ÄelnÃ­ dvÄ›Å™e zamÄenÃ©. VypadÃ¡ to, Å¾e jen aÅ¾ bude StÅ™ep HvÄ›zdy zniÄen, najdeme nÄ›jakÃ© moÅ¾nosti ÃºtÄ›ku.
+TÃ©Å¾ Å™Ã­kal nÄ›co o zmrzlÃ½ch dryÃ¡dÃ¡ch, kterÃ© se nachÃ¡zÃ­ v hornÃ­m podlaÅ¾Ã­. MoÅ¾nÃ¡ je budu moci osvobodit...~
 
-@46   = ~Vì klamu - Zachránìná Pandaira
+@46   = ~VÄ›Å¾ klamu - ZachrÃ¡nÄ›nÃ¡ Pandaira
 
-Aèkoliv jsem osvobodil obì zmrzlé dryády, jedna z nich, Wistemach, mì mìla za Ustrainova sluebníka a zaútoèila. Byl jsem nucen ji usmrtit. Ta druhá, Pandaira, byla docela vdìèná. Zdá se, e Wistemach ji ovládala, a byla drena v nìjakém druhu pasti. Nyní je opìt svobodná. Za odmìnu mi povìdìla, e Ustrainova kniha kouzel se nachází v jeho lonici v jednom z nejhoøejších pater, a abych se dostal ven, musím jít do nejvyššího patra, zabít Stráce Støepu hvìzdy, a znièit samotnı Støep hvìzdy. Zmínila se, e mùe bıt znièen pouze "velkım ohnìm".~
+AÄkoliv jsem osvobodil obÄ› zmrzlÃ© dryÃ¡dy, jedna z nich, Wistemach, mÄ› mÄ›la za Ustrainova sluÅ¾ebnÃ­ka a zaÃºtoÄila. Byl jsem nucen ji usmrtit. Ta druhÃ¡, Pandaira, byla docela vdÄ›ÄnÃ¡. ZdÃ¡ se, Å¾e Wistemach ji ovlÃ¡dala, a byla drÅ¾ena v nÄ›jakÃ©m druhu pasti. NynÃ­ je opÄ›t svobodnÃ¡. Za odmÄ›nu mi povÄ›dÄ›la, Å¾e Ustrainova kniha kouzel se nachÃ¡zÃ­ v jeho loÅ¾nici v jednom z nejhoÅ™ejÅ¡Ã­ch pater, a abych se dostal ven, musÃ­m jÃ­t do nejvyÅ¡Å¡Ã­ho patra, zabÃ­t StrÃ¡Å¾ce StÅ™epu hvÄ›zdy, a zniÄit samotnÃ½ StÅ™ep hvÄ›zdy. ZmÃ­nila se, Å¾e mÅ¯Å¾e bÃ½t zniÄen pouze "velkÃ½m ohnÄ›m".~
 
-@47   = ~Vì klamu - Pøed koneènou bitvou
+@47   = ~VÄ›Å¾ klamu - PÅ™ed koneÄnou bitvou
 
-Získal jsem ostøí, a zdá se, e po smrti Sluebníka jsem byl teleportován do Ustrainovy lonice. Teï zbıvá udìlat dvì poslední vìci: zabít Stráce Astralního krystal a znièit Astrální krystal samotnı.~
+ZÃ­skal jsem ostÅ™Ã­, a zdÃ¡ se, Å¾e po smrti SluÅ¾ebnÃ­ka jsem byl teleportovÃ¡n do Ustrainovy loÅ¾nice. TeÄ zbÃ½vÃ¡ udÄ›lat dvÄ› poslednÃ­ vÄ›ci: zabÃ­t StrÃ¡Å¾ce AstralnÃ­ho krystal a zniÄit AstrÃ¡lnÃ­ krystal samotnÃ½.~
 
-@48   = ~Vì klamu - Zpìt v Athkatle
+@48   = ~VÄ›Å¾ klamu - ZpÄ›t v Athkatle
 
-Koneènì jsem unikl z té prokleté vìe. Pøinesl jsem knihu zpìt k Tianovi, ale rozhodl jsem se nechat si jí, Tian ovšem nebyl obratem událostí potìšen a okamitì na mì zaútoèil. Je mrtev a kniha kouzel je má, ale nìjak cítím, e jsem nesplnil úkol nejlepší monou cestou.~
+KoneÄnÄ› jsem unikl z tÃ© prokletÃ© vÄ›Å¾e. PÅ™inesl jsem knihu zpÄ›t k Tianovi, ale rozhodl jsem se nechat si jÃ­, Tian ovÅ¡em nebyl obratem udÃ¡lostÃ­ potÄ›Å¡en a okamÅ¾itÄ› na mÄ› zaÃºtoÄil. Je mrtev a kniha kouzel je mÃ¡, ale nÄ›jak cÃ­tÃ­m, Å¾e jsem nesplnil Ãºkol nejlepÅ¡Ã­ moÅ¾nou cestou.~
 
-@49   = ~Vì klamu - Zpìt v Athkatle
+@49   = ~VÄ›Å¾ klamu - ZpÄ›t v Athkatle
 
-Koneènì jsem unikl z té prokleté vìe. Ovšem Tian byl velmi nespokojen, e jsem nemìl knihu ve svém drení a témìø okamitì rozzuøenì odešel. Nesplnil jsem ani svùj úkol ani nezískal slibovanou odmìnu a nadto to vypadá, e se teï budu muset ohlíet po naštvaném mágovi.~
+KoneÄnÄ› jsem unikl z tÃ© prokletÃ© vÄ›Å¾e. OvÅ¡em Tian byl velmi nespokojen, Å¾e jsem nemÄ›l knihu ve svÃ©m drÅ¾enÃ­ a tÃ©mÄ›Å™ okamÅ¾itÄ› rozzuÅ™enÄ› odeÅ¡el. Nesplnil jsem ani svÅ¯j Ãºkol ani nezÃ­skal slibovanou odmÄ›nu a nadto to vypadÃ¡, Å¾e se teÄ budu muset ohlÃ­Å¾et po naÅ¡tvanÃ©m mÃ¡govi.~
 
-@50   = ~Dobøe, dobøe, cokoliv.~
-@51   = ~Oh, dobøe. Tady. kde je má odmìna?~
-@52   = ~Ty se odvauješ mluvit o té knize? Víš jak nebezpeèné to tam bylo?~
-@53   = ~Ano, Byl jsem si toho dobøe vìdom, aè jsem si zvolil ti nìco z toho neprozradit. Pøipouštím, byl jsem ponìkud obezøetnı, abys neodmítl, kdyby ses doslech o všech detailech. Ale teï je tvá odmìna øádnì zaslouená, nemyslíš? A nyní prosím tu knihu.~
+@50   = ~DobÅ™e, dobÅ™e, cokoliv.~
+@51   = ~Oh, dobÅ™e. Tady. kde je mÃ¡ odmÄ›na?~
+@52   = ~Ty se odvaÅ¾ujeÅ¡ mluvit o tÃ© knize? VÃ­Å¡ jak nebezpeÄnÃ© to tam bylo?~
+@53   = ~Ano, Byl jsem si toho dobÅ™e vÄ›dom, aÄ jsem si zvolil ti nÄ›co z toho neprozradit. PÅ™ipouÅ¡tÃ­m, byl jsem ponÄ›kud obezÅ™etnÃ½, abys neodmÃ­tl, kdyby ses doslech o vÅ¡ech detailech. Ale teÄ je tvÃ¡ odmÄ›na Å™Ã¡dnÄ› zaslouÅ¾enÃ¡, nemyslÃ­Å¡? A nynÃ­ prosÃ­m tu knihu.~

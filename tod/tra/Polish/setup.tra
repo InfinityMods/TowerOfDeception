@@ -1,100 +1,100 @@
-@0    = ~K³amcy!!~
+@0    = ~KÅ‚amcy!!~
 @1    = ~Mordercy!!~
-@2    = ~Krótko po tym, jak wszed³eœ na ten poziom, zdajesz sobie sprawê, ¿e jest to stara pracownia Ustraina...~ ~Krótko po tym, jak wesz³aœ na ten poziom, zdajesz sobie sprawê, ¿e jest to stara pracownia Ustraina...~
-@3    = ~Niewidzialna moc blokuj¹ca schody zniknê³a. Droga jest teraz wolna.~
-@4    = ~Zabi³eœ jednego z wiêŸniów. Jeœli mia³ on jakieœ cenne informacje, nigdy ich ju¿ nie poznasz. Teraz niemo¿liwym jest uratowanie drugiego wiêŸnia.~ ~Zabi³aœ jednego z wiêŸniów. Jeœli mia³ on jakieœ cenne informacje, nigdy ich ju¿ nie poznasz. Teraz niemo¿liwym jest uratowanie drugiego wiêŸnia.~
-@5    = ~Obaj wiêŸniowie nie ¿yj¹. Oh, jaka szkoda.~
-@6    = ~Obecnoœæ ostrza w twoim ekwipunku, jak i œmieræ jego stra¿nika przenios³y ciê na najwy¿sze poziomy wie¿y... Teraz ju¿ nie ma powrotu...~
-@7    = ~Muszê broniæ Astralnego Kryszta³u...~
-@8    = ~Œmieræ Wistemach odblokowa³a wszystkie wyjœcia.~
-@9    = ~Gulin zablokowa³ wejœcie do wie¿y, aby nikt nie próbowa³ wchodziæ i niepokoiæ staro¿ytne z³o, które drzemie w œrodku.~
-@10   = ~Jest to swego rodzaju przycisk. Byæ mo¿e powstrzyma on kamieñ piorunów przed produkowaniem kolejnych b³yskawic.~
-@11   = ~Kamieñ piorunów przerwa³ sw¹ pracê po tym jak wcisn¹³eœ przycisk.~ ~Kamieñ piorunów przerwa³ sw¹ pracê po tym jak wcisnê³aœ przycisk.~
-@12   = ~Wciœniêcie tego przycisku ponownie niew¹tpliwie przywróci³oby ponown¹ produkcjê b³yskawic. Nie by³oby m¹drze w³¹czaæ go z powrotem.~
-@13   = ~Jesteœ zbyt daleko, aby tego u¿yæ.~
-@14   = ~Ten portal niew¹tpliwie prowadzi do jakiejœ jaskini lub podziemia, prawdopodobnie znajduj¹cych siê pod wie¿¹. Nic wiêcej nie da siê wypatrzyæ w lustrze portalu.~
-@15   = ~Portal natychmiastowo przenosi ciê do nieznanego ci podziemia. Musisz przystan¹æ na kilka chwil by z³apaæ oddech po tym przejœciu.~
-@16   = ~Jesteœ zbyt daleko, aby tego u¿yæ.~
-@17   = ~Wie¿a Oszustwa - Zasadzka Morskich Zombie
+@2    = ~KrÃ³tko po tym, jak wszedÅ‚eÅ› na ten poziom, zdajesz sobie sprawÄ™, Å¼e jest to stara pracownia Ustraina...~ ~KrÃ³tko po tym, jak weszÅ‚aÅ› na ten poziom, zdajesz sobie sprawÄ™, Å¼e jest to stara pracownia Ustraina...~
+@3    = ~Niewidzialna moc blokujÄ…ca schody zniknÄ™Å‚a. Droga jest teraz wolna.~
+@4    = ~ZabiÅ‚eÅ› jednego z wiÄ™ÅºniÃ³w. JeÅ›li miaÅ‚ on jakieÅ› cenne informacje, nigdy ich juÅ¼ nie poznasz. Teraz niemoÅ¼liwym jest uratowanie drugiego wiÄ™Åºnia.~ ~ZabiÅ‚aÅ› jednego z wiÄ™ÅºniÃ³w. JeÅ›li miaÅ‚ on jakieÅ› cenne informacje, nigdy ich juÅ¼ nie poznasz. Teraz niemoÅ¼liwym jest uratowanie drugiego wiÄ™Åºnia.~
+@5    = ~Obaj wiÄ™Åºniowie nie Å¼yjÄ…. Oh, jaka szkoda.~
+@6    = ~ObecnoÅ›Ä‡ ostrza w twoim ekwipunku, jak i Å›mierÄ‡ jego straÅ¼nika przeniosÅ‚y ciÄ™ na najwyÅ¼sze poziomy wieÅ¼y... Teraz juÅ¼ nie ma powrotu...~
+@7    = ~MuszÄ™ broniÄ‡ Astralnego KrysztaÅ‚u...~
+@8    = ~ÅšmierÄ‡ Wistemach odblokowaÅ‚a wszystkie wyjÅ›cia.~
+@9    = ~Gulin zablokowaÅ‚ wejÅ›cie do wieÅ¼y, aby nikt nie prÃ³bowaÅ‚ wchodziÄ‡ i niepokoiÄ‡ staroÅ¼ytne zÅ‚o, ktÃ³re drzemie w Å›rodku.~
+@10   = ~Jest to swego rodzaju przycisk. ByÄ‡ moÅ¼e powstrzyma on kamieÅ„ piorunÃ³w przed produkowaniem kolejnych bÅ‚yskawic.~
+@11   = ~KamieÅ„ piorunÃ³w przerwaÅ‚ swÄ… pracÄ™ po tym jak wcisnÄ…Å‚eÅ› przycisk.~ ~KamieÅ„ piorunÃ³w przerwaÅ‚ swÄ… pracÄ™ po tym jak wcisnÄ™Å‚aÅ› przycisk.~
+@12   = ~WciÅ›niÄ™cie tego przycisku ponownie niewÄ…tpliwie przywrÃ³ciÅ‚oby ponownÄ… produkcjÄ™ bÅ‚yskawic. Nie byÅ‚oby mÄ…drze wÅ‚Ä…czaÄ‡ go z powrotem.~
+@13   = ~JesteÅ› zbyt daleko, aby tego uÅ¼yÄ‡.~
+@14   = ~Ten portal niewÄ…tpliwie prowadzi do jakiejÅ› jaskini lub podziemia, prawdopodobnie znajdujÄ…cych siÄ™ pod wieÅ¼Ä…. Nic wiÄ™cej nie da siÄ™ wypatrzyÄ‡ w lustrze portalu.~
+@15   = ~Portal natychmiastowo przenosi ciÄ™ do nieznanego ci podziemia. Musisz przystanÄ…Ä‡ na kilka chwil by zÅ‚apaÄ‡ oddech po tym przejÅ›ciu.~
+@16   = ~JesteÅ› zbyt daleko, aby tego uÅ¼yÄ‡.~
+@17   = ~WieÅ¼a Oszustwa - Zasadzka Morskich Zombie
 
-Kapitan Kergo przywióz³ nas bezpiecznie na wyspê, jednak jak tylko zeszliœmy na l¹d, wpadliœmy w zasadzkê morskich zombie. Choæ wy³oni³y siê z nik¹d, nie stanowi³y dla nas powa¿nego zagro¿enia. Jest jednak coœ co mnie trapi o wiele bardziej, mo¿e to tylko moje fantazje, jednak ogromna, góruj¹ca nad wysp¹, wie¿a zdaje siê nas bacznie obserwowaæ... Nie czujê siê tutaj za dobrze. Jak tylko znajdê t¹ ksi¹¿kê, natychmiast opuszczê to miejsce....~
-@18   = ~Wie¿a Oszustwa - Œmieræ Balora
+Kapitan Kergo przywiÃ³zÅ‚ nas bezpiecznie na wyspÄ™, jednak jak tylko zeszliÅ›my na lÄ…d, wpadliÅ›my w zasadzkÄ™ morskich zombie. ChoÄ‡ wyÅ‚oniÅ‚y siÄ™ z nikÄ…d, nie stanowiÅ‚y dla nas powaÅ¼nego zagroÅ¼enia. Jest jednak coÅ› co mnie trapi o wiele bardziej, moÅ¼e to tylko moje fantazje, jednak ogromna, gÃ³rujÄ…ca nad wyspÄ…, wieÅ¼a zdaje siÄ™ nas bacznie obserwowaÄ‡... Nie czujÄ™ siÄ™ tutaj za dobrze. Jak tylko znajdÄ™ tÄ… ksiÄ…Å¼kÄ™, natychmiast opuszczÄ™ to miejsce....~
+@18   = ~WieÅ¼a Oszustwa - ÅšmierÄ‡ Balora
 
-Pokona³em stra¿nika wie¿y, Balora. Myœla³, ¿e przyby³em go zabiæ z zemsty z powodu czynów, których dokona³ dawno temu. Choæ nie taki by³ mój cel, nie by³o ¿adnej drogi ku porozumieniu, zmuszony wiêc by³em go zabiæ. Po krótkiej potyczce dosta³ to na co zas³u¿y³.
-W³aœnie odkry³em, ¿e wszystkie drzwi frontowe s¹ zamkniête. Muszê znaleŸæ jakieœ inne wyjœcie.~ ~Wie¿a Oszustwa - Œmieræ Balora
+PokonaÅ‚em straÅ¼nika wieÅ¼y, Balora. MyÅ›laÅ‚, Å¼e przybyÅ‚em go zabiÄ‡ z zemsty z powodu czynÃ³w, ktÃ³rych dokonaÅ‚ dawno temu. ChoÄ‡ nie taki byÅ‚ mÃ³j cel, nie byÅ‚o Å¼adnej drogi ku porozumieniu, zmuszony wiÄ™c byÅ‚em go zabiÄ‡. Po krÃ³tkiej potyczce dostaÅ‚ to na co zasÅ‚uÅ¼yÅ‚.
+WÅ‚aÅ›nie odkryÅ‚em, Å¼e wszystkie drzwi frontowe sÄ… zamkniÄ™te. MuszÄ™ znaleÅºÄ‡ jakieÅ› inne wyjÅ›cie.~ ~WieÅ¼a Oszustwa - ÅšmierÄ‡ Balora
 
-Pokona³am stra¿nika wie¿y, Balora. Myœla³, ¿e przyby³am go zabiæ z zemsty z powodu czynów, których dokona³ dawno temu. Choæ nie taki by³ mój cel, nie by³o ¿adnej drogi ku porozumieniu, zmuszona wiêc by³am go zabiæ. Po krótkiej potyczce dosta³ to na co zas³u¿y³.
-W³aœnie odkry³am, ¿e wszystkie drzwi frontowe s¹ zamkniête. Muszê znaleŸæ jakieœ inne wyjœcie.~
-@19   = ~Wie¿a Oszustwa - Ostateczna Walka
+PokonaÅ‚am straÅ¼nika wieÅ¼y, Balora. MyÅ›laÅ‚, Å¼e przybyÅ‚am go zabiÄ‡ z zemsty z powodu czynÃ³w, ktÃ³rych dokonaÅ‚ dawno temu. ChoÄ‡ nie taki byÅ‚ mÃ³j cel, nie byÅ‚o Å¼adnej drogi ku porozumieniu, zmuszona wiÄ™c byÅ‚am go zabiÄ‡. Po krÃ³tkiej potyczce dostaÅ‚ to na co zasÅ‚uÅ¼yÅ‚.
+WÅ‚aÅ›nie odkryÅ‚am, Å¼e wszystkie drzwi frontowe sÄ… zamkniÄ™te. MuszÄ™ znaleÅºÄ‡ jakieÅ› inne wyjÅ›cie.~
+@19   = ~WieÅ¼a Oszustwa - Ostateczna Walka
 
-Wygl¹da na to, ¿e teraz, kiedy ju¿ mam "OSTRZE", a S³uga jest ju¿ martwy, zosta³em przeniesiony do sypialni Ustraina. Pozosta³o mi ju¿ tylko pozbyæ siê stra¿nika Astralnego Kryszta³u oraz zniszczyæ sam artefakt. Nie bêdzie to najprostsze...~ ~Wie¿a Oszustwa - Ostateczna Walka
+WyglÄ…da na to, Å¼e teraz, kiedy juÅ¼ mam "OSTRZE", a SÅ‚uga jest juÅ¼ martwy, zostaÅ‚em przeniesiony do sypialni Ustraina. PozostaÅ‚o mi juÅ¼ tylko pozbyÄ‡ siÄ™ straÅ¼nika Astralnego KrysztaÅ‚u oraz zniszczyÄ‡ sam artefakt. Nie bÄ™dzie to najprostsze...~ ~WieÅ¼a Oszustwa - Ostateczna Walka
 
-Wygl¹da na to, ¿e teraz, kiedy ju¿ mam "OSTRZE", a S³uga jest ju¿ martwy, zosta³am przeniesiona do sypialni Ustraina. Pozosta³o mi ju¿ tylko pozbyæ siê stra¿nika Astralnego Kryszta³u oraz zniszczyæ sam artefakt. Nie bêdzie to najprostsze...~
-@99   = ~Duch Gulina zablokowa³ wejœcie do wie¿y, aby nikt nie próbowa³ wchodziæ i niepokoiæ staro¿ytne z³o, które drzemie w œrodku.~
-@100  = ~Wie¿a Oszustw~
+WyglÄ…da na to, Å¼e teraz, kiedy juÅ¼ mam "OSTRZE", a SÅ‚uga jest juÅ¼ martwy, zostaÅ‚am przeniesiona do sypialni Ustraina. PozostaÅ‚o mi juÅ¼ tylko pozbyÄ‡ siÄ™ straÅ¼nika Astralnego KrysztaÅ‚u oraz zniszczyÄ‡ sam artefakt. Nie bÄ™dzie to najprostsze...~
+@99   = ~Duch Gulina zablokowaÅ‚ wejÅ›cie do wieÅ¼y, aby nikt nie prÃ³bowaÅ‚ wchodziÄ‡ i niepokoiÄ‡ staroÅ¼ytne zÅ‚o, ktÃ³re drzemie w Å›rodku.~
+@100  = ~WieÅ¼a Oszustw~
 @101  = ~Nie masz zainstalowanego Tronu Bhaala.~
-@102  = ~Uzupe³nianie istniej¹cych skryptów...~
+@102  = ~UzupeÅ‚nianie istniejÄ…cych skryptÃ³w...~
 @103  = ~Instalacja filmu...~
-@104  = ~Instalator musi zbiffowaæ plik filmu oraz zaktualizowaæ Chitin.key aby proces instalacji przebieg³ poprawnie. Proszê, b¹dŸ cierpliwy.~
-@105  = ~Instalacja filmu zakoñczy³a siê sukcesem!~
-@106  = ~Ulepszony Stra¿nik Astralnego Kryszta³u~
-@107  = ~Nie masz zainstalowanego g³ownego komponentu moda Wie¿a Oszustw.~
+@104  = ~Instalator musi zbiffowaÄ‡ plik filmu oraz zaktualizowaÄ‡ Chitin.key aby proces instalacji przebiegÅ‚ poprawnie. ProszÄ™, bÄ…dÅº cierpliwy.~
+@105  = ~Instalacja filmu zakoÅ„czyÅ‚a siÄ™ sukcesem!~
+@106  = ~Ulepszony StraÅ¼nik Astralnego KrysztaÅ‚u~
+@107  = ~Nie masz zainstalowanego gÅ‚ownego komponentu moda WieÅ¼a Oszustw.~
 @108  = ~Spotkanie z Ustrainem~
-@200  = ~Stara Zakurzona Ksi¹¿ka~
-@201  = ~Ksiêga Czarów Ustraina~
-@202  = ~Ozdobny, ob³o¿ony skór¹ wolumin, pokryty grub¹ warstw¹ kurzu.. £atwo wyczuwasz wytwarzan¹ przez ksiêgê magiczn¹ energiê.~
-@203  = ~Ksiêga Czarów Ustraina to s³awny wolumin napisany przez maga Ustraina. Ustrain by³ znany z obeznania najmroczniejszych sekretów nekromancji, przywo³ywania piekielnych demonów oraz wielu innych potê¿nych czarów i umiejêtnoœci. Niestety ksiêga jest pokryta bardzo skomplikowanymi magicznymi pieczêciami, które ze wzglêdu na poziom trudnoœci ich zdjêcia, czyni¹ j¹ dla ciebie zupe³nie bezu¿yteczn¹.~
+@200  = ~Stara Zakurzona KsiÄ…Å¼ka~
+@201  = ~KsiÄ™ga CzarÃ³w Ustraina~
+@202  = ~Ozdobny, obÅ‚oÅ¼ony skÃ³rÄ… wolumin, pokryty grubÄ… warstwÄ… kurzu.. Åatwo wyczuwasz wytwarzanÄ… przez ksiÄ™gÄ™ magicznÄ… energiÄ™.~
+@203  = ~KsiÄ™ga CzarÃ³w Ustraina to sÅ‚awny wolumin napisany przez maga Ustraina. Ustrain byÅ‚ znany z obeznania najmroczniejszych sekretÃ³w nekromancji, przywoÅ‚ywania piekielnych demonÃ³w oraz wielu innych potÄ™Å¼nych czarÃ³w i umiejÄ™tnoÅ›ci. Niestety ksiÄ™ga jest pokryta bardzo skomplikowanymi magicznymi pieczÄ™ciami, ktÃ³re ze wzglÄ™du na poziom trudnoÅ›ci ich zdjÄ™cia, czyniÄ… jÄ… dla ciebie zupeÅ‚nie bezuÅ¼ytecznÄ….~
 
 @300  = ~Ostrze Zmierzchu~
-@301  = ~Legendy mówi¹, ¿e to ostrze zosta³o stworzone dawno temu, w czasie Czasu Niepokoju, kiedy to tego typu broñ by³o wybitnie po¿¹dana. Wykuta przez rzemieœlnika z pó³nocy, ³¹czy w sobie zarówno mi³oœæ do wszystkiego co dobre, jak i nienawiœæ do wszystkiego co z³e. Stworzony z zaczarowanej stali miecz lœni jakby by³ ca³y z najpiêkniejszego srebra. Ten wspania³y orê¿ jest w pe³ni odblaskowy, ponadto roztacza ³unê niebieskawego œwiat³a, które bije wzd³u¿ ca³ego ostrza po koniuszek klingi.
-Ostrze to jest inteligentne, jego pierwszorzêdnym celem jest pokonywanie wszelkiego z³a. W walce potrafi wykryæ charakter przeciwnika, oraz zadawaæ zwiêkszone obra¿enia postaciom z natury z³ym. Ponadto daje dzier¿ycielowi zdolnoœæ wezwania boskiej mocy i zwiêksza szybkoœæ rzucania czarów. Czasami wystawia na próbê umys³ i inteligencjê w³aœciciela, i gdy ten zawiedzie, istnieje szansa na wpadniêcie w sza³ berserkerski.
+@301  = ~Legendy mÃ³wiÄ…, Å¼e to ostrze zostaÅ‚o stworzone dawno temu, w czasie Czasu Niepokoju, kiedy to tego typu broÅ„ byÅ‚o wybitnie poÅ¼Ä…dana. Wykuta przez rzemieÅ›lnika z pÃ³Å‚nocy, Å‚Ä…czy w sobie zarÃ³wno miÅ‚oÅ›Ä‡ do wszystkiego co dobre, jak i nienawiÅ›Ä‡ do wszystkiego co zÅ‚e. Stworzony z zaczarowanej stali miecz lÅ›ni jakby byÅ‚ caÅ‚y z najpiÄ™kniejszego srebra. Ten wspaniaÅ‚y orÄ™Å¼ jest w peÅ‚ni odblaskowy, ponadto roztacza Å‚unÄ™ niebieskawego Å›wiatÅ‚a, ktÃ³re bije wzdÅ‚uÅ¼ caÅ‚ego ostrza po koniuszek klingi.
+Ostrze to jest inteligentne, jego pierwszorzÄ™dnym celem jest pokonywanie wszelkiego zÅ‚a. W walce potrafi wykryÄ‡ charakter przeciwnika, oraz zadawaÄ‡ zwiÄ™kszone obraÅ¼enia postaciom z natury zÅ‚ym. Ponadto daje dzierÅ¼ycielowi zdolnoÅ›Ä‡ wezwania boskiej mocy i zwiÄ™ksza szybkoÅ›Ä‡ rzucania czarÃ³w. Czasami wystawia na prÃ³bÄ™ umysÅ‚ i inteligencjÄ™ wÅ‚aÅ›ciciela, i gdy ten zawiedzie, istnieje szansa na wpadniÄ™cie w szaÅ‚ berserkerski.
 
 PARAMETRY:
 
-Obra¿enia: 1K12 +5
+ObraÅ¼enia: 1K12 +5
 TraK0: +5
-Typ obra¿eñ: sieczne
+Typ obraÅ¼eÅ„: sieczne
 Specjalne:
- +5 pkt. obra¿eñ dla przeciwników o charakterze chaotycznym z³ym
- 5% szans na wpadniêcie posiadacza miecza w trwaj¹cy 10 rund sza³ berserkerski
- Pozwala rzucaæ Wezwanie boskiej mocy dwa razy dziennie
- Pozwala rzucaæ dwa czary w ci¹gu rundy
- -1 do zrêcznoœci
- 30% odpornoœci na magiê
+ +5 pkt. obraÅ¼eÅ„ dla przeciwnikÃ³w o charakterze chaotycznym zÅ‚ym
+ 5% szans na wpadniÄ™cie posiadacza miecza w trwajÄ…cy 10 rund szaÅ‚ berserkerski
+ Pozwala rzucaÄ‡ Wezwanie boskiej mocy dwa razy dziennie
+ Pozwala rzucaÄ‡ dwa czary w ciÄ…gu rundy
+ -1 do zrÄ™cznoÅ›ci
+ 30% odpornoÅ›ci na magiÄ™
 Waga: 30
-OpóŸnienie: 5
-Rodzaj bieg³oœci: miecz oburêczny
-Typ: 2-rêczna
+OpÃ³Åºnienie: 5
+Rodzaj biegÅ‚oÅ›ci: miecz oburÄ™czny
+Typ: 2-rÄ™czna
 Wymagania:
- 15 si³y
+ 15 siÅ‚y
  16 inteligencji
-Nie mo¿e u¿ywaæ:
- Postaæ o z³ym charakterze
+Nie moÅ¼e uÅ¼ywaÄ‡:
+ PostaÄ‡ o zÅ‚ym charakterze
  Druid
- Kap³an
+ KapÅ‚an
  Mag
- Z³odziej
+ ZÅ‚odziej
  Mnich
  Bard~
-@400  = ~Astralny Kryszta³~
+@400  = ~Astralny KrysztaÅ‚~
 @401  = ~Balor~
 
 @403  = ~Gulin~
 @404  = ~Gulin Murth~
 @405  = ~Kapitan Kergo~
-@406  = ~S³uga~
-@407  = ~Sra¿nik Astralnego Kryszta³u~
+@406  = ~SÅ‚uga~
+@407  = ~SraÅ¼nik Astralnego KrysztaÅ‚u~
 @408  = ~Pandaira~
-@409  = ~Wiêzieñ~
+@409  = ~WiÄ™zieÅ„~
 @410  = ~Duch~
 @411  = ~Mistrz Cieni~
-@412  = ~Cieñ~
+@412  = ~CieÅ„~
 @413  = ~Tian~
 @414  = ~Wistemach~
 @415  = ~Morski Zombie~
 @416  = ~Ustrain~
 @417  = ~Co do ...~
-@418  = ~Przygotuj siê!~
-@419  = ~Oczywiœcie, mistrzu.~
+@418  = ~Przygotuj siÄ™!~
+@419  = ~OczywiÅ›cie, mistrzu.~
 @420  = ~Tak, mistrzu.~
 @421  = ~Wedle rozkazu, mistrzu.~

@@ -1,76 +1,76 @@
-@0  = ~¡Oye! Me gustaría hablar contigo. Me llamo Tian, y por favor, espera y escucha lo que te voy a ofrecer.~
+@0  = ~Â¡Oye! Me gustarÃ­a hablar contigo. Me llamo Tian, y por favor, espera y escucha lo que te voy a ofrecer.~
 @1  = ~Me han llegado noticias de tus actos. Veo que eres alguien capaz y concienzudo, con la capacidad de aguantar de todo. Exactamente el tipo de criatura que buscaba.~
-@2  = ~Eres bueno. ¿Qué necesitas de mí?~
-@3  = ~No necesito tus halagos. Escucharé lo que tengas que decir.~
-@4  = ~Dices saber mucho, pero no me importa. Di lo que tengas que decir y rápido.~
-@5  = ~La verdad, no soy así. Adiós.~
+@2  = ~Eres bueno. Â¿QuÃ© necesitas de mÃ­?~
+@3  = ~No necesito tus halagos. EscucharÃ© lo que tengas que decir.~
+@4  = ~Dices saber mucho, pero no me importa. Di lo que tengas que decir y rÃ¡pido.~
+@5  = ~La verdad, no soy asÃ­. AdiÃ³s.~
 @6  = ~Seguro que sabes que estamos en tiempos peligrosos, y que a veces se necesitan medidas extremas. Esto es por lo que te necesito.~
-@7  = ~Represento a una comunidad de magos de fuera de Athkatla, y mientras sirva a mi maestro lo mejor que pueda no hay nada más que pueda hacer.~
-@8  = ~Pero a lo que iba. Hay una torre abandonada cerca de las fronteras de Athkatla llamada la Torre del Engaño. Fue construida por Ustrain, un mago conocido antiguamente, ahora olvidado. No te diré más, no es importante para la misión. Todo lo que necesito es alguien que busque dentro de ella un libro determinado. El libro de hechizos de Ustrain. Te necesito, <CHARNAME>.~
-@9  = ~Te ofrezco una buena cantidad, lo suficientemente importante para alguien de tu importancia. 5000 monedas de oro si me traes este libro. Puedes quedarte todo lo que encuentres, pero te lo advierto: una vez que aceptes el trabajo no podrás abandonar hasta que esté terminado...~
-@10 = ~¿5000? Esa es una tremenda suma para una sencilla búsqueda, ¿no te parece?~
-@11 = ~¿Por qué yo y no otra compañía? Por ese precio podrías haber contratado a cualquiera.~
-@12 = ~Trato hecho. ¿Dónde está esta torre y dónde he de ir?~
-@13 = ~Ya he oído bastante, pero no me interesa. Adiós.~
-@14 = ~Es un precio muy bajo para nosotros. Creemos en el valor de la calidad. Seréis ricos a mi servicio, descanso asegurado.~
-@15 = ~Ah, pero no os entremezclaríais con mercenarios comunes ¿verdad? No, necesito alguien refinado y habilidoso, y también fuerte. Tú resultas ideal.~
-@16 = ~Bien. No había otra opción...~
-@17 = ~Mi tripulante de más confianza te está esperando cerca de la frontera de Athkatla. Te llevaré con él. Recuerda que desde desde ahí estás solo. Cuando termines, vuelve conmigo. No tengo ninguna duda acerca de lo ejemplar que será tu servicio. Si todo va bien, todos recibiremos lo que merecemos. La torre está esperando...~
-@18 = ~Eres mi elección, y la oferta sigue en pie, la aceptes o no. No hay sentido para ninguna otra decisión.~
-@19 = ~Como gustes. Adiós.~
-@20 = ~Ah, has vuelto. ¿Debería hacerte mi propuesta de nuevo?~
-@21 = ~He cambiado de idea. Dime de nuevo cuál era tu oferta,~
-@22 = ~No, no me interesa. Solo daba una vuelta. Adiós.~
-@23 = ~Ah, has vuelto. ¿Qué? ¿Has cambiado de idea otra vez?~
-@24 = ~Sí.~
-@25 = ~No, todavía no me interesa. Sólo daba una vuelta. Adiós.~
-@26 = ~Muy bien. Como te dije antes todo, son sólo unas palabras...~
-@27 = ~Siento que hayas hecho esa elección. Podríamos haber recibido todos lo que queremos... Adiós.~
-@28 = ~¿Y bien? ¿Quieres hacer eso por mí o no? Habla rápido.~
-@29 = ~Sí, lo voy a hacer. Puedo empezar ya.~
-@30 = ~No, no estoy interesado. Encuentra a otro. Cuídate.~ ~No, no estoy interesada. Encuentra a otro. Cuídate.~
-@31 = ~Al fin has vuelto. Veo que ya tienes el libro. Ahora, dámelo, después de todo no te va a servir.~
-@32 = ~Bien, aquí está, cógelo y dame la recompensa que prometiste.~
-@33 = ~¿Sabes una cosa? Ahora puede no servirme para nada. Pero mis habilidades aumentarán en el futuro, y estoy seguro que podre romper sus sellos entonces, así que creo que no te lo voy a dar.~ ~¿Sabes una cosa? Ahora puede no servirme para nada. Pero mis habilidades aumentarán en el futuro, y estoy segura que podre romper sus sellos entonces, así que creo que no te lo voy a dar.~
-@34 = ~Vale, vale, aquí lo tienes, úsalo con prudencia. Cuídate. Adiós.~
-@35 = ~Gracias y adiós.~
-@36 = ~No juegues conmigo, <CHARNAME>. No estoy de humor. Dámelo ya, teníamos un trato.~
-@37 = ~No. Como dije, prefiero quedármelo.~
-@38 = ~No me has dado otra opción. Lo tendré aunque tenga que usar la fuerza. ¡Prepárate a morir!~
-@39 = ~Locos... ¡Volvisteis sin el libro! ¿Acasio es eso posible? Ese era el motivo para ir. Sin él, ¡mejor que os hubiérais quedado allí!~
-@40 = ~La Torre del Engaño - Viaje a una torre abandonada
+@7  = ~Represento a una comunidad de magos de fuera de Athkatla, y mientras sirva a mi maestro lo mejor que pueda no hay nada mÃ¡s que pueda hacer.~
+@8  = ~Pero a lo que iba. Hay una torre abandonada cerca de las fronteras de Athkatla llamada la Torre del EngaÃ±o. Fue construida por Ustrain, un mago conocido antiguamente, ahora olvidado. No te dirÃ© mÃ¡s, no es importante para la misiÃ³n. Todo lo que necesito es alguien que busque dentro de ella un libro determinado. El libro de hechizos de Ustrain. Te necesito, <CHARNAME>.~
+@9  = ~Te ofrezco una buena cantidad, lo suficientemente importante para alguien de tu importancia. 5000 monedas de oro si me traes este libro. Puedes quedarte todo lo que encuentres, pero te lo advierto: una vez que aceptes el trabajo no podrÃ¡s abandonar hasta que estÃ© terminado...~
+@10 = ~Â¿5000? Esa es una tremenda suma para una sencilla bÃºsqueda, Â¿no te parece?~
+@11 = ~Â¿Por quÃ© yo y no otra compaÃ±Ã­a? Por ese precio podrÃ­as haber contratado a cualquiera.~
+@12 = ~Trato hecho. Â¿DÃ³nde estÃ¡ esta torre y dÃ³nde he de ir?~
+@13 = ~Ya he oÃ­do bastante, pero no me interesa. AdiÃ³s.~
+@14 = ~Es un precio muy bajo para nosotros. Creemos en el valor de la calidad. SerÃ©is ricos a mi servicio, descanso asegurado.~
+@15 = ~Ah, pero no os entremezclarÃ­ais con mercenarios comunes Â¿verdad? No, necesito alguien refinado y habilidoso, y tambiÃ©n fuerte. TÃº resultas ideal.~
+@16 = ~Bien. No habÃ­a otra opciÃ³n...~
+@17 = ~Mi tripulante de mÃ¡s confianza te estÃ¡ esperando cerca de la frontera de Athkatla. Te llevarÃ© con Ã©l. Recuerda que desde desde ahÃ­ estÃ¡s solo. Cuando termines, vuelve conmigo. No tengo ninguna duda acerca de lo ejemplar que serÃ¡ tu servicio. Si todo va bien, todos recibiremos lo que merecemos. La torre estÃ¡ esperando...~
+@18 = ~Eres mi elecciÃ³n, y la oferta sigue en pie, la aceptes o no. No hay sentido para ninguna otra decisiÃ³n.~
+@19 = ~Como gustes. AdiÃ³s.~
+@20 = ~Ah, has vuelto. Â¿DeberÃ­a hacerte mi propuesta de nuevo?~
+@21 = ~He cambiado de idea. Dime de nuevo cuÃ¡l era tu oferta,~
+@22 = ~No, no me interesa. Solo daba una vuelta. AdiÃ³s.~
+@23 = ~Ah, has vuelto. Â¿QuÃ©? Â¿Has cambiado de idea otra vez?~
+@24 = ~SÃ­.~
+@25 = ~No, todavÃ­a no me interesa. SÃ³lo daba una vuelta. AdiÃ³s.~
+@26 = ~Muy bien. Como te dije antes todo, son sÃ³lo unas palabras...~
+@27 = ~Siento que hayas hecho esa elecciÃ³n. PodrÃ­amos haber recibido todos lo que queremos... AdiÃ³s.~
+@28 = ~Â¿Y bien? Â¿Quieres hacer eso por mÃ­ o no? Habla rÃ¡pido.~
+@29 = ~SÃ­, lo voy a hacer. Puedo empezar ya.~
+@30 = ~No, no estoy interesado. Encuentra a otro. CuÃ­date.~ ~No, no estoy interesada. Encuentra a otro. CuÃ­date.~
+@31 = ~Al fin has vuelto. Veo que ya tienes el libro. Ahora, dÃ¡melo, despuÃ©s de todo no te va a servir.~
+@32 = ~Bien, aquÃ­ estÃ¡, cÃ³gelo y dame la recompensa que prometiste.~
+@33 = ~Â¿Sabes una cosa? Ahora puede no servirme para nada. Pero mis habilidades aumentarÃ¡n en el futuro, y estoy seguro que podre romper sus sellos entonces, asÃ­ que creo que no te lo voy a dar.~ ~Â¿Sabes una cosa? Ahora puede no servirme para nada. Pero mis habilidades aumentarÃ¡n en el futuro, y estoy segura que podre romper sus sellos entonces, asÃ­ que creo que no te lo voy a dar.~
+@34 = ~Vale, vale, aquÃ­ lo tienes, Ãºsalo con prudencia. CuÃ­date. AdiÃ³s.~
+@35 = ~Gracias y adiÃ³s.~
+@36 = ~No juegues conmigo, <CHARNAME>. No estoy de humor. DÃ¡melo ya, tenÃ­amos un trato.~
+@37 = ~No. Como dije, prefiero quedÃ¡rmelo.~
+@38 = ~No me has dado otra opciÃ³n. Lo tendrÃ© aunque tenga que usar la fuerza. Â¡PrepÃ¡rate a morir!~
+@39 = ~Locos... Â¡Volvisteis sin el libro! Â¿Acasio es eso posible? Ese era el motivo para ir. Sin Ã©l, Â¡mejor que os hubiÃ©rais quedado allÃ­!~
+@40 = ~La Torre del EngaÃ±o - Viaje a una torre abandonada
 
-He sido contratado por un mago llamado Tian para ir a una torre abandonada en el suroeste de la frontera de Amn, llamada la Torre del Engaño. Debo recuperar para él un libro. Aunque nunca he oído hablar de ninguna torre al suroeste de Athkatla, he accedido por la muy buena cantidad de dinero que ofrece, 5000 monedas de oro. Además, dijo que necesitaba a alguien con finura y habilidad, y con fuerza, y como él bien creía, ese alguien solo puedo ser yo.~
-@41 = ~La Torre del Engaño - De vuelta a Athkatla
+He sido contratado por un mago llamado Tian para ir a una torre abandonada en el suroeste de la frontera de Amn, llamada la Torre del EngaÃ±o. Debo recuperar para Ã©l un libro. Aunque nunca he oÃ­do hablar de ninguna torre al suroeste de Athkatla, he accedido por la muy buena cantidad de dinero que ofrece, 5000 monedas de oro. AdemÃ¡s, dijo que necesitaba a alguien con finura y habilidad, y con fuerza, y como Ã©l bien creÃ­a, ese alguien solo puedo ser yo.~
+@41 = ~La Torre del EngaÃ±o - De vuelta a Athkatla
 
-Al fin he escapado de esa torre abandonada y le he dado el libro a Tian. Estaba muy contento y me dio la recompensa prometida de 5000 monedas de oro. La Espada ya es bastante recompensa por sí misma. De todas maneras, ya puedo continuar mis viajes. Aún me esperan muchos...~
-@42 = ~La Torre del Engaño - Viaje a una torre abandonada
+Al fin he escapado de esa torre abandonada y le he dado el libro a Tian. Estaba muy contento y me dio la recompensa prometida de 5000 monedas de oro. La Espada ya es bastante recompensa por sÃ­ misma. De todas maneras, ya puedo continuar mis viajes. AÃºn me esperan muchos...~
+@42 = ~La Torre del EngaÃ±o - Viaje a una torre abandonada
 
-He sido contratado por un mago llamado Tian para ir a una torre abandonada en el suroeste de la frontera de Amn, llamada la Torre del Engaño. Debo recuperar para él un libro. Aunque nunca he oído hablar de ninguna torre al suroeste de Athkatla, he accedido por la muy buena cantidad de dinero que ofrece, 5000 monedas de oro. Además, dijo que necesitaba a alguien con finura y habilidad, y con fuerza, y como él bien creía, ese alguien solo puedo ser yo.~
-@43 = ~Torre del engaño - Emboscada de zombis marinos
+He sido contratado por un mago llamado Tian para ir a una torre abandonada en el suroeste de la frontera de Amn, llamada la Torre del EngaÃ±o. Debo recuperar para Ã©l un libro. Aunque nunca he oÃ­do hablar de ninguna torre al suroeste de Athkatla, he accedido por la muy buena cantidad de dinero que ofrece, 5000 monedas de oro. AdemÃ¡s, dijo que necesitaba a alguien con finura y habilidad, y con fuerza, y como Ã©l bien creÃ­a, ese alguien solo puedo ser yo.~
+@43 = ~Torre del engaÃ±o - Emboscada de zombis marinos
 
-El capitán Kergo nos ha traído a la islaa, pero después de desembarcar, fuimos asaltados por varios zombis marinos. Salieron de la nada, pero no resultaron ningún peligro real. Pero me temo algo peor: parece como si esa gigante torre nos estuviera vigilando...~
-@44 = ~Torre del engaño - Muerte de Baloar
+El capitÃ¡n Kergo nos ha traÃ­do a la islaa, pero despuÃ©s de desembarcar, fuimos asaltados por varios zombis marinos. Salieron de la nada, pero no resultaron ningÃºn peligro real. Pero me temo algo peor: parece como si esa gigante torre nos estuviera vigilando...~
+@44 = ~Torre del engaÃ±o - Muerte de Baloar
 
-Derroté a Baloar, el guardián de la torre. Pensó que venía a vengarme de algo que hizo hace mucho tiempo, lo que claramente era un error, pero no pude discutirlo y tuve que matarlo. De todas formas, parece que se lo merecía.
-He descubierto que las puertas están cerradas. Tendré que buscar otra forma de salir.~
-@45 = ~Torre del engaño - Un clérigo atrapado
+DerrotÃ© a Baloar, el guardiÃ¡n de la torre. PensÃ³ que venÃ­a a vengarme de algo que hizo hace mucho tiempo, lo que claramente era un error, pero no pude discutirlo y tuve que matarlo. De todas formas, parece que se lo merecÃ­a.
+He descubierto que las puertas estÃ¡n cerradas. TendrÃ© que buscar otra forma de salir.~
+@45 = ~Torre del engaÃ±o - Un clÃ©rigo atrapado
 
-Me he encontrado a Gulin, un sacerdote de Helmo, que lleva un mes atrapado. Me habló de un gran cristal, el fragmento astral, que está creando una red de teleportación invisible que nos impide salir. También dijo que este fragmento es lo que ha bloqueado todas las puertas, y que por lo tanto sólo podremos irnos cuando el fragmento haya sido destruido.
-También habló de unas dríadas congeladas que se encuentran en el piso superior. Quizá pueda liberarlas, aunque no sé cómo... supongo que debería ir y echar un vistazo.~
-@46 = ~Torre del engaño - Rescate de Pandaira
+Me he encontrado a Gulin, un sacerdote de Helmo, que lleva un mes atrapado. Me hablÃ³ de un gran cristal, el fragmento astral, que estÃ¡ creando una red de teleportaciÃ³n invisible que nos impide salir. TambiÃ©n dijo que este fragmento es lo que ha bloqueado todas las puertas, y que por lo tanto sÃ³lo podremos irnos cuando el fragmento haya sido destruido.
+TambiÃ©n hablÃ³ de unas drÃ­adas congeladas que se encuentran en el piso superior. QuizÃ¡ pueda liberarlas, aunque no sÃ© cÃ³mo... supongo que deberÃ­a ir y echar un vistazo.~
+@46 = ~Torre del engaÃ±o - Rescate de Pandaira
 
-Bueno, aunque liberé a las dos dríadas, Wistemach, una de ellas, no quiso escucharme. Me confundió con un siervo de Ustrain y pensó que quería encerrarla de nuevo. Tuve que matarla, no quedó más remedio. La otra, Pandaira, estaba muy agradecida. Parecía ser que Wistemach la controlaba y que estaba atrapada en algún tipo de trampa. Ahora es libre de nuevo, y a cambio me dijo dónde encontrar el libro que busco, cómo encontrar el fragmento astral y cómo destruirlo.~
-@47 = ~Torre del engaño - Batalla final
+Bueno, aunque liberÃ© a las dos drÃ­adas, Wistemach, una de ellas, no quiso escucharme. Me confundiÃ³ con un siervo de Ustrain y pensÃ³ que querÃ­a encerrarla de nuevo. Tuve que matarla, no quedÃ³ mÃ¡s remedio. La otra, Pandaira, estaba muy agradecida. ParecÃ­a ser que Wistemach la controlaba y que estaba atrapada en algÃºn tipo de trampa. Ahora es libre de nuevo, y a cambio me dijo dÃ³nde encontrar el libro que busco, cÃ³mo encontrar el fragmento astral y cÃ³mo destruirlo.~
+@47 = ~Torre del engaÃ±o - Batalla final
 
-Ahora tengo la Espada, y parece que la muerte del sirviente me teleportó automáticamente al dormitorio de Ustrain. Ahora sóo falta derrotar al guardián del fragmento astral y destruir el propio fragmento... aunque no será fácil.~
-@48 = ~La Torre del Engaño - De vuelta a Athkatla
+Ahora tengo la Espada, y parece que la muerte del sirviente me teleportÃ³ automÃ¡ticamente al dormitorio de Ustrain. Ahora sÃ³o falta derrotar al guardiÃ¡n del fragmento astral y destruir el propio fragmento... aunque no serÃ¡ fÃ¡cil.~
+@48 = ~La Torre del EngaÃ±o - De vuelta a Athkatla
 
-Al fin pude escapar de esta torre maldita y traerle el libro a Tian, pero durante nuestro viaje de vuelta decidí quedármelo. Cuando le dije esto a Tian, no estaba de humor para entenderlo y me atacó al momento. Pero de alguna manera, su muerte no me resulto satisfactoria... De todos modos, ya puedo continuar con mis viajes, que aún me quedan muchos...~
-@49 = ~La Torre del Engaño - De vuelta a Athkatla
+Al fin pude escapar de esta torre maldita y traerle el libro a Tian, pero durante nuestro viaje de vuelta decidÃ­ quedÃ¡rmelo. Cuando le dije esto a Tian, no estaba de humor para entenderlo y me atacÃ³ al momento. Pero de alguna manera, su muerte no me resulto satisfactoria... De todos modos, ya puedo continuar con mis viajes, que aÃºn me quedan muchos...~
+@49 = ~La Torre del EngaÃ±o - De vuelta a Athkatla
 
-Ya escapé de esa horrenda Torre y he regresado con Tian. No parece alegrarse de mi vuelta sin el libro en mi poder. No he recibido ninguna recompensa y parece que tendré que proteger mi espalda contra magos enfadados. Al menos ya puedo seguir con mis viajes, que aún me quedan muchos...~
-@50 = ~Sí, sí, como sea.~
-@51 = ~Oh, de acuerdo. Toma. ¿Dónde está mi recompensa?~
-@52 = ~¿Osas hablar del libro? ¿Sabes acaso lo peligroso que fue?~
-@53 = ~Sí, fui consciente, aunque elegí no contarte algunas cosas, la verdad, temía que rechazaras el trabajo al oír los detalles.  Pero ahora tu recompensa es adecuada, ¿no crees? Pero dame el libro, por favor.~
+Ya escapÃ© de esa horrenda Torre y he regresado con Tian. No parece alegrarse de mi vuelta sin el libro en mi poder. No he recibido ninguna recompensa y parece que tendrÃ© que proteger mi espalda contra magos enfadados. Al menos ya puedo seguir con mis viajes, que aÃºn me quedan muchos...~
+@50 = ~SÃ­, sÃ­, como sea.~
+@51 = ~Oh, de acuerdo. Toma. Â¿DÃ³nde estÃ¡ mi recompensa?~
+@52 = ~Â¿Osas hablar del libro? Â¿Sabes acaso lo peligroso que fue?~
+@53 = ~SÃ­, fui consciente, aunque elegÃ­ no contarte algunas cosas, la verdad, temÃ­a que rechazaras el trabajo al oÃ­r los detalles.  Pero ahora tu recompensa es adecuada, Â¿no crees? Pero dame el libro, por favor.~

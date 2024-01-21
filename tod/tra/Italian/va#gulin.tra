@@ -1,40 +1,40 @@
 @0    = ~Ehi tu, aspetta. Ti ho sentito arrivare, suppongo che hai ucciso quelle fastidiose ombre.~
 @1    = ~In effetti, sapevo di loro. Ma siccome non ero in grado di sconfiggerle da solo, mi limitavo ad osservarle dalle scale.~
-@2    = ~Non ho avuto il coraggio di scendere giù, e loro non sono potute salire quassù. Non so perché.~
-@3    = ~Ma da quello che vedo, finalmente qualcuno é stato capace di dargli il riposo eterno. Oh, mi stavo dimenticando le buone maniere...~
-@4    = ~Il mio nome é Gulin. E qual'é il vostro?~
+@2    = ~Non ho avuto il coraggio di scendere giÃ¹, e loro non sono potute salire quassÃ¹. Non so perchÃ©.~
+@3    = ~Ma da quello che vedo, finalmente qualcuno Ã© stato capace di dargli il riposo eterno. Oh, mi stavo dimenticando le buone maniere...~
+@4    = ~Il mio nome Ã© Gulin. E qual'Ã© il vostro?~
 @5    = ~Ben incontrato, io mi chiamo <CHARNAME>. Cosa stai facendo qui in questa torre, da solo? Se posso chiedertelo, naturalmente...~
 @6    = ~Il mio nome non ha importanza, ed io non ho bisogno del vostro. Ora, se *posso*, me ne andrei per la mia strada. Arrivederci.~
-@7    = ~Io sono un sacerdote, un chierico di Helm. Sono stato intrappolato qui subito dopo aver provato ad usare un teletrasporto. E' successo un mese fa. Da allora, sono stato bloccato qui. Non posso scappare, finché il Frammento Astrale è attivo, come non posso neanche riusare l'incantesimo di teletrasporto. Ho provato a farlo, ma ritorno sempre qui. E, naturalmente, gli ingressi principali sono bloccati. Questa é tutta opera del Frammento Astrale.~
+@7    = ~Io sono un sacerdote, un chierico di Helm. Sono stato intrappolato qui subito dopo aver provato ad usare un teletrasporto. E' successo un mese fa. Da allora, sono stato bloccato qui. Non posso scappare, finchÃ© il Frammento Astrale Ã¨ attivo, come non posso neanche riusare l'incantesimo di teletrasporto. Ho provato a farlo, ma ritorno sempre qui. E, naturalmente, gli ingressi principali sono bloccati. Questa Ã© tutta opera del Frammento Astrale.~
 @8    = ~Sto sopravvivendo usando gli incantesimi di evocazione di cibo e acqua, ma capirai che non posso farlo per sempre.~
-@9    = ~Come puoi vedere, ho tutto il mio equipaggiamento con me. Questo perché sono stato intrappolato qui molto tempo dopo di quando c'è stato Ustrain. Se lui fosse qui, vivo, dubito che avrei ancora qualcosa...~
-@10   = ~Penso che questa stanza potrebbe essere stata la camera dei prigionieri. Stavano qui, finché Ustrain non era pronto ad usarli per i suoi scopi, presumo. Se fossero rimasti altri prigionieri, sarebbero scappati, o morti, o imprigionati da qualche altra parte penso.~
-@11   = ~Scusa, hai parlato di un "Frammento Astrale". Cos'é, una qualche specie di macchina? Tian non ci ha detto nulla di questa cosa.~
+@9    = ~Come puoi vedere, ho tutto il mio equipaggiamento con me. Questo perchÃ© sono stato intrappolato qui molto tempo dopo di quando c'Ã¨ stato Ustrain. Se lui fosse qui, vivo, dubito che avrei ancora qualcosa...~
+@10   = ~Penso che questa stanza potrebbe essere stata la camera dei prigionieri. Stavano qui, finchÃ© Ustrain non era pronto ad usarli per i suoi scopi, presumo. Se fossero rimasti altri prigionieri, sarebbero scappati, o morti, o imprigionati da qualche altra parte penso.~
+@11   = ~Scusa, hai parlato di un "Frammento Astrale". Cos'Ã©, una qualche specie di macchina? Tian non ci ha detto nulla di questa cosa.~
 @12   = ~Hai detto che sei stato qui durante l'ultimo mese. Hai visitato i piani superiori?~
 @13   = ~Arrivederci.~
-@14   = ~Una macchina? No. In realtà non l'ho vista con i miei occhi, perché é collocata all'ultimo piano ed io non ci sono mai stato. Ma ho sentito parecchie cose riguardo il Frammento di cristalli di pietre Astrali. Questi grandi cristalli sono stati presi dal Piano Astrale tempo fa. Essi generano e attivano un'invisibile trappola che consiste in una rete di teletrasporto che riconduce sempre nello stesso luogo di partenza, finché non sono distrutte, o rispedite indietro al Piano Astrale. Se sono rimosse, ricreeranno una trappola di teletrasporto nei pressi della loro nuova locazione.~
+@14   = ~Una macchina? No. In realtÃ  non l'ho vista con i miei occhi, perchÃ© Ã© collocata all'ultimo piano ed io non ci sono mai stato. Ma ho sentito parecchie cose riguardo il Frammento di cristalli di pietre Astrali. Questi grandi cristalli sono stati presi dal Piano Astrale tempo fa. Essi generano e attivano un'invisibile trappola che consiste in una rete di teletrasporto che riconduce sempre nello stesso luogo di partenza, finchÃ© non sono distrutte, o rispedite indietro al Piano Astrale. Se sono rimosse, ricreeranno una trappola di teletrasporto nei pressi della loro nuova locazione.~
 @15   = ~Da quello che so, Ustrain ha rubato uno di questi cristalli dal Piano Astrale. Posso a male pena immaginare come...~
 @16   = ~Se intendi distruggerlo, stai attento, dovrebbe essere protetto. Dubito che Ustrain lo avrebbe lasciato indifeso.~
 @17   = ~Questo potrebbe essermi utile. Cosa mi sai dire dei piani superiori? Li hai visitati?~
-@18   = ~D'accordo, ho sentito abbastanza. Vedrò quello che posso fare. Forse sono in grado di distruggere questo Frammento Astrale. Se ce la faccio, potresti finalmente fuggire da questa prigione. Forse ci incontreremo ancora...~
+@18   = ~D'accordo, ho sentito abbastanza. VedrÃ² quello che posso fare. Forse sono in grado di distruggere questo Frammento Astrale. Se ce la faccio, potresti finalmente fuggire da questa prigione. Forse ci incontreremo ancora...~
 @19   = ~Si, ma sono stato solo al piano appena sopra questo. Non ho il coraggio di passare attraverso il portale. Appena sali quelle scale, infatti, rimane da attraversare un portale.~
-@20   = ~Ci sono anche due donne lassù, congelate dal Frammento Astrale, tutte e due. Sembrano essere driadi... o qualcosa del genere. Come tutte le cose congelate, sono molto fragili. Puoi ucciderle con qualsiasi arma, ma ho scoperto che sono ricoperte di ghiaccio magico che le renderà immuni a qualche incantesimo. Forse puoi liberarle, ma non saprei come, non ci ho mai provato.~
-@21   = ~Scusa, hai parlato di un "Frammento Astrale". Cos'é, una qualche specie di macchina? Tian non ci ha detto nulla di questo meccanismo.~
-@22   = ~D'accordo, ho sentito abbastanza. Vedrò quello che posso fare. Forse sono in grado di distruggere questo Frammento Astrale. Se ce la faccio, potresti finalmente fuggire da questa prigione. Magari ci incontreremo ancora, forse da qualche parte ad Athkatla? Chi lo sa... Fino ad allora, mi raccomando.~
-@23   = ~Ti ringrazio. Spero che ce la farai, perché non voglio rimanere qui per sempre. Che gli dei siano con te.~
-@24   = ~Cosa c'é? Hai cambiato idea?~
+@20   = ~Ci sono anche due donne lassÃ¹, congelate dal Frammento Astrale, tutte e due. Sembrano essere driadi... o qualcosa del genere. Come tutte le cose congelate, sono molto fragili. Puoi ucciderle con qualsiasi arma, ma ho scoperto che sono ricoperte di ghiaccio magico che le renderÃ  immuni a qualche incantesimo. Forse puoi liberarle, ma non saprei come, non ci ho mai provato.~
+@21   = ~Scusa, hai parlato di un "Frammento Astrale". Cos'Ã©, una qualche specie di macchina? Tian non ci ha detto nulla di questo meccanismo.~
+@22   = ~D'accordo, ho sentito abbastanza. VedrÃ² quello che posso fare. Forse sono in grado di distruggere questo Frammento Astrale. Se ce la faccio, potresti finalmente fuggire da questa prigione. Magari ci incontreremo ancora, forse da qualche parte ad Athkatla? Chi lo sa... Fino ad allora, mi raccomando.~
+@23   = ~Ti ringrazio. Spero che ce la farai, perchÃ© non voglio rimanere qui per sempre. Che gli dei siano con te.~
+@24   = ~Cosa c'Ã©? Hai cambiato idea?~
 @25   = ~Si, ho cambiato idea. Ma tu, spiegami, come sei finito qui?~
 @26   = ~No, sto solo dando un'occhiata qui intorno.~
 @27   = ~Possa Helm vegliare su di te. Confido che farai la cosa giusta...~
 @28   = ~Torre dell'Inganno - Un chierico intrappolato dentro la Torre
 
-Ho incontrato Gulin, un chierico di Helm, che é stato intrappolato qui il mese scorso. Ha parlato di un grande cristallo, il Frammento Astrale, che genera e attiva un'invisibile trappola che consiste in una rete di teletrasporto che riconduce sempre nella Torre, trattenendo quindi tutti al suo interno. Ha anche detto che il Frammento Astrale è la ragione per cui tutte le porte principali sono bloccate. Sembra che solo distruggendo il Frammento Astrale troveremo il modo di fuggire.
+Ho incontrato Gulin, un chierico di Helm, che Ã© stato intrappolato qui il mese scorso. Ha parlato di un grande cristallo, il Frammento Astrale, che genera e attiva un'invisibile trappola che consiste in una rete di teletrasporto che riconduce sempre nella Torre, trattenendo quindi tutti al suo interno. Ha anche detto che il Frammento Astrale Ã¨ la ragione per cui tutte le porte principali sono bloccate. Sembra che solo distruggendo il Frammento Astrale troveremo il modo di fuggire.
 Ha parlato anche di due driadi congelate, che si trovano al piano superiore. Forse posso liberarle...~
 
-@29   = ~Potresti dirmi di più su questa Torre?~
+@29   = ~Potresti dirmi di piÃ¹ su questa Torre?~
 @30   = ~La Torre? Molto bene. Credo di aver imparato abbastanza durante il mio imprigionamento, e quello che sono venuto a sapere potrebbe esserti utile.~
-@31   = ~Quando il malvagio stregone githyanki, Ustrain, costruì questa torre anni fa, non aveva idea che i marinai avrebbero scambiato la luce del magico Frammento Astrale posto in cima alla torre per la luce di un faro. La luce di questa torre portò molti marinai alla loro condanna.~
-@32   = ~Ma Ustrain non se ne curò. Si fece una risata della loro situazione e continuò il suo perfido lavoro. Usava il potere del Frammento Astrale per rapire creature e viaggiatori mentre si teletrasportavano... come sono stato rapito io.~
-@33   = ~Un giorno, tuttavia, la sua stessa gente venne a prendere il malvagio stregone githyanki riportandolo nel suo nativo Piano Astrale. Da allora non é stato più visto.~
-@34   = ~Ma la sua torre é rimasta. Non solo continua ad ingannare i marinai durante le notti nebbiose, ma la magia del Frammento Astrale continua a svolgere il progetto malvagio di Ustrain.~
-@35   = ~Originariamente, Ustrain schiavizzava o derubava la vittime intrappolate dal Frammento Astrale. Ma da quando il githyanki se ne é andato, le persone catturate rimangono intrappolate all'interno di questa torre malvagia finché non sono capaci di escogitare una fuga, o morire. Dovrai essere cauto, se non vorrai attirare la loro ira su di te.~
+@31   = ~Quando il malvagio stregone githyanki, Ustrain, costruÃ¬ questa torre anni fa, non aveva idea che i marinai avrebbero scambiato la luce del magico Frammento Astrale posto in cima alla torre per la luce di un faro. La luce di questa torre portÃ² molti marinai alla loro condanna.~
+@32   = ~Ma Ustrain non se ne curÃ². Si fece una risata della loro situazione e continuÃ² il suo perfido lavoro. Usava il potere del Frammento Astrale per rapire creature e viaggiatori mentre si teletrasportavano... come sono stato rapito io.~
+@33   = ~Un giorno, tuttavia, la sua stessa gente venne a prendere il malvagio stregone githyanki riportandolo nel suo nativo Piano Astrale. Da allora non Ã© stato piÃ¹ visto.~
+@34   = ~Ma la sua torre Ã© rimasta. Non solo continua ad ingannare i marinai durante le notti nebbiose, ma la magia del Frammento Astrale continua a svolgere il progetto malvagio di Ustrain.~
+@35   = ~Originariamente, Ustrain schiavizzava o derubava la vittime intrappolate dal Frammento Astrale. Ma da quando il githyanki se ne Ã© andato, le persone catturate rimangono intrappolate all'interno di questa torre malvagia finchÃ© non sono capaci di escogitare una fuga, o morire. Dovrai essere cauto, se non vorrai attirare la loro ira su di te.~

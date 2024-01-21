@@ -1,104 +1,104 @@
-@0    = ~Pouvez-vous m'accorder un petit moment ? Je m'appelle Tian. J'ai besoin de quelqu'un pour mener à bien une mission difficile et périlleuse, et j'estime que très peu de gens sont capables de réussir.~
-@1    = ~Vous, cependant, avez l'air vraiment compétent. Je me rends compte maintenant que les rumeurs de vos exploits ne sont pas des exagérations.~
-        ~Vous, cependant, avez l'air vraiment compétente. Je me rends compte maintenant que les rumeurs de vos exploits ne sont pas des exagérations.~
+@0    = ~Pouvez-vous m'accorder un petit moment ? Je m'appelle Tian. J'ai besoin de quelqu'un pour mener Ã  bien une mission difficile et pÃ©rilleuse, et j'estime que trÃ¨s peu de gens sont capables de rÃ©ussir.~
+@1    = ~Vous, cependant, avez l'air vraiment compÃ©tent. Je me rends compte maintenant que les rumeurs de vos exploits ne sont pas des exagÃ©rations.~
+        ~Vous, cependant, avez l'air vraiment compÃ©tente. Je me rends compte maintenant que les rumeurs de vos exploits ne sont pas des exagÃ©rations.~
 @2    = ~Certainement, je vous aiderai. Que faut-il faire ?~
-@3    = ~Parlez. Je vais vous écouter, mais je ne promets rien.~
-@4    = ~Ces flatteries ne vous mèneront nulle part.~
+@3    = ~Parlez. Je vais vous Ã©couter, mais je ne promets rien.~
+@4    = ~Ces flatteries ne vous mÃ¨neront nulle part.~
 @5    = ~Excusez-moi, mais je dois partir.~
-@6    = ~Je suis l'envoyé d'un mage qui réside à l'extérieur d'Athkatla. Il a besoin d'un objet bien particulier. Un livre de sorts.~
-@7    = ~Mais venons-en au fait. Il existe une tour abandonnée sur la côte d'Amn, qu'on appelle la tour sans retour. Elle fut construite par Ustrain, un magicien célèbre il y a bien longtemps, mais maintenant tombé dans l'oubli. Je ne vous en dirai pas plus, car cela n'aurait guère d'intérêt pour votre mission.~
+@6    = ~Je suis l'envoyÃ© d'un mage qui rÃ©side Ã  l'extÃ©rieur d'Athkatla. Il a besoin d'un objet bien particulier. Un livre de sorts.~
+@7    = ~Mais venons-en au fait. Il existe une tour abandonnÃ©e sur la cÃ´te d'Amn, qu'on appelle la tour sans retour. Elle fut construite par Ustrain, un magicien cÃ©lÃ¨bre il y a bien longtemps, mais maintenant tombÃ© dans l'oubli. Je ne vous en dirai pas plus, car cela n'aurait guÃ¨re d'intÃ©rÃªt pour votre mission.~
 @8    = ~Il me faut juste quelqu'un pour fouiller un peu la tour et me ramener un livre. Le livre de sorts d'Ustrain. J'ai besoin de vous, <CHARNAME>.~
-@9    = ~Vous serez grassement récompensé. Cinq mille pièces d'or, et vous pourrez également garder tout le reste de ce que vous trouverez dans la tour. Cependant je dois vous prévenir. Une fois que vous aurez accepté cette mission, vous ne pourrez revenir que lorsqu'elle sera menée à bien...~
-        ~Vous serez grassement récompensée. Cinq mille pièces d'or, et vous pourrez également garder tout le reste de ce que vous trouverez dans la tour. Cependant je dois vous prévenir. Une fois que vous aurez accepté cette mission, vous ne pourrez revenir que lorsqu'elle sera menée à bien...~
+@9    = ~Vous serez grassement rÃ©compensÃ©. Cinq mille piÃ¨ces d'or, et vous pourrez Ã©galement garder tout le reste de ce que vous trouverez dans la tour. Cependant je dois vous prÃ©venir. Une fois que vous aurez acceptÃ© cette mission, vous ne pourrez revenir que lorsqu'elle sera menÃ©e Ã  bien...~
+        ~Vous serez grassement rÃ©compensÃ©e. Cinq mille piÃ¨ces d'or, et vous pourrez Ã©galement garder tout le reste de ce que vous trouverez dans la tour. Cependant je dois vous prÃ©venir. Une fois que vous aurez acceptÃ© cette mission, vous ne pourrez revenir que lorsqu'elle sera menÃ©e Ã  bien...~
 @10   = ~Cinq mille ? Et pourquoi pas cinquante ? Je ne vous crois pas.~
 @11   = ~Je ne sais pas. J'ai comme l'impression que vous ne m'avez pas tout dit.~
-@12   = ~Tope-là. Où est cette tour et quand dois-je partir ?~
-@13   = ~J'en ai assez entendu, et ça ne m'intéresse pas. Au revoir.~
-@14   = ~C'est une petite somme pour mon maître et une rétribution équitable pour une telle mission. Soyez sans crainte, vous aurez votre récompense.~
-@15   = ~Je vous ai dit tout ce dont vous aurez besoin pour accomplir votre mission. Une fois à l'intérieur de la tour, vous découvrirez le reste.~
-@16   = ~Bien. Mon maître sera content.~
-@17   = ~Un capitaine en qui j'ai toute confiance vous attend sur son navire dans une baie isolée assez proche d'ici. Je vais vous y amener. Rappelez-vous, à partir de ce point vous ne pourrez compter que sur vous-même. Quand vous aurez terminé, revenez me voir. En route maintenant : la Tour vous attend...~
-@18   = ~Que vous partiez maintenant ou plus tard, mon offre tient toujours. Je préfèrerais cependant que vous accomplissiez cette mission assez rapidement.~
+@12   = ~Tope-lÃ . OÃ¹ est cette tour et quand dois-je partir ?~
+@13   = ~J'en ai assez entendu, et Ã§a ne m'intÃ©resse pas. Au revoir.~
+@14   = ~C'est une petite somme pour mon maÃ®tre et une rÃ©tribution Ã©quitable pour une telle mission. Soyez sans crainte, vous aurez votre rÃ©compense.~
+@15   = ~Je vous ai dit tout ce dont vous aurez besoin pour accomplir votre mission. Une fois Ã  l'intÃ©rieur de la tour, vous dÃ©couvrirez le reste.~
+@16   = ~Bien. Mon maÃ®tre sera content.~
+@17   = ~Un capitaine en qui j'ai toute confiance vous attend sur son navire dans une baie isolÃ©e assez proche d'ici. Je vais vous y amener. Rappelez-vous, Ã  partir de ce point vous ne pourrez compter que sur vous-mÃªme. Quand vous aurez terminÃ©, revenez me voir. En route maintenant : la Tour vous attend...~
+@18   = ~Que vous partiez maintenant ou plus tard, mon offre tient toujours. Je prÃ©fÃ¨rerais cependant que vous accomplissiez cette mission assez rapidement.~
 @19   = ~Comme vous voulez. Au revoir.~
-@20   = ~Ah, vous revoilà. Avez-vous changé d'avis ?~
-@21   = ~Effectivement, j'ai changé d'avis. Reparlez-moi un peu de votre offre.~
-@22   = ~Non, ça ne m'intéresse pas. Je passais juste dans le coin. Au revoir.~
-@23   = ~Ah, vous revoilà. Quoi ? Vous avez encore changé d'avis ?~
+@20   = ~Ah, vous revoilÃ . Avez-vous changÃ© d'avis ?~
+@21   = ~Effectivement, j'ai changÃ© d'avis. Reparlez-moi un peu de votre offre.~
+@22   = ~Non, Ã§a ne m'intÃ©resse pas. Je passais juste dans le coin. Au revoir.~
+@23   = ~Ah, vous revoilÃ . Quoi ? Vous avez encore changÃ© d'avis ?~
 @24   = ~En fait, oui.~
-@25   = ~Non, ça ne m'intéresse toujours pas. Je passais juste dans le coin. Au revoir.~
-@26   = ~Très bien. Je suppose que vous êtes prêt à partir, par conséquent.~
-        ~Très bien. Je suppose que vous êtes prête à partir, par conséquent.~
+@25   = ~Non, Ã§a ne m'intÃ©resse toujours pas. Je passais juste dans le coin. Au revoir.~
+@26   = ~TrÃ¨s bien. Je suppose que vous Ãªtes prÃªt Ã  partir, par consÃ©quent.~
+        ~TrÃ¨s bien. Je suppose que vous Ãªtes prÃªte Ã  partir, par consÃ©quent.~
 @27   = ~C'est bien dommage. Au revoir.~
-@28   = ~Alors ? Avez-vous envie ou pas d'effectuer cette mission? Répondez-moi vite.~
-@29   = ~Oui, je marche. Je suis prêt.~
-        ~Oui, je marche. Je suis prête.~
+@28   = ~Alors ? Avez-vous envie ou pas d'effectuer cette mission? RÃ©pondez-moi vite.~
+@29   = ~Oui, je marche. Je suis prÃªt.~
+        ~Oui, je marche. Je suis prÃªte.~
 @30   = ~Non, en tout cas pas tout de suite. Il va vous falloir trouver quelqu'un d'autre.~
-@31   = ~Vous êtes enfin de retour ! Je vois que vous avez le livre. Donnez-le moi : après tout, il ne vous est d'aucune utilité.~
-@32   = ~D'accord, le voici. Prenez-le, et donnez-moi la récompense promise.~
-@33   = ~Il m'est inutile maintenant. Mais à l'avenir, je développerai mes compétences et j'ai la certitude de pouvoir briser les sceaux un jour ou l'autre. Donc non, je ne vous le donnerai pas.~
-@34   = ~Certainement. La voilà, comme promis. Je vous remercie sincèrement. Vous avez fait preuve de talent et vous vous êtes également montré digne de confiance. Adieu, <CHARNAME>.~
-        ~Certainement. La voilà, comme promis. Je vous remercie sincèrement. Vous avez fait preuve de talent et vous vous êtes également montrée digne de confiance. Adieu, <CHARNAME>.~
+@31   = ~Vous Ãªtes enfin de retour ! Je vois que vous avez le livre. Donnez-le moi : aprÃ¨s tout, il ne vous est d'aucune utilitÃ©.~
+@32   = ~D'accord, le voici. Prenez-le, et donnez-moi la rÃ©compense promise.~
+@33   = ~Il m'est inutile maintenant. Mais Ã  l'avenir, je dÃ©velopperai mes compÃ©tences et j'ai la certitude de pouvoir briser les sceaux un jour ou l'autre. Donc non, je ne vous le donnerai pas.~
+@34   = ~Certainement. La voilÃ , comme promis. Je vous remercie sincÃ¨rement. Vous avez fait preuve de talent et vous vous Ãªtes Ã©galement montrÃ© digne de confiance. Adieu, <CHARNAME>.~
+        ~Certainement. La voilÃ , comme promis. Je vous remercie sincÃ¨rement. Vous avez fait preuve de talent et vous vous Ãªtes Ã©galement montrÃ©e digne de confiance. Adieu, <CHARNAME>.~
 @35   = ~Merci. Adieu.~
 @36   = ~Ne jouez pas au plus fin avec moi, <CHARNAME>. Je ne suis pas de bonne humeur. Donnez-le moi tout de suite. Nous avions un accord !~
-@37   = ~Non. Comme je viens de vous le dire, je préfèrerais le garder.~
-@38   = ~Vous ne me laissez guère le choix. Je m'en emparerai par la force, si nécessaire. Préparez-vous à mourir !~
-@39   = ~Idiots ! Vous êtes revenus sans le livre ? Comment est-ce possible ? Vous auriez mieux fait de rester là-bas, pauvres crétins ! Je ne veux plus avoir à faire à vous !~
+@37   = ~Non. Comme je viens de vous le dire, je prÃ©fÃ¨rerais le garder.~
+@38   = ~Vous ne me laissez guÃ¨re le choix. Je m'en emparerai par la force, si nÃ©cessaire. PrÃ©parez-vous Ã  mourir !~
+@39   = ~Idiots ! Vous Ãªtes revenus sans le livre ? Comment est-ce possible ? Vous auriez mieux fait de rester lÃ -bas, pauvres crÃ©tins ! Je ne veux plus avoir Ã  faire Ã  vous !~
 
-@40   = ~Tour sans retour - Voyage vers la tour abandonnée
+@40   = ~Tour sans retour - Voyage vers la tour abandonnÃ©e
 
-J'ai été engagé par un mage nommé Tian pour explorer une tour abandonnée sur la côte d'Amn, appelée "tour sans retour". J'ai pour mission de lui récupérer un vieux livre. Il m'offre une récompense de 5000 pièces d'or.~
-        ~Tour sans retour - Voyage vers la tour abandonnée
+J'ai Ã©tÃ© engagÃ© par un mage nommÃ© Tian pour explorer une tour abandonnÃ©e sur la cÃ´te d'Amn, appelÃ©e "tour sans retour". J'ai pour mission de lui rÃ©cupÃ©rer un vieux livre. Il m'offre une rÃ©compense de 5000 piÃ¨ces d'or.~
+        ~Tour sans retour - Voyage vers la tour abandonnÃ©e
 
-J'ai été engagée par un mage nommé Tian pour explorer une tour abandonnée sur la côte d'Amn, appelée "tour sans retour". J'ai pour mission de lui récupérer un vieux livre. Il m'offre une récompense de 5000 pièces d'or.~
+J'ai Ã©tÃ© engagÃ©e par un mage nommÃ© Tian pour explorer une tour abandonnÃ©e sur la cÃ´te d'Amn, appelÃ©e "tour sans retour". J'ai pour mission de lui rÃ©cupÃ©rer un vieux livre. Il m'offre une rÃ©compense de 5000 piÃ¨ces d'or.~
 
-@41   = ~Tour sans retour - De retour à Athkatla
+@41   = ~Tour sans retour - De retour Ã  Athkatla
 
-J'ai finalement réussi à m'enfuir de cette tour abandonnée et j'ai donné le livre à Tian. Il était très content et m'a récompensé de 5000 pièces d'or, comme promis. Ma mission accomplie, nous nous sommes séparés en bons termes.~
+J'ai finalement rÃ©ussi Ã  m'enfuir de cette tour abandonnÃ©e et j'ai donnÃ© le livre Ã  Tian. Il Ã©tait trÃ¨s content et m'a rÃ©compensÃ© de 5000 piÃ¨ces d'or, comme promis. Ma mission accomplie, nous nous sommes sÃ©parÃ©s en bons termes.~
 
-@42   = ~Tour sans retour - Voyage vers la tour abandonnée
+@42   = ~Tour sans retour - Voyage vers la tour abandonnÃ©e
 
-J'ai été engagé par un mage nommé Tian pour explorer une tour abandonnée sur la côte d'Amn, appelée "tour sans retour". J'ai pour mission de lui récupérer un vieux livre. Il m'offre une récompense de 5000 pièces d'or.~
-        ~Tour sans retour - Voyage vers la tour abandonnée
+J'ai Ã©tÃ© engagÃ© par un mage nommÃ© Tian pour explorer une tour abandonnÃ©e sur la cÃ´te d'Amn, appelÃ©e "tour sans retour". J'ai pour mission de lui rÃ©cupÃ©rer un vieux livre. Il m'offre une rÃ©compense de 5000 piÃ¨ces d'or.~
+        ~Tour sans retour - Voyage vers la tour abandonnÃ©e
 
-J'ai été engagée par un mage nommé Tian pour explorer une tour abandonnée sur la côte d'Amn, appelée "tour sans retour". J'ai pour mission de lui récupérer un vieux livre. Il m'offre une récompense de 5000 pièces d'or.~
+J'ai Ã©tÃ© engagÃ©e par un mage nommÃ© Tian pour explorer une tour abandonnÃ©e sur la cÃ´te d'Amn, appelÃ©e "tour sans retour". J'ai pour mission de lui rÃ©cupÃ©rer un vieux livre. Il m'offre une rÃ©compense de 5000 piÃ¨ces d'or.~
 
 @43   = ~Tour sans retour - Embuscade des zombis aquatiques
 
-Le capitaine Kergo nous a conduits à l'île, mais après avoir débarqué, plusieurs zombis aquatiques nous ont tendu une embuscade. Ils sont sortis de nulle part, mais n'ont pas constitué un grand danger. Cependant je crains une menace bien plus importante : j'ai l'impression que cette gigantesque tour nous surveille...~
+Le capitaine Kergo nous a conduits Ã  l'Ã®le, mais aprÃ¨s avoir dÃ©barquÃ©, plusieurs zombis aquatiques nous ont tendu une embuscade. Ils sont sortis de nulle part, mais n'ont pas constituÃ© un grand danger. Cependant je crains une menace bien plus importante : j'ai l'impression que cette gigantesque tour nous surveille...~
 
 @44   = ~Tour sans retour - La mort de Baloar
 
-J'ai vaincu Baloar, le gardien de la tour. Il pensait que j'en avais après lui par vengeance, à propos d'actes qu'il avait commis il y a longtemps. Ce n'était évidemment pas le cas, mais je n'ai pas eu la possibilité d'aborder le sujet, donc je l'ai tué sur le champ.
-Je viens maintenant de me rendre compte que toutes les portes d'entrées sont verrouillées. Il me faut trouver une autre issue.~
+J'ai vaincu Baloar, le gardien de la tour. Il pensait que j'en avais aprÃ¨s lui par vengeance, Ã  propos d'actes qu'il avait commis il y a longtemps. Ce n'Ã©tait Ã©videmment pas le cas, mais je n'ai pas eu la possibilitÃ© d'aborder le sujet, donc je l'ai tuÃ© sur le champ.
+Je viens maintenant de me rendre compte que toutes les portes d'entrÃ©es sont verrouillÃ©es. Il me faut trouver une autre issue.~
 
-@45   = ~Tour sans retour - Un prêtre piégé à l'intérieur
+@45   = ~Tour sans retour - Un prÃªtre piÃ©gÃ© Ã  l'intÃ©rieur
 
-J'ai rencontré Gulin, un prêtre de Heaum, qui est bloqué ici depuis un mois. Il a parlé d'un grand cristal, l'Eclat Astral, qui crée une toile de téléportation invisible, qui nous retient tous prisonniers dans la tour. Il a aussi dit que c'est à cause de l'Eclat Astral que les portes d'entrée sont fermées. Il semble que nous ne pourrons trouver un moyen de nous échapper qu'une fois que l'Eclat Astral aura été détruit.
-Il a aussi parlé de dryades congelées, à l'étage supérieur. Peut-être pourrais-je les libérer...~
+J'ai rencontrÃ© Gulin, un prÃªtre de Heaum, qui est bloquÃ© ici depuis un mois. Il a parlÃ© d'un grand cristal, l'Eclat Astral, qui crÃ©e une toile de tÃ©lÃ©portation invisible, qui nous retient tous prisonniers dans la tour. Il a aussi dit que c'est Ã  cause de l'Eclat Astral que les portes d'entrÃ©e sont fermÃ©es. Il semble que nous ne pourrons trouver un moyen de nous Ã©chapper qu'une fois que l'Eclat Astral aura Ã©tÃ© dÃ©truit.
+Il a aussi parlÃ© de dryades congelÃ©es, Ã  l'Ã©tage supÃ©rieur. Peut-Ãªtre pourrais-je les libÃ©rer...~
 
-@46   = ~Tour sans retour - Pandaira délivrée
+@46   = ~Tour sans retour - Pandaira dÃ©livrÃ©e
 
-Bien que j'aie libéré les deux dryades, l'une d'entre elles, Wistemach, m'a pris pour un serviteur d'Ustrain et m'a attaqué. Il m'a fallu la tuer. L'autre, Pandaira, a été plus reconnaissante. Il semble qu'elle était sous le contrôle de Wistemach et qu'elle était tombée dans une sorte de piège. Elle est à nouveau libre maintenant. En remerciement, elle m'a appris que le livre de sorts d'Ustrain se trouvait dans sa chambre dans un des niveaux supérieurs et que pour m'échapper de la tour, il me faudrait atteindre l'étage le plus haut, tuer le gardien de l'Eclat Astral et détruire l'Eclat Astral lui-même. Elle a dit que l'Eclat Astral ne peut être détruit que par "un grand feu".~
-        ~Tour sans retour - Pandaira délivrée
+Bien que j'aie libÃ©rÃ© les deux dryades, l'une d'entre elles, Wistemach, m'a pris pour un serviteur d'Ustrain et m'a attaquÃ©. Il m'a fallu la tuer. L'autre, Pandaira, a Ã©tÃ© plus reconnaissante. Il semble qu'elle Ã©tait sous le contrÃ´le de Wistemach et qu'elle Ã©tait tombÃ©e dans une sorte de piÃ¨ge. Elle est Ã  nouveau libre maintenant. En remerciement, elle m'a appris que le livre de sorts d'Ustrain se trouvait dans sa chambre dans un des niveaux supÃ©rieurs et que pour m'Ã©chapper de la tour, il me faudrait atteindre l'Ã©tage le plus haut, tuer le gardien de l'Eclat Astral et dÃ©truire l'Eclat Astral lui-mÃªme. Elle a dit que l'Eclat Astral ne peut Ãªtre dÃ©truit que par "un grand feu".~
+        ~Tour sans retour - Pandaira dÃ©livrÃ©e
 
-Bien que j'aie libéré les deux dryades, l'une d'entre elles, Wistemach, m'a pris pour un serviteur d'Ustrain et m'a attaquée. Il m'a fallu la tuer. L'autre, Pandaira, a été plus reconnaissante. Il semble qu'elle était sous le contrôle de Wistemach et qu'elle était tombée dans une sorte de piège. Elle est à nouveau libre maintenant. En remerciement, elle m'a appris que le livre de sorts d'Ustrain se trouvait dans sa chambre dans un des niveaux supérieurs et que pour m'échapper de la tour, il me faudrait atteindre l'étage le plus haut, tuer le gardien de l'Eclat Astral et détruire l'Eclat Astral lui-même. Elle a dit que l'Eclat Astral ne peut être détruit que par "un grand feu".~
+Bien que j'aie libÃ©rÃ© les deux dryades, l'une d'entre elles, Wistemach, m'a pris pour un serviteur d'Ustrain et m'a attaquÃ©e. Il m'a fallu la tuer. L'autre, Pandaira, a Ã©tÃ© plus reconnaissante. Il semble qu'elle Ã©tait sous le contrÃ´le de Wistemach et qu'elle Ã©tait tombÃ©e dans une sorte de piÃ¨ge. Elle est Ã  nouveau libre maintenant. En remerciement, elle m'a appris que le livre de sorts d'Ustrain se trouvait dans sa chambre dans un des niveaux supÃ©rieurs et que pour m'Ã©chapper de la tour, il me faudrait atteindre l'Ã©tage le plus haut, tuer le gardien de l'Eclat Astral et dÃ©truire l'Eclat Astral lui-mÃªme. Elle a dit que l'Eclat Astral ne peut Ãªtre dÃ©truit que par "un grand feu".~
 
-@47   = ~Tour sans retour - Bientôt la bataille finale
+@47   = ~Tour sans retour - BientÃ´t la bataille finale
 
-J'ai maintenant la Lame, et après la mort du serviteur il semble bien que j'aie été téléporté dans la chambre d'Ustrain. Je n'ai plus qu'à accomplir les deux dernières tâches : tuer le gardien de l'Eclat Astral et détruire l'Eclat Astral lui-même.~
+J'ai maintenant la Lame, et aprÃ¨s la mort du serviteur il semble bien que j'aie Ã©tÃ© tÃ©lÃ©portÃ© dans la chambre d'Ustrain. Je n'ai plus qu'Ã  accomplir les deux derniÃ¨res tÃ¢ches : tuer le gardien de l'Eclat Astral et dÃ©truire l'Eclat Astral lui-mÃªme.~
 
-@48   = ~Tour sans retour - De retour à Athkatla
+@48   = ~Tour sans retour - De retour Ã  Athkatla
 
-J'ai finalement réussi à m'enfuir de cette tour maudite. J'ai rapporté le livre à Tian, mais ai finalement décidé de le garder. Tian, toutefois, a été assez irrité de cette tournure des événements, et m'a attaqué immédiatement. Il est mort, et le livre de sorts est à moi. Je ne sais pas pourquoi, mais je n'ai pas l'impression d'avoir accompli ma mission de la meilleure manière possible.~
-        ~Tour sans retour - De retour à Athkatla
+J'ai finalement rÃ©ussi Ã  m'enfuir de cette tour maudite. J'ai rapportÃ© le livre Ã  Tian, mais ai finalement dÃ©cidÃ© de le garder. Tian, toutefois, a Ã©tÃ© assez irritÃ© de cette tournure des Ã©vÃ©nements, et m'a attaquÃ© immÃ©diatement. Il est mort, et le livre de sorts est Ã  moi. Je ne sais pas pourquoi, mais je n'ai pas l'impression d'avoir accompli ma mission de la meilleure maniÃ¨re possible.~
+        ~Tour sans retour - De retour Ã  Athkatla
 
-J'ai finalement réussi à m'enfuir de cette tour maudite. J'ai rapporté le livre à Tian, mais ai finalement décidé de le garder. Tian, toutefois, a été assez irrité de cette tournure des événements, et m'a attaquée immédiatement. Il est mort, et le livre de sorts est à moi. Je ne sais pas pourquoi, mais je n'ai pas l'impression d'avoir accompli ma mission de la meilleure manière possible.~
+J'ai finalement rÃ©ussi Ã  m'enfuir de cette tour maudite. J'ai rapportÃ© le livre Ã  Tian, mais ai finalement dÃ©cidÃ© de le garder. Tian, toutefois, a Ã©tÃ© assez irritÃ© de cette tournure des Ã©vÃ©nements, et m'a attaquÃ©e immÃ©diatement. Il est mort, et le livre de sorts est Ã  moi. Je ne sais pas pourquoi, mais je n'ai pas l'impression d'avoir accompli ma mission de la meilleure maniÃ¨re possible.~
 
-@49   = ~Tour sans retour - De retour à Athkatla
+@49   = ~Tour sans retour - De retour Ã  Athkatla
 
-J'ai finalement réussi à m'enfuir de cette tour maudite. Toutefois, Tian a été très contrarié du fait que je n'aie pas le livre en ma possession et est parti furieux presque immédiatement. Je n'ai ni accompli ma mission, ni reçu la récompense promise, et il semble que je doive aussi maintenant garder un œil sur un mage furieux.~
+J'ai finalement rÃ©ussi Ã  m'enfuir de cette tour maudite. Toutefois, Tian a Ã©tÃ© trÃ¨s contrariÃ© du fait que je n'aie pas le livre en ma possession et est parti furieux presque immÃ©diatement. Je n'ai ni accompli ma mission, ni reÃ§u la rÃ©compense promise, et il semble que je doive aussi maintenant garder un Å“il sur un mage furieux.~
 
 @50   = ~Oui, oui, d'accord.~
-@51   = ~Bon, d'accord. Le voici. Où est ma récompense ?~
-@52   = ~Vous osez me parler du livre ? Avez-vous la moindre idée des dangers que j'ai affrontés là-bas?~
-@53   = ~Oui, j'étais au courant, pourtant j'avais choisi de ne pas tout vous dire. J'avais un peu peur que vous ne refusiez la mission si je vous révélais tous les détails, je vous l'avoue. Mais ainsi votre récompense est bien méritée, vous ne croyez pas ? S'il vous plaît, donnez-moi le livre maintenant.~
+@51   = ~Bon, d'accord. Le voici. OÃ¹ est ma rÃ©compense ?~
+@52   = ~Vous osez me parler du livre ? Avez-vous la moindre idÃ©e des dangers que j'ai affrontÃ©s lÃ -bas?~
+@53   = ~Oui, j'Ã©tais au courant, pourtant j'avais choisi de ne pas tout vous dire. J'avais un peu peur que vous ne refusiez la mission si je vous rÃ©vÃ©lais tous les dÃ©tails, je vous l'avoue. Mais ainsi votre rÃ©compense est bien mÃ©ritÃ©e, vous ne croyez pas ? S'il vous plaÃ®t, donnez-moi le livre maintenant.~

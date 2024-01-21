@@ -1,22 +1,22 @@
 @0    = ~Potrei avere un momento del tuo tempo? Io sono Tian. Ho bisogno di qualcuno che faccia un pericoloso e difficile compito per me, e credo che solo poche persone siano in grado di eseguirlo.~
 @1    = ~Sembri davvero una persona capace e penso che quello che si dice in giro di voi non sia esagerato.~
 @2    = ~Certamente, intendo aiutarti. Di cosa hai bisogno?~
-@3    = ~Parla pure liberamente. Ti ascolterÚ, anche se non ti prometto nulla.~
+@3    = ~Parla pure liberamente. Ti ascolter√≤, anche se non ti prometto nulla.~
 @4    = ~Con le lusinghe non otterrai nulla.~
 @5    = ~Scusami, devo andare.~
 @6    = ~Sono qui a nome di un mago che risiede fuori Athkatla. Desidera avere un oggetto. Un libro di incantesimi.~
-@7    = ~Ma andiamo dritto al punto. C'Ë una torre abbandonata non molto lontano dalla costa di Amn, chiamata Torre dell'Inganno. Fu costruita da Ustrain, uno stregone molto conosciuto in passato, ma ora dimenticato. Non ti dirÚ nient'altro, in quanto non È importante per completare la tua missione.~
-@8    = ~Tutto quello di cui ho bisogno Ë che tu faccia una piccola ricerca all'interno della torre e prendere un libro. Il libro degli Incantesimi di Ustrain. Ecco perchÈ ho bisogno del tuo aiuto, <CHARNAME>.~
-@9    = ~C'È una notevole ricompensa per te. Cinquemila monete d'oro, e potrai prendere qualsiasi altra cosa che troverai nella torre. Tuttavia, ti devo avvisare. Una volta che accetti il compito, non ci sar‡ modo di ritornare indietro finchÈ non l'avrai terminato...~
-@10   = ~Cinquemila monete d'oro? PerchÈ cosÏ tanto? PerchÈ non cinquanta ad esempio? Non ti credo.~
+@7    = ~Ma andiamo dritto al punto. C'√® una torre abbandonata non molto lontano dalla costa di Amn, chiamata Torre dell'Inganno. Fu costruita da Ustrain, uno stregone molto conosciuto in passato, ma ora dimenticato. Non ti dir√≤ nient'altro, in quanto non √© importante per completare la tua missione.~
+@8    = ~Tutto quello di cui ho bisogno √® che tu faccia una piccola ricerca all'interno della torre e prendere un libro. Il libro degli Incantesimi di Ustrain. Ecco perch√© ho bisogno del tuo aiuto, <CHARNAME>.~
+@9    = ~C'√© una notevole ricompensa per te. Cinquemila monete d'oro, e potrai prendere qualsiasi altra cosa che troverai nella torre. Tuttavia, ti devo avvisare. Una volta che accetti il compito, non ci sar√† modo di ritornare indietro finch√© non l'avrai terminato...~
+@10   = ~Cinquemila monete d'oro? Perch√© cos√¨ tanto? Perch√© non cinquanta ad esempio? Non ti credo.~
 @11   = ~Non so. Ho la sensazione che non mi stai dicendo tutto.~
 @12   = ~Affare fatto. Dove si trova questa torre e quando dovrei partire?~
 @13   = ~Ho sentito abbastanza, ma non sono interessato. Addio.~
-@14   = ~E' un piccolo prezzo per il mio maestro, ma È un prezzo ragionevole per lo sforzo che dovrai fare per assolverlo. Stai tranquillo, ti assicuro che avrai la ricompensa stabilita.~
+@14   = ~E' un piccolo prezzo per il mio maestro, ma √© un prezzo ragionevole per lo sforzo che dovrai fare per assolverlo. Stai tranquillo, ti assicuro che avrai la ricompensa stabilita.~
 @15   = ~Ti ho detto tutto quello che dovevi sapere per completare il tuo compito. Una volta dentro la torre, scoprirai il resto.~
-@16   = ~Bene. Il mio maestro ne sar‡ lieto.~
-@17   = ~Il mio fidato capitano ti aspetta sulla sua barca in una baia isolata non lontano da qui. Andrai l‡ con lui. Ricordati, da ora in poi sarai da solo. Quando avrai finito, ritorna da me. Ora, vai: la Torre attende...~
-@18   = ~Se partirai ora o pi˘ tardi, l'offerta sar‡ sempre valida. Preferirei, tuttavia, che completassi il prima possibile questo lavoro.~
+@16   = ~Bene. Il mio maestro ne sar√† lieto.~
+@17   = ~Il mio fidato capitano ti aspetta sulla sua barca in una baia isolata non lontano da qui. Andrai l√† con lui. Ricordati, da ora in poi sarai da solo. Quando avrai finito, ritorna da me. Ora, vai: la Torre attende...~
+@18   = ~Se partirai ora o pi√π tardi, l'offerta sar√† sempre valida. Preferirei, tuttavia, che completassi il prima possibile questo lavoro.~
 @19   = ~Come desideri. Addio.~
 @20   = ~Ah, sei tornato. Hai cambiato idea?~
 @21   = ~Si, ho cambiato idea. Parlami ancora della tua offerta.~
@@ -25,19 +25,19 @@
 @24   = ~Si, ho cambiato di nuovo idea.~
 @25   = ~No, ancora non sono interessato. Stavo solo dando un'occhiata qui intorno. Addio.~
 @26   = ~Molto bene. Presumo che sei pronto a partire, allora.~
-@27   = ~Questo È un peccato. Addio.~
+@27   = ~Questo √© un peccato. Addio.~
 @28   = ~Allora? Sei disposto a farlo o no? Dimmelo subito.~
 @29   = ~Si, lo sono. Posso partire subito.~
 @30   = ~No, per ora non sono interessato. Dovrai cercarti qualcun altro.~
 @31   = ~Alla fine sei ritornato! Vedo che hai il libro. Ora dammelo: dopo tutto, a te non ti sarebbe utile.~
 @32   = ~Certo, eccolo qui. Prenditelo, e dammi la ricompensa che mi hai promesso.~
-@33   = ~Per ora non mi È utile. Ma in futuro, le mie abilit‡ miglioreranno, e sono sicuro che allora sarÚ capace di rompere i sigilli. Quindi, no, non te lo darÚ.~
-@34   = ~Certamente. Ecco qui, come promesso. Per favore, accetta i miei pi˘ sinceri ringraziamenti. Ti sei dimostrato molto valido, ed anche un alleato fedele. Addio, <CHARNAME>.~
+@33   = ~Per ora non mi √© utile. Ma in futuro, le mie abilit√† miglioreranno, e sono sicuro che allora sar√≤ capace di rompere i sigilli. Quindi, no, non te lo dar√≤.~
+@34   = ~Certamente. Ecco qui, come promesso. Per favore, accetta i miei pi√π sinceri ringraziamenti. Ti sei dimostrato molto valido, ed anche un alleato fedele. Addio, <CHARNAME>.~
 @35   = ~Ti ringrazio. Addio.~
 @36   = ~Non giocare con me, <CHARNAME>. Non sono di buon umore. Dammi subito il libro. Abbiamo un accordo!~
 @37   = ~No. Vorrei tenermelo.~
-@38   = ~Non mi lasci altra scelta. Lo prenderÚ con la forza, se sarÚ costretto. Preparati a morire!~
-@39   = ~Folle! Sei tornato senza il libro? Come È possibile? Mi sarei aspettato che rimanevi lÏ finchÈ non trovavi il libro, idiota, cretino! Non faro pi˘ nessun altro accordo con te!~
+@38   = ~Non mi lasci altra scelta. Lo prender√≤ con la forza, se sar√≤ costretto. Preparati a morire!~
+@39   = ~Folle! Sei tornato senza il libro? Come √© possibile? Mi sarei aspettato che rimanevi l√¨ finch√© non trovavi il libro, idiota, cretino! Non faro pi√π nessun altro accordo con te!~
 
 @40   = ~La Torre dell'Inganno - Viaggiando verso una torre abbandonata
 
@@ -45,7 +45,7 @@ Sono stato assunto da un mago di nome Tian per visitare una torre abbandonata lo
 
 @41   = ~La Torre dell'Inganno - Ritorno ad Athkatla
 
-Sono finalmente riuscito a fuggire da quella torre abbandonata e consegnare il libro a Tian. Era molto soddisfatto, e mi ha ricompensato con cinquemila monete d'oro, come mi aveva promesso. Il mio lavoro Ë finito, ci siamo lasciati in buoni rapporti.~
+Sono finalmente riuscito a fuggire da quella torre abbandonata e consegnare il libro a Tian. Era molto soddisfatto, e mi ha ricompensato con cinquemila monete d'oro, come mi aveva promesso. Il mio lavoro √® finito, ci siamo lasciati in buoni rapporti.~
 
 @42   = ~La Torre dell'Inganno - Viaggiando verso una torre abbandonata 
 
@@ -57,17 +57,17 @@ Il capitano Kergo ci ha portato sull'isola, ma dopo essere sbarcati, siamo stati
 
 @44   = ~La Torre dell'Inganno - La morte di Baloar
 
-Ho sconfitto Baloar, il guardiano della torre. Pensava che lo stessi cercando per vendicarmi di qualcosa successa molti anni fa. Ovviamente, non era vero, ma non mi ha dato l'opportunit‡ di discuterne, cosÏ l'ho ucciso subito.
+Ho sconfitto Baloar, il guardiano della torre. Pensava che lo stessi cercando per vendicarmi di qualcosa successa molti anni fa. Ovviamente, non era vero, ma non mi ha dato l'opportunit√† di discuterne, cos√¨ l'ho ucciso subito.
 Ora mi sono accorto che tutte le porte principali sono bloccate. Devo trovare un'altra via d'uscita.~
 
 @45   = ~La Torre dell'Inganno - Un chierico intrappolato dentro la Torre
 
-Ho incontrato Gulin, un chierico di Helm, che È stato intrappolato qui il mese scorso. Ha parlato di un grande cristallo, il Frammento Astrale, che genera e attiva un'invisibile trappola che consiste in una rete di teletrasporto che riconduce sempre nella Torre, trattenendo quindi tutti al suo interno. Ha anche detto che il Frammento Astrale Ë la ragione per cui tutte le porte principali sono bloccate. Sembra che solo distruggendo il Frammento Astrale troveremo il modo di fuggire.
+Ho incontrato Gulin, un chierico di Helm, che √© stato intrappolato qui il mese scorso. Ha parlato di un grande cristallo, il Frammento Astrale, che genera e attiva un'invisibile trappola che consiste in una rete di teletrasporto che riconduce sempre nella Torre, trattenendo quindi tutti al suo interno. Ha anche detto che il Frammento Astrale √® la ragione per cui tutte le porte principali sono bloccate. Sembra che solo distruggendo il Frammento Astrale troveremo il modo di fuggire.
 Ha parlato anche di due driadi congelate, che si trovano al piano superiore. Forse posso liberarle...~
 
 @46   = ~La Torre dell'Inganno - Liberata Pandaira
 
-BenchÈ avessi liberato le driadi congelate, una di loro, Wistemach, mi ha scambiato per il servitore di Ustrain e mi ha attaccato. Sono stato costretto ad ucciderla. L'altra, Pandaira, mi Ë stata molto grata. Sembra che Wistemach la controllasse, e che lei era in una specie di trappola. Ora lei Ë nuovamente libera. Come riconoscenza, mi ha parlato del libro degli incantesimi di Ustrain e che si trova nella sua camera da letto in uno dei piani alti, per uscire da qui, comunque, dovrÚ andare all'ultimo piano della torre, uccidere il guardiano del Frammento Astrale, e distruggere lo stesso Frammento Astrale. Ha accennato che il Frammento puÚ essere distrutto solo "da un forte fuoco".~
+Bench√© avessi liberato le driadi congelate, una di loro, Wistemach, mi ha scambiato per il servitore di Ustrain e mi ha attaccato. Sono stato costretto ad ucciderla. L'altra, Pandaira, mi √® stata molto grata. Sembra che Wistemach la controllasse, e che lei era in una specie di trappola. Ora lei √® nuovamente libera. Come riconoscenza, mi ha parlato del libro degli incantesimi di Ustrain e che si trova nella sua camera da letto in uno dei piani alti, per uscire da qui, comunque, dovr√≤ andare all'ultimo piano della torre, uccidere il guardiano del Frammento Astrale, e distruggere lo stesso Frammento Astrale. Ha accennato che il Frammento pu√≤ essere distrutto solo "da un forte fuoco".~
 
 @47   = ~La Torre dell'Inganno - La Battaglia finale
 
@@ -75,13 +75,13 @@ Ora ho la Spada, sembra che dopo la morte del Servitore io sia stato teletraspor
 
 @48   = ~La Torre dell'Inganno - Ritorno ad Athkatla
 
-Sono finalmente riuscito a fuggire da quella torre maledetta. Ho preso il libro che dovevo restituire a Tian, ma nel frattempo ho deciso di tenermelo. Tian, tuttavia, non l'ha presa bene, e mi ha attaccato subito. Lui alla fine Ë morto, ed il libro degli incantesimi È rimasto a me ma, ad ogni modo, ho la sensazione di non aver completato il mio lavoro nel migliore dei modi.~
+Sono finalmente riuscito a fuggire da quella torre maledetta. Ho preso il libro che dovevo restituire a Tian, ma nel frattempo ho deciso di tenermelo. Tian, tuttavia, non l'ha presa bene, e mi ha attaccato subito. Lui alla fine √® morto, ed il libro degli incantesimi √© rimasto a me ma, ad ogni modo, ho la sensazione di non aver completato il mio lavoro nel migliore dei modi.~
 
 @49   = ~La Torre dell'Inganno - Ritorno ad Athkatla
 
-Sono finalmente riuscito a fuggire da quella torre maledetta. Tuttavia, Tian non È stato molto contento che non sono riuscito a prendere il libro, e si Ë infuriato quasi subito. Non ho nÈ completato la missione e nÈ ricevuto la ricompensa promessa e, come se non bastasse, sembra che ora mi dovrÚ guardare anche da un mago in collera.~
+Sono finalmente riuscito a fuggire da quella torre maledetta. Tuttavia, Tian non √© stato molto contento che non sono riuscito a prendere il libro, e si √® infuriato quasi subito. Non ho n√© completato la missione e n√© ricevuto la ricompensa promessa e, come se non bastasse, sembra che ora mi dovr√≤ guardare anche da un mago in collera.~
 
 @50   = ~Si, si, va bene.~
-@51   = ~Oh, d'accordo. Ecco. Dov'È la mia ricompensa?~
-@52   = ~Osi parlare del libro? Lo sai quanti pericoli ci sono l‡?~
-@53   = ~Si, ero consapevole di questo, anche se ho preferito non dirti nulla. Lo ammetto, sono stato piuttosto cauto, temevo che avresti rifiutato sentendo anche i dettagli. Ma ora la tua ricompensa Ë pi˘ che meritata, non pensi? Adesso, il libro, per piacere.~
+@51   = ~Oh, d'accordo. Ecco. Dov'√© la mia ricompensa?~
+@52   = ~Osi parlare del libro? Lo sai quanti pericoli ci sono l√†?~
+@53   = ~Si, ero consapevole di questo, anche se ho preferito non dirti nulla. Lo ammetto, sono stato piuttosto cauto, temevo che avresti rifiutato sentendo anche i dettagli. Ma ora la tua ricompensa √® pi√π che meritata, non pensi? Adesso, il libro, per piacere.~

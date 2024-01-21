@@ -1,43 +1,43 @@
-@0    = ~Hej ty tam, zatrzymaj siê. S³ysza³em jak nadchodzisz, s¹dzê wiêc ¿e pozby³eœ siê tych cholernych cieni.~
-@1    = ~Tak, tak, wiedzia³em o nich. Nie by³em w stanie pokonaæ ich sam, wiêc obserwowa³em je ze schodów.~
-@2    = ~Nie mia³em odwagi zejœæ na dó³, za to one z jakiegoœ powodu nie mog³y wejœæ do mnie.~
-@3    = ~Jednak w koñcu ktoœ im pokaza³ ich cholerne miejsce. Oh, wybacz mi moj¹ nieuprzejmoœæ.~
-@4    = ~Nazywam siê Gulin. A ty?~
-@5    = ~Mi³o ciê poznaæ, nazywam siê <CHARNAME>. Co ciê sprowadza do tej wie¿y, jeœli mogê spytaæ...?~
-@6    = ~Moje imiê nie powinno ciê obchodziæ, tak jak mnie nie interesuje twoje imiê. Teraz odchodzê, i radzê nie wchodziæ mi w m¹ drogê.~
-@7    = ~Có¿, jestem kap³anem, kap³anem Fharlenghamna. Utkwi³em tutaj, kiedy próbowa³em u¿yæ czaru odes³ania. By³o to ju¿ z dobry miesi¹c temu. Od tego czasu tkwiê w tym miejscu i wygl¹da na to, ¿e nie bêdê w stanie st¹d uciec, dopóki Astralny Kryszta³ nie przestanie blokowaæ moich czarów teleportuj¹cych. Kiedy tylko je rzucam, pojawiam siê w miejscu sk¹d próbujê uciec. No i rzecz jasna drzwi wejœciowe s¹ zablokowane.~
-@8    = ~U¿ywa³em swoich czarów by stworzyæ sobie trochê jedzenia i wody, ale chyba sam<HESHE> rozumiesz, ¿e nie mogê tak robiæ przez wiecznoœæ.~
-@9    = ~Jak widzisz, mam ze sob¹ ca³y swój ekwipunek. Na szczêœcie utkwi³em tu po tym jak Ustrain odszed³. Gdyby on tu by³, i to ¿ywy, w¹tpiê ¿ebym jeszcze mia³ ten ca³y sprzêt.~
-@10   = ~Myœlê, ¿e to pomieszczenie to by³y komnaty wiêŸniów. ¯yli tu tak d³ugo, dopóki Ustrain nie potrzebowa³ ich wykorzystaæ dla swoich celów. Jeœli byli tu jeszcze jacyœ inni wiêŸniowie, to albo dawno odeszli, umarli, lub s¹ uwiêzieni gdzieœ indziej.~
-@11   = ~Wspomnia³eœ coœ o jakimœ "Astralnym Krysztale". Tian nie wspomnia³ mi o niczym takim. Co to jest, jakaœ maszyna?~
-@12   = ~Powiadasz, ¿e jesteœ tu ju¿ ca³y miesi¹c... Penetrowa³eœ mo¿e wy¿sze piêtra?~
-@13   = ~¯egnaj.~
-@14   = ~Maszyna? Nie.. Co prawda nie widzia³em go na w³asne oczy, poniewa¿ nie by³em na ostatnim piêtrze, gdzie on siê znajduje. Jednak wiele s³ysza³em na temat Astralnego Kryszta³u. S¹ to od³amane kawa³ki kamieni lub kryszta³ów. Ogromne kryszta³y wziête z samego Planu Astralnego. Roztaczaj¹ one wokó³ sieæ, która nie pozwala siê z niej wydostaæ, dopóki kryszta³y nie zostan¹ zniszczone lub odes³ane do Planu Astralnego. Jeœli zostan¹ przeniesione, bêd¹ tworzyæ sieæ w swoim nowym po³o¿eniu.~
-@15   = ~Z tego co wiem Ustrain ukrad³ jeden z kryszta³ów z Planu Astralnego. Nie jestem sobie nawet w stanie wyobraziæ jak on tego dokona³.~
-@16   = ~Jeœli masz zamiar go zniszczyæ, to pamiêtaj, ¿e mo¿e byæ dobrze strze¿ony. W¹tpiê, by Ustrain pozostawi³ go bez zabezpieczenia.~
-@17   = ~To mo¿e byæ pomocne. A co z wy¿szymi piêtrami? By³eœ tam na górze?~
-@18   = ~Dobrze wiêc. Zobaczê, co da siê zrobiæ. Mo¿e uda mi siê zniszczyæ ten Astralny Kryszta³. Jeœli mi siê uda, bêdziesz móg³ uciec z tego wiêzienia. Byæ mo¿e jeszcze kiedyœ siê spotkamy.~
-@19   = ~Tak, ale tylko na poziomie tu¿ nad nami. Nie mia³ potem odwagi przejœæ przez portal. No w³aœnie, schodów ju¿ nie ma, wiêc jedyne przejœcie prowadzi przez ten portal.~
-@20   = ~Poza tym tam na górze s¹ dwie, zamro¿one przez Astralny Kryszta³, kobiety. Wygl¹daj¹ na jakieœ driady, lub coœ w tym stylu. S¹ bardzo kruche, jak ka¿dy sopel lodu. Z pewnoœci¹ zabijesz je za pomoc¹ zwyk³ej broni, jednak jak ju¿ sam sprawdzi³em nie ima siê ich wiêkszoœæ czarów. Byæ mo¿e bêdziesz w stanie je uwolniæ, zreszt¹ sam nie wiem, nie próbowa³em czegoœ takiego.~
-@21   = ~Rozumiem. Wspomnia³eœ coœ o jakimœ "Astralnym Krysztale". Tian, mag który mnie tu przys³a³, nie wspomnia³ mi o niczym takim. Co to jest, jakaœ maszyna?~
-@22   = ~Dobrze, us³ysza³em ju¿ wystarczaj¹co du¿o. Zobaczê co da siê zrobiæ. Mo¿e uda mi siê zniszczyæ ten Astralny Kryszta³. Jak mi siê uda, pewnie bêdziesz móg³ st¹d uciec. Byæ mo¿e kiedyœ siê jeszcze spotkamy, byæ mo¿e w Athkatli... kto wie.. Póki co, trzymaj siê.~ ~Dobrze, us³ysza³am ju¿ wystarczaj¹co du¿o. Zobaczê co da siê zrobiæ. Mo¿e uda mi siê zniszczyæ ten Astralny Kryszta³. Jak mi siê uda, pewnie bêdziesz móg³ st¹d uciec. Byæ mo¿e kiedyœ siê jeszcze spotkamy, byæ mo¿e w Athkatli... kto wie.. Póki co, trzymaj siê.~
-@23   = ~Dziêkujê. Mam nadziejê, ¿e ci siê uda, gdy¿ nie chcia³bym tu spêdziæ ca³ego mojego ¿ycia. Niech bogowie maj¹ ciê w swej opiece.~
-@24   = ~Co? Zmieni³eœ zdanie??~ ~Co? Zmieni³aœ zdanie??~
-@25   = ~Tak. Teraz jak wiem ju¿ kim jesteœ, powiedz mi co tutaj robisz??~
-@26   = ~Nic, tylko siê rozgl¹dam. Do zobaczenia.~
-@27   = ~Niech Helm ma ciê w opiece. Bêdê siê modli³, by wszystko dobrze posz³o.~
-@28   = ~Wie¿a Oszustwa - Uwiêziony kap³an
+@0    = ~Hej ty tam, zatrzymaj siÄ™. SÅ‚yszaÅ‚em jak nadchodzisz, sÄ…dzÄ™ wiÄ™c Å¼e pozbyÅ‚eÅ› siÄ™ tych cholernych cieni.~
+@1    = ~Tak, tak, wiedziaÅ‚em o nich. Nie byÅ‚em w stanie pokonaÄ‡ ich sam, wiÄ™c obserwowaÅ‚em je ze schodÃ³w.~
+@2    = ~Nie miaÅ‚em odwagi zejÅ›Ä‡ na dÃ³Å‚, za to one z jakiegoÅ› powodu nie mogÅ‚y wejÅ›Ä‡ do mnie.~
+@3    = ~Jednak w koÅ„cu ktoÅ› im pokazaÅ‚ ich cholerne miejsce. Oh, wybacz mi mojÄ… nieuprzejmoÅ›Ä‡.~
+@4    = ~Nazywam siÄ™ Gulin. A ty?~
+@5    = ~MiÅ‚o ciÄ™ poznaÄ‡, nazywam siÄ™ <CHARNAME>. Co ciÄ™ sprowadza do tej wieÅ¼y, jeÅ›li mogÄ™ spytaÄ‡...?~
+@6    = ~Moje imiÄ™ nie powinno ciÄ™ obchodziÄ‡, tak jak mnie nie interesuje twoje imiÄ™. Teraz odchodzÄ™, i radzÄ™ nie wchodziÄ‡ mi w mÄ… drogÄ™.~
+@7    = ~CÃ³Å¼, jestem kapÅ‚anem, kapÅ‚anem Fharlenghamna. UtkwiÅ‚em tutaj, kiedy prÃ³bowaÅ‚em uÅ¼yÄ‡ czaru odesÅ‚ania. ByÅ‚o to juÅ¼ z dobry miesiÄ…c temu. Od tego czasu tkwiÄ™ w tym miejscu i wyglÄ…da na to, Å¼e nie bÄ™dÄ™ w stanie stÄ…d uciec, dopÃ³ki Astralny KrysztaÅ‚ nie przestanie blokowaÄ‡ moich czarÃ³w teleportujÄ…cych. Kiedy tylko je rzucam, pojawiam siÄ™ w miejscu skÄ…d prÃ³bujÄ™ uciec. No i rzecz jasna drzwi wejÅ›ciowe sÄ… zablokowane.~
+@8    = ~UÅ¼ywaÅ‚em swoich czarÃ³w by stworzyÄ‡ sobie trochÄ™ jedzenia i wody, ale chyba sam<HESHE> rozumiesz, Å¼e nie mogÄ™ tak robiÄ‡ przez wiecznoÅ›Ä‡.~
+@9    = ~Jak widzisz, mam ze sobÄ… caÅ‚y swÃ³j ekwipunek. Na szczÄ™Å›cie utkwiÅ‚em tu po tym jak Ustrain odszedÅ‚. Gdyby on tu byÅ‚, i to Å¼ywy, wÄ…tpiÄ™ Å¼ebym jeszcze miaÅ‚ ten caÅ‚y sprzÄ™t.~
+@10   = ~MyÅ›lÄ™, Å¼e to pomieszczenie to byÅ‚y komnaty wiÄ™ÅºniÃ³w. Å»yli tu tak dÅ‚ugo, dopÃ³ki Ustrain nie potrzebowaÅ‚ ich wykorzystaÄ‡ dla swoich celÃ³w. JeÅ›li byli tu jeszcze jacyÅ› inni wiÄ™Åºniowie, to albo dawno odeszli, umarli, lub sÄ… uwiÄ™zieni gdzieÅ› indziej.~
+@11   = ~WspomniaÅ‚eÅ› coÅ› o jakimÅ› "Astralnym Krysztale". Tian nie wspomniaÅ‚ mi o niczym takim. Co to jest, jakaÅ› maszyna?~
+@12   = ~Powiadasz, Å¼e jesteÅ› tu juÅ¼ caÅ‚y miesiÄ…c... PenetrowaÅ‚eÅ› moÅ¼e wyÅ¼sze piÄ™tra?~
+@13   = ~Å»egnaj.~
+@14   = ~Maszyna? Nie.. Co prawda nie widziaÅ‚em go na wÅ‚asne oczy, poniewaÅ¼ nie byÅ‚em na ostatnim piÄ™trze, gdzie on siÄ™ znajduje. Jednak wiele sÅ‚yszaÅ‚em na temat Astralnego KrysztaÅ‚u. SÄ… to odÅ‚amane kawaÅ‚ki kamieni lub krysztaÅ‚Ã³w. Ogromne krysztaÅ‚y wziÄ™te z samego Planu Astralnego. RoztaczajÄ… one wokÃ³Å‚ sieÄ‡, ktÃ³ra nie pozwala siÄ™ z niej wydostaÄ‡, dopÃ³ki krysztaÅ‚y nie zostanÄ… zniszczone lub odesÅ‚ane do Planu Astralnego. JeÅ›li zostanÄ… przeniesione, bÄ™dÄ… tworzyÄ‡ sieÄ‡ w swoim nowym poÅ‚oÅ¼eniu.~
+@15   = ~Z tego co wiem Ustrain ukradÅ‚ jeden z krysztaÅ‚Ã³w z Planu Astralnego. Nie jestem sobie nawet w stanie wyobraziÄ‡ jak on tego dokonaÅ‚.~
+@16   = ~JeÅ›li masz zamiar go zniszczyÄ‡, to pamiÄ™taj, Å¼e moÅ¼e byÄ‡ dobrze strzeÅ¼ony. WÄ…tpiÄ™, by Ustrain pozostawiÅ‚ go bez zabezpieczenia.~
+@17   = ~To moÅ¼e byÄ‡ pomocne. A co z wyÅ¼szymi piÄ™trami? ByÅ‚eÅ› tam na gÃ³rze?~
+@18   = ~Dobrze wiÄ™c. ZobaczÄ™, co da siÄ™ zrobiÄ‡. MoÅ¼e uda mi siÄ™ zniszczyÄ‡ ten Astralny KrysztaÅ‚. JeÅ›li mi siÄ™ uda, bÄ™dziesz mÃ³gÅ‚ uciec z tego wiÄ™zienia. ByÄ‡ moÅ¼e jeszcze kiedyÅ› siÄ™ spotkamy.~
+@19   = ~Tak, ale tylko na poziomie tuÅ¼ nad nami. Nie miaÅ‚ potem odwagi przejÅ›Ä‡ przez portal. No wÅ‚aÅ›nie, schodÃ³w juÅ¼ nie ma, wiÄ™c jedyne przejÅ›cie prowadzi przez ten portal.~
+@20   = ~Poza tym tam na gÃ³rze sÄ… dwie, zamroÅ¼one przez Astralny KrysztaÅ‚, kobiety. WyglÄ…dajÄ… na jakieÅ› driady, lub coÅ› w tym stylu. SÄ… bardzo kruche, jak kaÅ¼dy sopel lodu. Z pewnoÅ›ciÄ… zabijesz je za pomocÄ… zwykÅ‚ej broni, jednak jak juÅ¼ sam sprawdziÅ‚em nie ima siÄ™ ich wiÄ™kszoÅ›Ä‡ czarÃ³w. ByÄ‡ moÅ¼e bÄ™dziesz w stanie je uwolniÄ‡, zresztÄ… sam nie wiem, nie prÃ³bowaÅ‚em czegoÅ› takiego.~
+@21   = ~Rozumiem. WspomniaÅ‚eÅ› coÅ› o jakimÅ› "Astralnym Krysztale". Tian, mag ktÃ³ry mnie tu przysÅ‚aÅ‚, nie wspomniaÅ‚ mi o niczym takim. Co to jest, jakaÅ› maszyna?~
+@22   = ~Dobrze, usÅ‚yszaÅ‚em juÅ¼ wystarczajÄ…co duÅ¼o. ZobaczÄ™ co da siÄ™ zrobiÄ‡. MoÅ¼e uda mi siÄ™ zniszczyÄ‡ ten Astralny KrysztaÅ‚. Jak mi siÄ™ uda, pewnie bÄ™dziesz mÃ³gÅ‚ stÄ…d uciec. ByÄ‡ moÅ¼e kiedyÅ› siÄ™ jeszcze spotkamy, byÄ‡ moÅ¼e w Athkatli... kto wie.. PÃ³ki co, trzymaj siÄ™.~ ~Dobrze, usÅ‚yszaÅ‚am juÅ¼ wystarczajÄ…co duÅ¼o. ZobaczÄ™ co da siÄ™ zrobiÄ‡. MoÅ¼e uda mi siÄ™ zniszczyÄ‡ ten Astralny KrysztaÅ‚. Jak mi siÄ™ uda, pewnie bÄ™dziesz mÃ³gÅ‚ stÄ…d uciec. ByÄ‡ moÅ¼e kiedyÅ› siÄ™ jeszcze spotkamy, byÄ‡ moÅ¼e w Athkatli... kto wie.. PÃ³ki co, trzymaj siÄ™.~
+@23   = ~DziÄ™kujÄ™. Mam nadziejÄ™, Å¼e ci siÄ™ uda, gdyÅ¼ nie chciaÅ‚bym tu spÄ™dziÄ‡ caÅ‚ego mojego Å¼ycia. Niech bogowie majÄ… ciÄ™ w swej opiece.~
+@24   = ~Co? ZmieniÅ‚eÅ› zdanie??~ ~Co? ZmieniÅ‚aÅ› zdanie??~
+@25   = ~Tak. Teraz jak wiem juÅ¼ kim jesteÅ›, powiedz mi co tutaj robisz??~
+@26   = ~Nic, tylko siÄ™ rozglÄ…dam. Do zobaczenia.~
+@27   = ~Niech Helm ma ciÄ™ w opiece. BÄ™dÄ™ siÄ™ modliÅ‚, by wszystko dobrze poszÅ‚o.~
+@28   = ~WieÅ¼a Oszustwa - UwiÄ™ziony kapÅ‚an
 
-Spotka³em Gulina, uwiêzionego w tej wie¿y od dobrego miesi¹ca kap³an Fharlenghamna. Opowiedzia³ mi o Astralnym Krysztale, wielkim kamieniu wytwarzaj¹cym wokó³ siebie sieæ niepozwalaj¹c¹ nikomu na opuszczenie jej. Powiedzia³ on równie¿, ¿e to Astralny Kryszta³ zamkn¹³ wszystkie drzwi wyjœciowe. Dopóki Kryszta³ nie zostanie zniszczony, ucieczka z wie¿y jest niemo¿liwa.
-Gulin wspomnia³ równie¿ o umiejscowionych piêtro wy¿ej zamro¿onych driadach. Byæ mo¿e bêdê móg³ je uwolniæ, choæ nie wiem jeszcze w jaki sposób. Rzucê na to okiem i zobaczê co da siê zrobiæ...~ ~Wie¿a Oszustwa - Uwiêziony kap³an
+SpotkaÅ‚em Gulina, uwiÄ™zionego w tej wieÅ¼y od dobrego miesiÄ…ca kapÅ‚an Fharlenghamna. OpowiedziaÅ‚ mi o Astralnym Krysztale, wielkim kamieniu wytwarzajÄ…cym wokÃ³Å‚ siebie sieÄ‡ niepozwalajÄ…cÄ… nikomu na opuszczenie jej. PowiedziaÅ‚ on rÃ³wnieÅ¼, Å¼e to Astralny KrysztaÅ‚ zamknÄ…Å‚ wszystkie drzwi wyjÅ›ciowe. DopÃ³ki KrysztaÅ‚ nie zostanie zniszczony, ucieczka z wieÅ¼y jest niemoÅ¼liwa.
+Gulin wspomniaÅ‚ rÃ³wnieÅ¼ o umiejscowionych piÄ™tro wyÅ¼ej zamroÅ¼onych driadach. ByÄ‡ moÅ¼e bÄ™dÄ™ mÃ³gÅ‚ je uwolniÄ‡, choÄ‡ nie wiem jeszcze w jaki sposÃ³b. RzucÄ™ na to okiem i zobaczÄ™ co da siÄ™ zrobiÄ‡...~ ~WieÅ¼a Oszustwa - UwiÄ™ziony kapÅ‚an
 
-Spotka³am Gulina, uwiêzionego w tej wie¿y od dobrego miesi¹ca kap³an Fharlenghamna. Opowiedzia³ mi o Astralnym Krysztale, wielkim kamieniu wytwarzaj¹cym wokó³ siebie sieæ niepozwalaj¹c¹ nikomu na opuszczenie jej. Powiedzia³ on równie¿, ¿e to Astralny Kryszta³ zamkn¹³ wszystkie drzwi wyjœciowe. Dopóki Kryszta³ nie zostanie zniszczony, ucieczka z wie¿y jest niemo¿liwa.
-Gulin wspomnia³ równie¿ o umiejscowionych piêtro wy¿ej zamro¿onych driadach. Byæ mo¿e bêdê mog³a je uwolniæ, choæ nie wiem jeszcze w jaki sposób. Rzucê na to okiem i zobaczê co da siê zrobiæ...~
-@29   = ~Móg³byœ mi opowiedzieæ wiêcej o tej wie¿y?~
-@30   = ~O wie¿y? Có¿, odk¹d jestem tu uwiêziony dowiedzia³em siê o niej co nieco. Byæ mo¿e ta wiedza mog³aby okazaæ siê dla ciebie u¿yteczna.~
-@31   = ~Kiedy z³y czarodziej githyanki, Ustrain, wybudowa³ tê wie¿ê lata temu, nie zdawa³ sobie sprawy, ¿e marynarze bêd¹ mylnie brali magiczne œwiat³o Astralnego Kryszta³u znajduj¹cego siê na jej szczycie, za œwiat³o latarni morskiej. Wielu marynarzy zakoñczy³o w ten sposób swój ¿ywot.~
-@32   = ~Ale Ustrain nie dba³ o to. Œmia³ siê z ich losu i kontynuowa³ sw¹ niegodziw¹ pracê. U¿ywa³ mocy Astralnego Kryszta³u aby porywaæ istoty i podró¿nych podczas teleportowania... w ten sposób tu trafi³em.~
-@33   = ~Pewnego dnia, jednak¿e, jego pobratymcy zaci¹gnêli go z powrotem  na jego ojczysty Plan Astralny. Od tej pory nikt go nie widzia³.~
-@34   = ~Lecz jego wie¿a osta³a siê. Nie doœæ, ¿e wci¹¿ zmyla marynarzy w mgliste noce, to magia Astralnego Kryszta³u dalej porywa niewinnych, kontynuuj¹c tym samym nikczemny plan Ustraina.~
-@35   = ~Pierwotnie, Ustrain zniewala³ lub okrada³ swe ofiary, dostarczone mu dziêki mocy Kryszta³u. Ale odk¹d githyanki odszed³, wszyscy zostaj¹ oni uwiêzieni w tej z³ej wie¿y dopóki nie znajd¹ sposobu aby z niej uciec, albo zgin¹. B¹dŸ ostro¿ny, albo doœwiadczysz ich gniewu.~ ~Pierwotnie, Ustrain zniewala³ lub okrada³ swe ofiary, dostarczone mu dziêki mocy Kryszta³u. Ale odk¹d githyanki odszed³, wszyscy zostaj¹ oni uwiêzieni w tej z³ej wie¿y dopóki nie znajd¹ sposobu aby z niej uciec, albo zgin¹. B¹dŸ ostro¿na, albo doœwiadczysz ich gniewu.~
+SpotkaÅ‚am Gulina, uwiÄ™zionego w tej wieÅ¼y od dobrego miesiÄ…ca kapÅ‚an Fharlenghamna. OpowiedziaÅ‚ mi o Astralnym Krysztale, wielkim kamieniu wytwarzajÄ…cym wokÃ³Å‚ siebie sieÄ‡ niepozwalajÄ…cÄ… nikomu na opuszczenie jej. PowiedziaÅ‚ on rÃ³wnieÅ¼, Å¼e to Astralny KrysztaÅ‚ zamknÄ…Å‚ wszystkie drzwi wyjÅ›ciowe. DopÃ³ki KrysztaÅ‚ nie zostanie zniszczony, ucieczka z wieÅ¼y jest niemoÅ¼liwa.
+Gulin wspomniaÅ‚ rÃ³wnieÅ¼ o umiejscowionych piÄ™tro wyÅ¼ej zamroÅ¼onych driadach. ByÄ‡ moÅ¼e bÄ™dÄ™ mogÅ‚a je uwolniÄ‡, choÄ‡ nie wiem jeszcze w jaki sposÃ³b. RzucÄ™ na to okiem i zobaczÄ™ co da siÄ™ zrobiÄ‡...~
+@29   = ~MÃ³gÅ‚byÅ› mi opowiedzieÄ‡ wiÄ™cej o tej wieÅ¼y?~
+@30   = ~O wieÅ¼y? CÃ³Å¼, odkÄ…d jestem tu uwiÄ™ziony dowiedziaÅ‚em siÄ™ o niej co nieco. ByÄ‡ moÅ¼e ta wiedza mogÅ‚aby okazaÄ‡ siÄ™ dla ciebie uÅ¼yteczna.~
+@31   = ~Kiedy zÅ‚y czarodziej githyanki, Ustrain, wybudowaÅ‚ tÄ™ wieÅ¼Ä™ lata temu, nie zdawaÅ‚ sobie sprawy, Å¼e marynarze bÄ™dÄ… mylnie brali magiczne Å›wiatÅ‚o Astralnego KrysztaÅ‚u znajdujÄ…cego siÄ™ na jej szczycie, za Å›wiatÅ‚o latarni morskiej. Wielu marynarzy zakoÅ„czyÅ‚o w ten sposÃ³b swÃ³j Å¼ywot.~
+@32   = ~Ale Ustrain nie dbaÅ‚ o to. ÅšmiaÅ‚ siÄ™ z ich losu i kontynuowaÅ‚ swÄ… niegodziwÄ… pracÄ™. UÅ¼ywaÅ‚ mocy Astralnego KrysztaÅ‚u aby porywaÄ‡ istoty i podrÃ³Å¼nych podczas teleportowania... w ten sposÃ³b tu trafiÅ‚em.~
+@33   = ~Pewnego dnia, jednakÅ¼e, jego pobratymcy zaciÄ…gnÄ™li go z powrotem  na jego ojczysty Plan Astralny. Od tej pory nikt go nie widziaÅ‚.~
+@34   = ~Lecz jego wieÅ¼a ostaÅ‚a siÄ™. Nie doÅ›Ä‡, Å¼e wciÄ…Å¼ zmyla marynarzy w mgliste noce, to magia Astralnego KrysztaÅ‚u dalej porywa niewinnych, kontynuujÄ…c tym samym nikczemny plan Ustraina.~
+@35   = ~Pierwotnie, Ustrain zniewalaÅ‚ lub okradaÅ‚ swe ofiary, dostarczone mu dziÄ™ki mocy KrysztaÅ‚u. Ale odkÄ…d githyanki odszedÅ‚, wszyscy zostajÄ… oni uwiÄ™zieni w tej zÅ‚ej wieÅ¼y dopÃ³ki nie znajdÄ… sposobu aby z niej uciec, albo zginÄ…. BÄ…dÅº ostroÅ¼ny, albo doÅ›wiadczysz ich gniewu.~ ~Pierwotnie, Ustrain zniewalaÅ‚ lub okradaÅ‚ swe ofiary, dostarczone mu dziÄ™ki mocy KrysztaÅ‚u. Ale odkÄ…d githyanki odszedÅ‚, wszyscy zostajÄ… oni uwiÄ™zieni w tej zÅ‚ej wieÅ¼y dopÃ³ki nie znajdÄ… sposobu aby z niej uciec, albo zginÄ…. BÄ…dÅº ostroÅ¼na, albo doÅ›wiadczysz ich gniewu.~
 

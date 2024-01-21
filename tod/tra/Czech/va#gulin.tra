@@ -1,40 +1,40 @@
-@0    = ~Vy tam, stùjte. Slyšel jsem vás pøicházet, take pøedpokládám, e ro vy jste zabili ty otravné stíny.~
-@1    = ~Ano, ano, vím o nich. Nebyl jsem schopen je sám porazit, jen jsem se na nì díval ze schodù.~
-@2    = ~Nemìl jsem odvahu jít tam dolù a oni, nevím proè, nemohli jít ke mnì nahoru.~
-@3    = ~Ale jak vidím, nìkdo byl koneènì schopen vyprovodit je na cestu k vìènému odpoèinku. Oh, málem jsem zapomìl na obyèejnou zdvoøilost...~
-@4    = ~Gulin jméno mé. A vaše?~
-@5    = ~Zdravím, jmenuji se <CHARNAME>. Co dìláte sám v téhle vìi? Pokud to mohu vìdìt samozøejmì...~
-@6    = ~Mé jméno pro tebe není dùleité a tvé nepotøebuji. A nyní pokud *mohu*, vydám se svou cestou. Sbohem.~
-@7    = ~Víte, jsem klerik, knìz Helma. Byl jsem zde uvìznìn, kdy jsem se pokoušel pouít Slovo vzpomínky. To bylo pøed mìsícem. Od té doby tu tvrdnu. Nemohu uniknout dokud je Støep Hvìzdy aktivní jako i nemohu pouívat teleportaèní kouzla. Kdy je pouiji, teleportují mì vdy zpìt sem. A samozøejmì hlavní vchod je té zamèenı. Tak funguje Støep Hvìzdy.~
-@8    = ~Pouívám kouzla, abych si vyvolal jídlo a pití, ale urèitì víte, e to nemohu dìlat vìènì.~
-@9    = ~Jak vidíš mám všechno své vybavení s sebou, jeliko jsem zde byl uvìznìn dlouho poté, co Ustrain odešel. Kdyby byl zde a ivı, pochybuji, e bych ještì nìco mìl...~
-@10   = ~Myslím, e tahle místnost mohla bıt pokojem vìzòù. Myslím, e sem byli umístìni, dokud Ustrain nebyl pøipraven pouít je pro své zámìry. Pokud zde byli další vìzni, tak jsou buï pryè, mrtví nebo uvìznìní nìkde jinde.~
-@11   = ~Jistì. Zmínil jsi "Støep Hvìzdy". To je nìjakı druh stroje? Tian nás pøed nìèím takovım nevaroval.~
-@12   = ~Øekls, e jsi tady byl celı mìsíc. Podíval ses do vyšších podlaí?~
+@0    = ~Vy tam, stÅ¯jte. SlyÅ¡el jsem vÃ¡s pÅ™ichÃ¡zet, takÅ¾e pÅ™edpoklÃ¡dÃ¡m, Å¾e ro vy jste zabili ty otravnÃ© stÃ­ny.~
+@1    = ~Ano, ano, vÃ­m o nich. Nebyl jsem schopen je sÃ¡m porazit, jen jsem se na nÄ› dÃ­val ze schodÅ¯.~
+@2    = ~NemÄ›l jsem odvahu jÃ­t tam dolÅ¯ a oni, nevÃ­m proÄ, nemohli jÃ­t ke mnÄ› nahoru.~
+@3    = ~Ale jak vidÃ­m, nÄ›kdo byl koneÄnÄ› schopen vyprovodit je na cestu k vÄ›ÄnÃ©mu odpoÄinku. Oh, mÃ¡lem jsem zapomÄ›l na obyÄejnou zdvoÅ™ilost...~
+@4    = ~Gulin jmÃ©no mÃ©. A vaÅ¡e?~
+@5    = ~ZdravÃ­m, jmenuji se <CHARNAME>. Co dÄ›lÃ¡te sÃ¡m v tÃ©hle vÄ›Å¾i? Pokud to mohu vÄ›dÄ›t samozÅ™ejmÄ›...~
+@6    = ~MÃ© jmÃ©no pro tebe nenÃ­ dÅ¯leÅ¾itÃ© a tvÃ© nepotÅ™ebuji. A nynÃ­ pokud *mohu*, vydÃ¡m se svou cestou. Sbohem.~
+@7    = ~VÃ­te, jsem klerik, knÄ›z Helma. Byl jsem zde uvÄ›znÄ›n, kdyÅ¾ jsem se pokouÅ¡el pouÅ¾Ã­t Slovo vzpomÃ­nky. To bylo pÅ™ed mÄ›sÃ­cem. Od tÃ© doby tu tvrdnu. Nemohu uniknout dokud je StÅ™ep HvÄ›zdy aktivnÃ­ jakoÅ¾ i nemohu pouÅ¾Ã­vat teleportaÄnÃ­ kouzla. KdyÅ¾ je pouÅ¾iji, teleportujÃ­ mÄ› vÅ¾dy zpÄ›t sem. A samozÅ™ejmÄ› hlavnÃ­ vchod je tÃ©Å¾ zamÄenÃ½. Tak funguje StÅ™ep HvÄ›zdy.~
+@8    = ~PouÅ¾Ã­vÃ¡m kouzla, abych si vyvolal jÃ­dlo a pitÃ­, ale urÄitÄ› vÃ­te, Å¾e to nemohu dÄ›lat vÄ›ÄnÄ›.~
+@9    = ~Jak vidÃ­Å¡ mÃ¡m vÅ¡echno svÃ© vybavenÃ­ s sebou, jelikoÅ¾ jsem zde byl uvÄ›znÄ›n dlouho potÃ©, co Ustrain odeÅ¡el. Kdyby byl zde a Å¾ivÃ½, pochybuji, Å¾e bych jeÅ¡tÄ› nÄ›co mÄ›l...~
+@10   = ~MyslÃ­m, Å¾e tahle mÃ­stnost mohla bÃ½t pokojem vÄ›zÅˆÅ¯. MyslÃ­m, Å¾e sem byli umÃ­stÄ›ni, dokud Ustrain nebyl pÅ™ipraven pouÅ¾Ã­t je pro svÃ© zÃ¡mÄ›ry. Pokud zde byli dalÅ¡Ã­ vÄ›zni, tak jsou buÄ pryÄ, mrtvÃ­ nebo uvÄ›znÄ›nÃ­ nÄ›kde jinde.~
+@11   = ~JistÄ›. ZmÃ­nil jsi "StÅ™ep HvÄ›zdy". To je nÄ›jakÃ½ druh stroje? Tian nÃ¡s pÅ™ed nÄ›ÄÃ­m takovÃ½m nevaroval.~
+@12   = ~Å˜ekls, Å¾e jsi tady byl celÃ½ mÄ›sÃ­c. PodÃ­val ses do vyÅ¡Å¡Ã­ch podlaÅ¾Ã­?~
 @13   = ~Sbohem.~
-@14   = ~Stroj? Ne. Nevidìl jsem to na vlastní oèi, jeliko jsem nebyl v nejvyšším podlaí, kde se nachází. Ale slyšel jsem hodnì o kamenech a krystalech Hvìzdného Støepu. Tyhle velké krystaly byly kdysi vzaty z Astrální sféry. Tvoøí a napájí kolem sebe teleportaèní pavuèinu, dokud nejsou znièeny nebo poslány zpìt do Astrální sféry. Pokud jsou pøesunuty, obnoví teleportaèní sí poblí svého nového umístìní.~
-@15   = ~Pokud vím, tak Ustrain ukradl jeden z tìhle krystalù z Astrální sféry. Jen tìko si dokáu pøedstavit jak...~
-@16   = ~Pokud jej zamıšlíš znièit, buï opatrnı, jeliko mùe bıt støeen. Opravdu pochybuji, e by jej Ustrain zanechal nechránìnı.~
-@17   = ~To by se mohlo hodit. A co vyšší patra? Byl jsi v nich?~
-@18   = ~V poøádku, slyšel jsem dost. Uvidím, co se dá dìlat. Moná mùu ten Støep Hvìzdy znièit. Pokud uspìji, budeš koneènì moci uniknout z tohoto vìzení. Moná se opìt nìkdy setkáme...~
-@19   = ~Ano, ale byl jsem jen v patøe pøímo nad tímto. Nemìl jsem odvahu jít skrze portál. Ano, schody jsou pryè a místo nich stojí portál.~
-@20   = ~A tam nahoøe jsou té dvì eny, obì zmraené Støepem Hvìzdy. Vypadají jako dryády... èi co. Jako vše zmrzlé jsou velmi køehké. Mùeš je zabít jakoukoliv zbraní, ale jak jsem zjistil, kouzelnı led je èiní imunními vùèi nìkterım kouzlùm. Snad je mùeš i osvobodit, ale to jsem nezkoušel, èili nevím jak.~
-@21   = ~Jistì. Zmínil jsi "Støep Hvìzdy". To je nìjakı druh stroje? Tian nám o ádném takovém zaøízení neøíkal.~
-@22   = ~V poøádku, slyšel jsem dost. Uvidím, co se dá dìlat. Moná mùu ten Støep Hvìzdy znièit. Pokud uspìji, budeš koneènì moci uniknout z tohoto vìzení. Moná se opìt nìkdy setkáme, nìkde v Athkatle? Kdo ví... Do té doby se opatruj.~
-@23   = ~Díky. Doufám, e uspìješ, nechci zde zùstat vìènì. Nech tì bohové ochraòují.~
-@24   = ~Copak? Zmìnil jsi názor?~
-@25   = ~Ano. U tì znám, tak mi øekni, co zde dìláš?~
+@14   = ~Stroj? Ne. NevidÄ›l jsem to na vlastnÃ­ oÄi, jelikoÅ¾ jsem nebyl v nejvyÅ¡Å¡Ã­m podlaÅ¾Ã­, kde se nachÃ¡zÃ­. Ale slyÅ¡el jsem hodnÄ› o kamenech a krystalech HvÄ›zdnÃ©ho StÅ™epu. Tyhle velkÃ© krystaly byly kdysi vzaty z AstrÃ¡lnÃ­ sfÃ©ry. TvoÅ™Ã­ a napÃ¡jÃ­ kolem sebe teleportaÄnÃ­ pavuÄinu, dokud nejsou zniÄeny nebo poslÃ¡ny zpÄ›t do AstrÃ¡lnÃ­ sfÃ©ry. Pokud jsou pÅ™esunuty, obnovÃ­ teleportaÄnÃ­ sÃ­Å¥ poblÃ­Å¾ svÃ©ho novÃ©ho umÃ­stÄ›nÃ­.~
+@15   = ~Pokud vÃ­m, tak Ustrain ukradl jeden z tÄ›hle krystalÅ¯ z AstrÃ¡lnÃ­ sfÃ©ry. Jen tÄ›Å¾ko si dokÃ¡Å¾u pÅ™edstavit jak...~
+@16   = ~Pokud jej zamÃ½Å¡lÃ­Å¡ zniÄit, buÄ opatrnÃ½, jelikoÅ¾ mÅ¯Å¾e bÃ½t stÅ™eÅ¾en. Opravdu pochybuji, Å¾e by jej Ustrain zanechal nechrÃ¡nÄ›nÃ½.~
+@17   = ~To by se mohlo hodit. A co vyÅ¡Å¡Ã­ patra? Byl jsi v nich?~
+@18   = ~V poÅ™Ã¡dku, slyÅ¡el jsem dost. UvidÃ­m, co se dÃ¡ dÄ›lat. MoÅ¾nÃ¡ mÅ¯Å¾u ten StÅ™ep HvÄ›zdy zniÄit. Pokud uspÄ›ji, budeÅ¡ koneÄnÄ› moci uniknout z tohoto vÄ›zenÃ­. MoÅ¾nÃ¡ se opÄ›t nÄ›kdy setkÃ¡me...~
+@19   = ~Ano, ale byl jsem jen v patÅ™e pÅ™Ã­mo nad tÃ­mto. NemÄ›l jsem odvahu jÃ­t skrze portÃ¡l. Ano, schody jsou pryÄ a mÃ­sto nich stojÃ­ portÃ¡l.~
+@20   = ~A tam nahoÅ™e jsou tÃ©Å¾ dvÄ› Å¾eny, obÄ› zmraÅ¾enÃ© StÅ™epem HvÄ›zdy. VypadajÃ­ jako dryÃ¡dy... Äi co. Jako vÅ¡e zmrzlÃ© jsou velmi kÅ™ehkÃ©. MÅ¯Å¾eÅ¡ je zabÃ­t jakoukoliv zbranÃ­, ale jak jsem zjistil, kouzelnÃ½ led je ÄinÃ­ imunnÃ­mi vÅ¯Äi nÄ›kterÃ½m kouzlÅ¯m. Snad je mÅ¯Å¾eÅ¡ i osvobodit, ale to jsem nezkouÅ¡el, Äili nevÃ­m jak.~
+@21   = ~JistÄ›. ZmÃ­nil jsi "StÅ™ep HvÄ›zdy". To je nÄ›jakÃ½ druh stroje? Tian nÃ¡m o Å¾Ã¡dnÃ©m takovÃ©m zaÅ™Ã­zenÃ­ neÅ™Ã­kal.~
+@22   = ~V poÅ™Ã¡dku, slyÅ¡el jsem dost. UvidÃ­m, co se dÃ¡ dÄ›lat. MoÅ¾nÃ¡ mÅ¯Å¾u ten StÅ™ep HvÄ›zdy zniÄit. Pokud uspÄ›ji, budeÅ¡ koneÄnÄ› moci uniknout z tohoto vÄ›zenÃ­. MoÅ¾nÃ¡ se opÄ›t nÄ›kdy setkÃ¡me, nÄ›kde v Athkatle? Kdo vÃ­... Do tÃ© doby se opatruj.~
+@23   = ~DÃ­ky. DoufÃ¡m, Å¾e uspÄ›jeÅ¡, nechci zde zÅ¯stat vÄ›ÄnÄ›. NechÅ¥ tÄ› bohovÃ© ochraÅˆujÃ­.~
+@24   = ~Copak? ZmÄ›nil jsi nÃ¡zor?~
+@25   = ~Ano. UÅ¾ tÄ› znÃ¡m, tak mi Å™ekni, co zde dÄ›lÃ¡Å¡?~
 @26   = ~Ne, jen to kontroluji tady kolem.~
-@27   = ~Nech tì opatruje Helm. Budu vìøit, e udìláš správnou vìc...~
-@28   = ~Vì klamu - Uvìznìnı knìz
+@27   = ~NechÅ¥ tÄ› opatruje Helm. Budu vÄ›Å™it, Å¾e udÄ›lÃ¡Å¡ sprÃ¡vnou vÄ›c...~
+@28   = ~VÄ›Å¾ klamu - UvÄ›znÄ›nÃ½ knÄ›z
 
-Potkal jsem Gulina, Helmova knìze, kterı zde byl nìkolik posledních mìsícù uvìznìn. Mluvil o velkém krystalu, Støepu Hvìzdy, kterı vytváøí neviditelnou teleportaèní sí, je nás všechny drí uvnitø. Povídal té, e Støep Hvìzdy je dùvodem, proè jsou všechny èelní dvìøe zamèené. Vypadá to, e jen a bude Støep Hvìzdy znièen, najdeme nìjaké monosti útìku. 
-Té øíkal nìco o zmrzlıch dryádách, které se nachází v horním podlaí. Moná je budu moci osvobodit...~
+Potkal jsem Gulina, Helmova knÄ›ze, kterÃ½ zde byl nÄ›kolik poslednÃ­ch mÄ›sÃ­cÅ¯ uvÄ›znÄ›n. Mluvil o velkÃ©m krystalu, StÅ™epu HvÄ›zdy, kterÃ½ vytvÃ¡Å™Ã­ neviditelnou teleportaÄnÃ­ sÃ­Å¥, jeÅ¾ nÃ¡s vÅ¡echny drÅ¾Ã­ uvnitÅ™. PovÃ­dal tÃ©Å¾, Å¾e StÅ™ep HvÄ›zdy je dÅ¯vodem, proÄ jsou vÅ¡echny ÄelnÃ­ dvÄ›Å™e zamÄenÃ©. VypadÃ¡ to, Å¾e jen aÅ¾ bude StÅ™ep HvÄ›zdy zniÄen, najdeme nÄ›jakÃ© moÅ¾nosti ÃºtÄ›ku. 
+TÃ©Å¾ Å™Ã­kal nÄ›co o zmrzlÃ½ch dryÃ¡dÃ¡ch, kterÃ© se nachÃ¡zÃ­ v hornÃ­m podlaÅ¾Ã­. MoÅ¾nÃ¡ je budu moci osvobodit...~
 
-@29   = ~Mùeš mi o téhle vìi øíci více?~
-@30   = ~O vìi? Nue dobrá. Vìøím, e jsem se bìhem svého uvìznìní dozvìdìl dost a znalost ti mùe bıt k uitku.~
-@31   = ~Kdy zlı kouzelník githyanki Ustrain pøed lety postavil svou vì, nevìdìl, e si budou námoøníci plést svìtlo jeho magického Støepu Hvìzdy na vršku vìe se stráním ohnìm majáku. Svìtlo pøivedlo mnoho z nich ke zkáze.~
-@32   = ~Ale Ustraina to nezajímalo. Smál se jejich situaci a pokraèoval ve své ohavné práci. Uíval sílu Støepu Hvìzdy, aby unesl tvory a cestovatele uprostøed teleportace... tak unesl mì.~
-@33   = ~Jednoho dne se ale objevili jeho vlastní lidé, aby kouzelníka githyanki zavlekli zpìt do jeho domovské Astrální sféry. Od té doby se neukázal.~
-@34   = ~Ale jeho vì zùstává. Nejene za mlnıch nocí dále šálí námoøníky, ale magie Støepu Hvìzdy pokraèuje v jeho zlém schématu únosù.~
-@35   = ~Pùvodnì Ustrain zotroèil nebo okradl obìti, které mu Støep pøinesl. Ale s odchodem githyanki zùstávají uvìznìni v této zlé vìi dokud nejsou schopni vymyslet plán útìku nebo nezemøou. Budeš muset bıt opatrnı, abys netrpìl jejich zlobou.~
+@29   = ~MÅ¯Å¾eÅ¡ mi o tÃ©hle vÄ›Å¾i Å™Ã­ci vÃ­ce?~
+@30   = ~O vÄ›Å¾i? NuÅ¾e dobrÃ¡. VÄ›Å™Ã­m, Å¾e jsem se bÄ›hem svÃ©ho uvÄ›znÄ›nÃ­ dozvÄ›dÄ›l dost a znalost ti mÅ¯Å¾e bÃ½t k uÅ¾itku.~
+@31   = ~KdyÅ¾ zlÃ½ kouzelnÃ­k githyanki Ustrain pÅ™ed lety postavil svou vÄ›Å¾, nevÄ›dÄ›l, Å¾e si budou nÃ¡moÅ™nÃ­ci plÃ©st svÄ›tlo jeho magickÃ©ho StÅ™epu HvÄ›zdy na vrÅ¡ku vÄ›Å¾e se strÃ¡Å¾nÃ­m ohnÄ›m majÃ¡ku. SvÄ›tlo pÅ™ivedlo mnoho z nich ke zkÃ¡ze.~
+@32   = ~Ale Ustraina to nezajÃ­malo. SmÃ¡l se jejich situaci a pokraÄoval ve svÃ© ohavnÃ© prÃ¡ci. UÅ¾Ã­val sÃ­lu StÅ™epu HvÄ›zdy, aby unesl tvory a cestovatele uprostÅ™ed teleportace... tak unesl mÄ›.~
+@33   = ~Jednoho dne se ale objevili jeho vlastnÃ­ lidÃ©, aby kouzelnÃ­ka githyanki zavlekli zpÄ›t do jeho domovskÃ© AstrÃ¡lnÃ­ sfÃ©ry. Od tÃ© doby se neukÃ¡zal.~
+@34   = ~Ale jeho vÄ›Å¾ zÅ¯stÃ¡vÃ¡. NejenÅ¾e za mlÅ¾nÃ½ch nocÃ­ dÃ¡le Å¡Ã¡lÃ­ nÃ¡moÅ™nÃ­ky, ale magie StÅ™epu HvÄ›zdy pokraÄuje v jeho zlÃ©m schÃ©matu ÃºnosÅ¯.~
+@35   = ~PÅ¯vodnÄ› Ustrain zotroÄil nebo okradl obÄ›ti, kterÃ© mu StÅ™ep pÅ™inesl. Ale s odchodem githyanki zÅ¯stÃ¡vajÃ­ uvÄ›znÄ›ni v tÃ©to zlÃ© vÄ›Å¾i dokud nejsou schopni vymyslet plÃ¡n ÃºtÄ›ku nebo nezemÅ™ou. BudeÅ¡ muset bÃ½t opatrnÃ½, abys netrpÄ›l jejich zlobou.~

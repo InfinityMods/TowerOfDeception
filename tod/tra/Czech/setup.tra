@@ -1,36 +1,36 @@
-@0    = ~Podvodníci!!~
+@0    = ~PodvodnÃ­ci!!~
 @1    = ~Vrazi!!~
-@2    = ~Krátce po vstupu do tohoto patra ti došlo, e tohle byla Ustrainova stará pracovna ...~
-@3    = ~Neviditelná síla blokující schody zmizela. Cesta je nyní volná.~
-@4    = ~Zabil jsi jednu z vìzeòkyò. Mìla-li nìjaké cenné informace, u se je nedozvíš. Navíc je teï nemoné osvobodit druhou uvìznìnou.~
-@5    = ~Obì vìzeòkynì jsou mrtvé. Jaká škoda.~
-@6    = ~Pøítomnost ostøí ve tvém batohu a smrt jejího stráce spustila teleportaci do horních pater vìe... Ji není cesty zpìt...~
-@7    = ~Musím bránit Støep hvìzdy...~
-@8    = ~Smrt Wistemach odblokovala všechny vıchody.~
-@9    = ~Gulin zamkl vstupní dveøe do vìe pro pøípad, e by nìkdo chtìl do ní vejít a rušit starobylé zlo spící uvnitø...~
-@10   = ~Tohle je nìjakı druh spínaèe. Tøeba by mohl zajistit, aby ta koule bleskù pøestala vytváøet všechny ty blesky.~
-@11   = ~Koule bleskù se vypnula, jakmile jsi pøepnul spínaè.~
-@12   = ~Opìtovné pøepnutí spínaèe by jistì zase spustilo zaøízení a tím i další tvorbu bleskù. Nebylo by tedy moc moudré ho znova zapínat.~
-@13   = ~Jsi pøíliš daleko, abys to mohl pouít.~
-@14   = ~Tento jednosmìrnı teleport ústí, dle toho, co vidíš skrz, do neznámé kobky èi jeskynì, nejspíše nìkde pod vìí...~
-@15   = ~Portál tì násilnì teleportoval do neznámé kobky. Musíš chvíli poèkat, ne zase popadneš dech.~
-@16   = ~Jsi pøíliš daleko, abys to mohl pouít.~
-@17   = ~Vì klamu - Pøepadeni zombiemi
+@2    = ~KrÃ¡tce po vstupu do tohoto patra ti doÅ¡lo, Å¾e tohle byla Ustrainova starÃ¡ pracovna ...~
+@3    = ~NeviditelnÃ¡ sÃ­la blokujÃ­cÃ­ schody zmizela. Cesta je nynÃ­ volnÃ¡.~
+@4    = ~Zabil jsi jednu z vÄ›zeÅˆkyÅˆ. MÄ›la-li nÄ›jakÃ© cennÃ© informace, uÅ¾ se je nedozvÃ­Å¡. NavÃ­c je teÄ nemoÅ¾nÃ© osvobodit druhou uvÄ›znÄ›nou.~
+@5    = ~ObÄ› vÄ›zeÅˆkynÄ› jsou mrtvÃ©. JakÃ¡ Å¡koda.~
+@6    = ~PÅ™Ã­tomnost ostÅ™Ã­ ve tvÃ©m batohu a smrt jejÃ­ho strÃ¡Å¾ce spustila teleportaci do hornÃ­ch pater vÄ›Å¾e... JiÅ¾ nenÃ­ cesty zpÄ›t...~
+@7    = ~MusÃ­m brÃ¡nit StÅ™ep hvÄ›zdy...~
+@8    = ~Smrt Wistemach odblokovala vÅ¡echny vÃ½chody.~
+@9    = ~Gulin zamkl vstupnÃ­ dveÅ™e do vÄ›Å¾e pro pÅ™Ã­pad, Å¾e by nÄ›kdo chtÄ›l do nÃ­ vejÃ­t a ruÅ¡it starobylÃ© zlo spÃ­cÃ­ uvnitÅ™...~
+@10   = ~Tohle je nÄ›jakÃ½ druh spÃ­naÄe. TÅ™eba by mohl zajistit, aby ta koule bleskÅ¯ pÅ™estala vytvÃ¡Å™et vÅ¡echny ty blesky.~
+@11   = ~Koule bleskÅ¯ se vypnula, jakmile jsi pÅ™epnul spÃ­naÄ.~
+@12   = ~OpÄ›tovnÃ© pÅ™epnutÃ­ spÃ­naÄe by jistÄ› zase spustilo zaÅ™Ã­zenÃ­ a tÃ­m i dalÅ¡Ã­ tvorbu bleskÅ¯. Nebylo by tedy moc moudrÃ© ho znova zapÃ­nat.~
+@13   = ~Jsi pÅ™Ã­liÅ¡ daleko, abys to mohl pouÅ¾Ã­t.~
+@14   = ~Tento jednosmÄ›rnÃ½ teleport ÃºstÃ­, dle toho, co vidÃ­Å¡ skrz, do neznÃ¡mÃ© kobky Äi jeskynÄ›, nejspÃ­Å¡e nÄ›kde pod vÄ›Å¾Ã­...~
+@15   = ~PortÃ¡l tÄ› nÃ¡silnÄ› teleportoval do neznÃ¡mÃ© kobky. MusÃ­Å¡ chvÃ­li poÄkat, neÅ¾ zase popadneÅ¡ dech.~
+@16   = ~Jsi pÅ™Ã­liÅ¡ daleko, abys to mohl pouÅ¾Ã­t.~
+@17   = ~VÄ›Å¾ klamu - PÅ™epadeni zombiemi
 
-Kapitán Kergo nás dovezl na ostrov, ale po vylodìní jsme byli pøepadeni nìkolika moøskımi zombiemi. Zjevily se odnikud, ale nepøedstavovaly pro nás ádné nebezpeèí. Obávám se ale vìtší hrozby: mám pocit jako by nás obøí vì sledovala...~
+KapitÃ¡n Kergo nÃ¡s dovezl na ostrov, ale po vylodÄ›nÃ­ jsme byli pÅ™epadeni nÄ›kolika moÅ™skÃ½mi zombiemi. Zjevily se odnikud, ale nepÅ™edstavovaly pro nÃ¡s Å¾Ã¡dnÃ© nebezpeÄÃ­. ObÃ¡vÃ¡m se ale vÄ›tÅ¡Ã­ hrozby: mÃ¡m pocit jako by nÃ¡s obÅ™Ã­ vÄ›Å¾ sledovala...~
 
-@18   = ~Vì klamu -  Baloarova smrt
+@18   = ~VÄ›Å¾ klamu -  Baloarova smrt
 
-Porazil jsem Baloara, stráce vìe. Domníval se, e jsem ho vyhledal kvùli pomstì za jeho dávné skutky. To samozøejmì nebyla pravda, ale nedal mi šanci to vyjasnit, take jsem ho rychle zabil.
-Poté jsem ovšem shledal, e všechny vstupní dveøe jsou zamèeny. Budu muset najít jinou cestu ven.~
+Porazil jsem Baloara, strÃ¡Å¾ce vÄ›Å¾e. DomnÃ­val se, Å¾e jsem ho vyhledal kvÅ¯li pomstÄ› za jeho dÃ¡vnÃ© skutky. To samozÅ™ejmÄ› nebyla pravda, ale nedal mi Å¡anci to vyjasnit, takÅ¾e jsem ho rychle zabil.
+PotÃ© jsem ovÅ¡em shledal, Å¾e vÅ¡echny vstupnÃ­ dveÅ™e jsou zamÄeny. Budu muset najÃ­t jinou cestu ven.~
 
-@19   = ~Vì klamu - Pøed koneènou bitvou
+@19   = ~VÄ›Å¾ klamu - PÅ™ed koneÄnou bitvou
 
-Získal jsem ostøí, a zdá se, e po smrti Sluebníka jsem byl teleportován do Ustrainovy lonice. Teï zbıvá udìlat dvì poslední vìci: zabít Stráce Astralního krystal a znièit Astrální krystal samotnı.~
+ZÃ­skal jsem ostÅ™Ã­, a zdÃ¡ se, Å¾e po smrti SluÅ¾ebnÃ­ka jsem byl teleportovÃ¡n do Ustrainovy loÅ¾nice. TeÄ zbÃ½vÃ¡ udÄ›lat dvÄ› poslednÃ­ vÄ›ci: zabÃ­t StrÃ¡Å¾ce AstralnÃ­ho krystal a zniÄit AstrÃ¡lnÃ­ krystal samotnÃ½.~
 
-@99   = ~Gulinùv duch zamkl vstupní dveøe do vìe pro pøípad, e by nìkdo chtìl do ní vejít a rušit starobylé zlo spící uvnitø...~
+@99   = ~GulinÅ¯v duch zamkl vstupnÃ­ dveÅ™e do vÄ›Å¾e pro pÅ™Ã­pad, Å¾e by nÄ›kdo chtÄ›l do nÃ­ vejÃ­t a ruÅ¡it starobylÃ© zlo spÃ­cÃ­ uvnitÅ™...~
 @100  = ~Vez Klamu~
-@101  = ~Nevypada to, e bys mel nainstalovany datadisk Throne of Bhaal.~
+@101  = ~Nevypada to, Å¾e bys mel nainstalovany datadisk Throne of Bhaal.~
 @102  = ~Rozsiruji existujici herni skripty...~
 @103  = ~Instalace filmu...~
 @104  = ~Setup musi pro dokonceni instalace umistit film do archivu a aktualizovat Chitin.key. Prosim o trpelivost.~
@@ -39,68 +39,68 @@ Získal jsem ostøí, a zdá se, e po smrti Sluebníka jsem byl teleportován do Ust
 @107  = ~Nevypada to, ze bys mel nainstalovany mod Vez Klamu~
 @108  = ~Setkani s Ustrainem~
 
-@200  = ~Stará zaprášená kniha~
+@200  = ~StarÃ¡ zaprÃ¡Å¡enÃ¡ kniha~
 @201  = ~Ustrainova kniha kouzel~
-@202  = ~Záprášená kniha vázána v kùi zdobená ornamenty. Vyzaøuje nìjakı druh magické energie.~
-@203  = ~Ustrainova kniha kouzel je známı svazek sepsanı mágem Ustrain. Píše se v nìm o nejtemnìjších tajemstvích nekromancie, vyvolávání pekelnıch démonù, a jinıch sloitıch kouzlech a schopnostech. Kniha je však magicky zapeèetìna, a protoe nikdo ve tvé druinì nevládne dostateènou mocí, schopnou odstranit všechny magické peèetì, je ti kniha k nièemu. ~
+@202  = ~ZÃ¡prÃ¡Å¡enÃ¡ kniha vÃ¡zÃ¡na v kÅ¯Å¾i zdobenÃ¡ ornamenty. VyzaÅ™uje nÄ›jakÃ½ druh magickÃ© energie.~
+@203  = ~Ustrainova kniha kouzel je znÃ¡mÃ½ svazek sepsanÃ½ mÃ¡gem Ustrain. PÃ­Å¡e se v nÄ›m o nejtemnÄ›jÅ¡Ã­ch tajemstvÃ­ch nekromancie, vyvolÃ¡vÃ¡nÃ­ pekelnÃ½ch dÃ©monÅ¯, a jinÃ½ch sloÅ¾itÃ½ch kouzlech a schopnostech. Kniha je vÅ¡ak magicky zapeÄetÄ›na, a protoÅ¾e nikdo ve tvÃ© druÅ¾inÄ› nevlÃ¡dne dostateÄnou mocÃ­, schopnou odstranit vÅ¡echny magickÃ© peÄetÄ›, je ti kniha k niÄemu. ~
 
-@300  = ~Váleèná èepel soumraku~
-@301  = ~Obouruèní meè +5: Váleèná èepel soumraku
-Legendy praví, e tato èepel byla zkuta pøed dávnımi èasy bìhem Doby Nesnází, kteráto po potøebì takovıch zbraní pøímo volala. Vykován severskımi øemeslníky z oèarované oceli, kteøí do ní vloili všechnu svou lásku pro vše dobré a všechnu svou nenávist pro vše zlé, záøí stále jako vyleštìné støíbro. Bez ohledu na morální neèistotu tìch, je trestá, se èepel vdy dokonale leskne a vyzaøuje namodralé svìtlo, které se proplétá, míhá a jiskøí po celé délce èepele.
+@300  = ~VÃ¡leÄnÃ¡ Äepel soumraku~
+@301  = ~ObouruÄnÃ­ meÄ +5: VÃ¡leÄnÃ¡ Äepel soumraku
+Legendy pravÃ­, Å¾e tato Äepel byla zkuta pÅ™ed dÃ¡vnÃ½mi Äasy bÄ›hem Doby NesnÃ¡zÃ­, kterÃ¡Å¾to po potÅ™ebÄ› takovÃ½ch zbranÃ­ pÅ™Ã­mo volala. VykovÃ¡n severskÃ½mi Å™emeslnÃ­ky z oÄarovanÃ© oceli, kteÅ™Ã­ do nÃ­ vloÅ¾ili vÅ¡echnu svou lÃ¡sku pro vÅ¡e dobrÃ© a vÅ¡echnu svou nenÃ¡vist pro vÅ¡e zlÃ©, zÃ¡Å™Ã­ stÃ¡le jako vyleÅ¡tÄ›nÃ© stÅ™Ã­bro. Bez ohledu na morÃ¡lnÃ­ neÄistotu tÄ›ch, jeÅ¾ trestÃ¡, se Äepel vÅ¾dy dokonale leskne a vyzaÅ™uje namodralÃ© svÄ›tlo, kterÃ© se proplÃ©tÃ¡, mÃ­hÃ¡ a jiskÅ™Ã­ po celÃ© dÃ©lce Äepele.
 
-Váleèná èepel je inteligentní, jejím hlavním cílem je porazit všechno zlo. V boji dokáe urèovat nepøítelovo pøesvìdèení, a pokud zjistí, e protivník je zlé povahy, zpùsobí mu dodateèná zranìní. Také zvyšuje dritelovu schopnost ovládat magii a sesílat kouzla. Obèas testuje majitelovu mysl a inteligenci, a jestlie ten sele, je zde šance, e dritel zbranì propadne zuøivosti.
+VÃ¡leÄnÃ¡ Äepel je inteligentnÃ­, jejÃ­m hlavnÃ­m cÃ­lem je porazit vÅ¡echno zlo. V boji dokÃ¡Å¾e urÄovat nepÅ™Ã­telovo pÅ™esvÄ›dÄenÃ­, a pokud zjistÃ­, Å¾e protivnÃ­k je zlÃ© povahy, zpÅ¯sobÃ­ mu dodateÄnÃ¡ zranÄ›nÃ­. TakÃ© zvyÅ¡uje drÅ¾itelovu schopnost ovlÃ¡dat magii a sesÃ­lat kouzla. ObÄas testuje majitelovu mysl a inteligenci, a jestliÅ¾e ten selÅ¾e, je zde Å¡ance, Å¾e drÅ¾itel zbranÄ› propadne zuÅ™ivosti.
 
 VLASTNOSTI:
 
 Schopnosti v boji:
-- Zranìní chaoticky zlım protivníkùm: +5
-- Šance, e pøi úspìšném zásahu bude dritel meèe zachvácen zuøivostí na 10 kol: 5%
+- ZranÄ›nÃ­ chaoticky zlÃ½m protivnÃ­kÅ¯m: +5
+- Å ance, Å¾e pÅ™i ÃºspÄ›Å¡nÃ©m zÃ¡sahu bude drÅ¾itel meÄe zachvÃ¡cen zuÅ™ivostÃ­ na 10 kol: 5%
 
-Zvláštní schopnosti:
-- Posílení svatou mocí dvakrát dennì
-- Sesílání dvou kouzel za kolo
-- Odolnost vùèi magii: 30%
+ZvlÃ¡Å¡tnÃ­ schopnosti:
+- PosÃ­lenÃ­ svatou mocÃ­ dvakrÃ¡t dennÄ›
+- SesÃ­lÃ¡nÃ­ dvou kouzel za kolo
+- Odolnost vÅ¯Äi magii: 30%
 - Obratnosti: -1
 
 THAC0: +5
-Zranìní: 1K12 +5 (seèné)
+ZranÄ›nÃ­: 1K12 +5 (seÄnÃ©)
 Rychlost: 5
-Druh dovednosti: obouruèní meè
-Druh: obouruèní 
-Vyaduje:
-Síla 15
+Druh dovednosti: obouruÄnÃ­ meÄ
+Druh: obouruÄnÃ­ 
+VyÅ¾aduje:
+SÃ­la 15
 Inteligence 16
 
-Váha: 30
+VÃ¡ha: 30
 
-Nemùe pouívat:
-Postava zlého pøesvìdèení
+NemÅ¯Å¾e pouÅ¾Ã­vat:
+Postava zlÃ©ho pÅ™esvÄ›dÄenÃ­
 Druid
-Knìz
-Mág
-Zlodìj
+KnÄ›z
+MÃ¡g
+ZlodÄ›j
 Mnich
 Bard~
 
-@400  = ~Støep hvìzdy~
+@400  = ~StÅ™ep hvÄ›zdy~
 @401  = ~Baloar~
 
 @403  = ~Gulin~
 @404  = ~Gulin Murth~
-@405  = ~Kapitán Kergo~
-@406  = ~Sluebník~
-@407  = ~Stráce Støepu hvìzdy~
+@405  = ~KapitÃ¡n Kergo~
+@406  = ~SluÅ¾ebnÃ­k~
+@407  = ~StrÃ¡Å¾ce StÅ™epu hvÄ›zdy~
 @408  = ~Pandaira~
-@409  = ~Vìzeò~
+@409  = ~VÄ›zeÅˆ~
 @410  = ~Duch~
-@411  = ~Pán stínù~
-@412  = ~Stín~
+@411  = ~PÃ¡n stÃ­nÅ¯~
+@412  = ~StÃ­n~
 @413  = ~Tian~
 @414  = ~Wistemach~
-@415  = ~Moøská zombie~
+@415  = ~MoÅ™skÃ¡ zombie~
 @416  = ~Ustrain~
 @417  = ~Co to sakra...~
-@418  = ~Pøiprav se!~
-@419  = ~Správnì, mistøe.~
-@420  = ~Ano, mistøe.~
-@421  = ~Jak porouèíš, mistøe.~
+@418  = ~PÅ™iprav se!~
+@419  = ~SprÃ¡vnÄ›, mistÅ™e.~
+@420  = ~Ano, mistÅ™e.~
+@421  = ~Jak porouÄÃ­Å¡, mistÅ™e.~

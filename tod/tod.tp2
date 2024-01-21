@@ -1,28 +1,19 @@
- BACKUP ~tod/backup~
+ BACKUP ~weidu_external/tod/backup~
 
 //AUTHOR ~Valiant (kiski@centrum.sk)~
 SUPPORT ~http://forums.blackwyrmlair.net/index.php?showforum=117, http://gibberlings3.net/forums, http://www.shsforums.net, https://forums.beamdog.com~
 
-VERSION ~v4.0.7~
+VERSION ~v4.0.8~
 
 README ~%MOD_FOLDER%/tod-readme.htm~
 
-AUTO_TRA ~%MOD_FOLDER%/Tra/%s~
-
 ALWAYS
   // Convert strings to UTF-8 for Enhanced Edition
-
-  // setup.tra needs to be reloaded after conversion
-  ACTION_DEFINE_ARRAY va#reload BEGIN setup END
-
-  LAF HANDLE_CHARSETS // recursively converts all tra files found in tra_path
-    INT_VAR
-      infer_charsets = 1
-    STR_VAR
-      tra_path = EVAL ~%MOD_FOLDER%/tra~
-      reload_array = va#reload
-  END
+  INCLUDE "%MOD_FOLDER%/lib/handle_charsets_utf8.tph"
+  LAF handle_charsets_utf8 RET out_path END
 END
+
+AUTO_TRA "%out_path%/%s"
 
 // Don't use %MOD_FOLDER% for LANGUAGE until it will be fixed, https://forums.pocketplane.net/index.php?topic=29956.msg340386#msg340386
 LANGUAGE ~English~                                                        ~English~  ~tod/tra/English/setup.tra~
@@ -36,26 +27,26 @@ LANGUAGE ~Polish (translated by Grzebul and Cuttooth)~                    ~Polis
 LANGUAGE ~Chinese~                                                        ~Schinese~ ~tod/tra/Schinese/setup.tra~
 
 BEGIN @100
-REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
+  REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 
-/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-/////                                                  \\\\\
-/////            Tower of Deception Mod                \\\\\
-/////                                                  \\\\\
-/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
-/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+  /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+  /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+  /////                                                  \\\\\
+  /////            Tower of Deception Mod                \\\\\
+  /////                                                  \\\\\
+  /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+  /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-////////////////////////
-// Appending MASTAREA //
-////////////////////////
+  ////////////////////////
+  // Appending MASTAREA //
+  ////////////////////////
 
   APPEND ~MASTAREA.2da~ ~va#mov  value~
   APPEND ~MASTAREA.2da~ ~va#001  value~
 
-///////////////////
-// Copying Files //
-///////////////////
+  ///////////////////
+  // Copying Files //
+  ///////////////////
 
   COPY ~%MOD_FOLDER%/Are~ 		~override~
   COPY ~%MOD_FOLDER%/Bam~ 		~override~
@@ -66,9 +57,9 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   COPY ~%MOD_FOLDER%/Wav~ 		~override~
   COPY ~%MOD_FOLDER%/Wed~ 		~override~
 
-////////////////////
-// Compiling Bafs //
-////////////////////
+  ////////////////////
+  // Compiling Bafs //
+  ////////////////////
 
   APPEND ~State.ids~ ~0x8010202D RZ_STATE_DISABLED~     //helpless, stunned, sleeping, charmed, feeblemindnes, confusion, panic
   UNLESS ~0x8010202D[ %TAB%]+RZ_STATE_DISABLED~
@@ -84,8 +75,8 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 
   COPY_EXISTING ~damages.ids~ ~override~
     REPLACE_TEXTUALLY ~^0x0001 \(.+\)$~
-~IDS V1.0
-0x0001 \1~
+    ~IDS V1.0
+    0x0001 \1~
   UNLESS ~^IDS V1\.0~
 
   APPEND ~Spell.ids~ ~4732 HELM_TRUE_SIGHT~
@@ -96,9 +87,9 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 
   COMPILE ~%MOD_FOLDER%/Baf~
 
-////////////////////////////////
-// Extending Existing Scripts //
-////////////////////////////////
+  ////////////////////////////////
+  // Extending Existing Scripts //
+  ////////////////////////////////
 
   PRINT @102
 
@@ -110,15 +101,15 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 
   EXTEND_TOP ~ar0021.bcs~ ~%MOD_FOLDER%/AppendBaf/ar0004.baf~ // also add to AR0021.bcs in case a mod patches AR0021.ARE to point to it instead
 
-///////////////////////
-// Compiling Dialogs //
-///////////////////////
+  ///////////////////////
+  // Compiling Dialogs //
+  ///////////////////////
 
   COMPILE ~%MOD_FOLDER%/Dialog~
 
-///////////////////
-// Copying Items //
-///////////////////
+  ///////////////////
+  // Copying Items //
+  ///////////////////
 
   COPY ~%MOD_FOLDER%/Itm/va#book.itm~     ~override/va#book.itm~
     SAY NAME1 @200
@@ -134,14 +125,14 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
     COPY ~%MOD_FOLDER%/Itm/%res%.itm~     ~override/%res%.itm~
   END
 
-///////////////////////
-// Copying Creatures //
-///////////////////////
+  ///////////////////////
+  // Copying Creatures //
+  ///////////////////////
 
   COPY ~%MOD_FOLDER%/Cre/copy~            ~override~
 
   ACTION_DEFINE_ASSOCIATIVE_ARRAY cre_assoc_array BEGIN
-  //uniq-id, name1, name2 => cre
+    //uniq-id, name1, name2 => cre
     a, 400, 400 => va#astsd // Astral Shard
     b, 401, 401 => va#balor // Baloar
     c, 403, 404 => va#gulin // Gulin, Gulin Murth
@@ -169,9 +160,9 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
       SAY NAME2 ( AT "%values_2%" ) // e.g. @404 for va#gulin
   END
 
-////////////////////////
-// EE JOURNAL ENTRIES //
-////////////////////////
+  ////////////////////////
+  // EE JOURNAL ENTRIES //
+  ////////////////////////
 
   ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
     ADD_JOURNAL @17 @18 @19  @28  @30  @40 @41 @42 @43 @44 @45 @46 @47 @48 @49
@@ -183,9 +174,9 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
   // @30 - va#panda.tra
   // @40 @41 @42 @43 @44 @45 @46 @47 @48 @49 - va#tian.tra
 
-////////////////////////
-// Movie Installation //
-////////////////////////
+  ////////////////////////
+  // Movie Installation //
+  ////////////////////////
 
   PRINT @103
 
@@ -199,21 +190,21 @@ REQUIRE_PREDICATE GAME_IS ~BGT TOB BG2EE EET~ @101 // ToB required
 
   PRINT @105
 
-////////////////////////////////////
-// Improved Astral Shard Guardian //
-////////////////////////////////////
+  ////////////////////////////////////
+  // Improved Astral Shard Guardian //
+  ////////////////////////////////////
 
 BEGIN @106
-REQUIRE_FILE ~override/va#tod.nul~ @107 // ToD required
+  REQUIRE_FILE ~override/va#tod.nul~ @107 // ToD required
 
   COMPILE ~%MOD_FOLDER%/ImpASG/va#maril.baf~   ~override/va#maril.bcs~
 
-////////////////////////////
-// Encounter with Ustrain //
-////////////////////////////
+  ////////////////////////////
+  // Encounter with Ustrain //
+  ////////////////////////////
 
 BEGIN @108
-REQUIRE_FILE ~override/va#tod.nul~ @107 // ToD required
+  REQUIRE_FILE ~override/va#tod.nul~ @107 // ToD required
 
   EXTEND_TOP ~baldur.BCS~ ~tod\Ustrain2\baldur.BAF~
   EXTEND_TOP ~baldur25.BCS~ ~tod\Ustrain2\baldur.BAF~
