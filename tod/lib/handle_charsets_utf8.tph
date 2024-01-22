@@ -5,14 +5,14 @@ Wrapper for HANDLE_CHARSETS with UFT8 as default. Code taken from charset_wrappe
 Features:
  - UFT8 as default
  - out_path changed to weidu_external/%MOD_FOLDER%/lang
- - support 'lang', 'language, or 'tra' out-of-the-box
+ - support 'lang', 'languages', or 'tra' out-of-the-box
  - no dependencies and ability to run without AUTO_EVAL_STRINGS
  - copies files over to weidu_external/%MOD_FOLDER%/lang, whether or not conversion is required
  - makes sure all tra are present by using default-language ones if preferred-language ones aren't available
 
 Usage:
  - default_language: the language the mod is written in, if it's not English
- - tra_path: the location of your tra files if it's not 'lang', 'language, or 'tra'
+ - tra_path: the location of your tra files if it's not 'lang', 'languages', or 'tra'
  - setup_tra: the tra file you keep component names in, if it's not setup.tra
  - load: a space-separated list of tra files you want always to load (the .tra is optional)
 
@@ -26,24 +26,24 @@ DEFINE_ACTION_FUNCTION handle_charsets_utf8
         default_language="english" // set to whatever language you wrote the mod in
         setup_tra="setup" // set to whatever you're keeping your WEIDU installation strings in
         load="" // set to a space-separated list of any tra files you want loaded
-        tra_path="" // if it's not 'lang', 'language, or 'tra'
+        tra_path="" // if it's not 'lang', 'languages', or 'tra'
     RET 
         out_path
     BEGIN
         OUTER_SPRINT out_path "weidu_external/%MOD_FOLDER%/lang"
         // find the tra location
         ACTION_IF "%tra_path%" STR_EQ "" BEGIN
-            // try to guess 'lang', 'language, or 'tra'
+            // try to guess 'lang', 'languages', or 'tra'
             ACTION_IF DIRECTORY_EXISTS "%MOD_FOLDER%/lang" BEGIN
                 OUTER_SPRINT tra_path "%MOD_FOLDER%/lang"
             END ELSE
-            ACTION_IF DIRECTORY_EXISTS "%MOD_FOLDER%/language" BEGIN
-                OUTER_SPRINT tra_path "%MOD_FOLDER%/language"
+            ACTION_IF DIRECTORY_EXISTS "%MOD_FOLDER%/languages" BEGIN
+                OUTER_SPRINT tra_path "%MOD_FOLDER%/languages"
             END ELSE
             ACTION_IF DIRECTORY_EXISTS "%MOD_FOLDER%/tra" BEGIN
                 OUTER_SPRINT tra_path "%MOD_FOLDER%/tra"
             END ELSE BEGIN
-                FAIL "handle_charsets_utf8 error: you didn't specify tra_path and it's not 'lang', 'language, or 'tra'."
+                FAIL "handle_charsets_utf8 error: you didn't specify tra_path and it's not 'lang', 'languages', or 'tra'."
             END
         END ELSE
         // add '%MOD_FOLDER%' if it's not there already
