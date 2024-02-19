@@ -27,7 +27,7 @@ DEFINE_ACTION_FUNCTION handle_charsets_utf8
         setup_tra="setup" // set to whatever you're keeping your WEIDU installation strings in
         load="" // set to a space-separated list of any tra files you want loaded
         tra_path="" // if it's not 'lang', 'languages', or 'tra'
-    RET 
+    RET
         out_path
     BEGIN
         OUTER_SPRINT out_path "weidu_external/%MOD_FOLDER%/lang"
